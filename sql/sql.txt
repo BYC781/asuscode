@@ -1,0 +1,23 @@
+WITH mem AS(
+SELECT *
+FROM `asus-data-and-insights-team.RFM_background_raw_data_eu.asus_member_eu` 
+WHERE Country_2D = 'DK'
+),
+
+reg AS(
+SELECT *  
+FROM `asus-data-and-insights-team.RFM_background_raw_data_eu.product_registration_eu` 
+WHERE Country_3D = 'DNK'
+)
+
+SELECT
+    mem.Cus_id AS ID,
+    mem.EDMSubscriber AS EDMSub,
+    mem.EDM_Target AS EMDTar,
+    reg.register_date AS register_date,
+    reg.BG_Name,
+    reg.product_line,
+    reg.item
+FROM mem
+LEFT JOIN reg
+ON mem.Cus_id = reg.Cus_id

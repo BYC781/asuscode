@@ -1,0 +1,1824 @@
+,brand,title,url,price,star,starNum,feature,productDscrp,view_url
+0,造訪 Dell 品牌旗艦店,"Dell 觸控螢幕 15.6 吋 Inspiron 筆記型電腦,附 Windows 11 Pro,全高清 IPS 顯示器,Intel 四核心 i5 處理器,20GB RAM,1TB SSD,HDMI,網路攝影機,黑色",https://www.amazon.com/-/zh_TW/sspa/click?ie=UTF8&spc=MTo0NjQ0NjIzMzM0MDc2NDk6MTY5NzA5MjM4MzpzcF9hdGY6MzAwMDYwMzcxODkzNTAyOjowOjo&url=%2FInspiron-%25E7%25AD%2586%25E8%25A8%2598%25E5%259E%258B%25E9%259B%25BB%25E8%2585%25A6-Windows-Intel-%25E7%25B6%25B2%25E8%25B7%25AF%25E6%2594%259D%25E5%25BD%25B1%25E6%25A9%259F%2Fdp%2FB0BXGDJGGG%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Ddell%26qid%3D1697092383%26refinements%3Dp_89%253Adell%26s%3Delectronics%26sr%3D1-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1,649.99,4.2,11,"品牌: Dell
+型號名稱: Dell Inspiron
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 1 TB
+CPU 型號: Core i5
+已安裝隨機存取記憶體大小: 20 GB
+作業系統: Windows 11 Pro
+查看更多","顯示器:15.6 吋 FHD (1920 x 1080) 防眩光觸控螢幕 IPS 顯示器處理器:Intel 四核心 i5-1035G1 處理器(4 核心、6MB 快取、8 執行緒、1.0 GHz 的基本頻率、最高渦輪速度高達 3.6 GHz)記憶體:20GB DDR4 SDRAMHard Drive: 1TB SSLTB 加劇系統: 視窗 11 個專業觸控螢幕:YesScreen 解析度:1920 x 1080連接埠和插槽:2x USB 3.2 Gen 1 Type-A 1x USB 2.0 Type-A 1x SD 讀卡機 1x HDMI 輸出 1.4b 1x 耳機/麥克風組合插孔視訊:Intel UHD 圖形音訊:立體聲喇叭媒體硬碟:多格式 SD 媒體卡讀卡機光碟機光碟機光碟機:無。 連接性: 80 連接性: 2.11ac 1x1 WiFi 和藍牙內建 HD 網路攝像頭,附麥克風:Yes電池:3 芯、42 瓦時、集成電池藍牙:Yes重量:3.82 磅尺寸:14.11/英吋長 x 9.27/英吋寬 x 0.74/英吋高顏色:黑色",https://www.amazon.com/-/zh_TW/Inspiron-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-Windows-Intel-%E7%B6%B2%E8%B7%AF%E6%94%9D%E5%BD%B1%E6%A9%9F/product-reviews/B0BXGDJGGG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+1,造訪 Dell 品牌旗艦店,"Dell 2022 最新 Inspiron 15 筆記型電腦,15.6 吋 HD 顯示器,Intel Celeron N4020 處理器,16GB DDR4 RAM,1TB PCIe SSD,網路攝影機,HDMI,Wi-Fi,藍牙,Windows 11 Home 黑色",https://www.amazon.com/-/zh_TW/Inspiron-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-Intel-Celeron-Windows/dp/B0B2KPXKJ7/ref=sr_1_2?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-2,437.99,4.1,466,"品牌: Dell
+型號名稱: Inspiron
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 1 TB
+CPU 型號: Celeron N4020
+已安裝隨機存取記憶體大小: 16 GB
+作業系統: Windows 11 Home
+查看更多","主要特點和優點:
+CPU:Intel Celeron N4020 雙核心處理器(2 核心、2 個執行緒、4MB 快取記憶體、1.1 GHz 的基本頻率高達 2.8GHz)
+記憶體:高達 16GB DDR4 SDRAM
+硬碟:高達 1TB PCIe NVMe M.2 固態硬碟。
+作業系統:Windows 11 Home
+顯示器:15.6 吋 HD (1366 x 768) 防眩光LED背光非觸控顯示器
+螢幕解析度:1366 x 768
+連接埠:
+1 個 USB 2.0
+2 個 USB 3.1 Gen 1
+1 個 HDMI 1.4b
+1 個耳機和麥克風組合
+1 個電源插孔
+媒體磁碟機:多格式 SD 媒體讀卡機
+影片:Intel UHD 顯示卡
+音訊:立體聲喇叭
+光碟機:無
+無線連接:802.11ac 1x1 Wi-Fi 和藍牙
+內建 HD 網路攝影機,附麥克風:是
+電池:3 芯、42 瓦時、集成電池
+重量:4 磅
+顏色:黑色",https://www.amazon.com/-/zh_TW/Inspiron-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-Intel-Celeron-Windows/product-reviews/B0B2KPXKJ7/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+2,造訪 Amazon Renewed 品牌旗艦店,"Dell 戴爾 Optiplex 9020 小型桌上型電腦,搭載 Intel Core i7-4770 高達 3.9GHz,HD Graphics 4600 4K 支援,32GB RAM,1TB SSD,DisplayPort,HDMI,Wi-Fi,藍牙 - Windows 10 Pro(翻新)",https://www.amazon.com/-/zh_TW/Optiplex-9020-%E5%B0%8F%E5%9E%8B%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-Graphics-DisplayPort/dp/B08BJDFZRF/ref=sr_1_3?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-3,207.99,4.1,2702,"產品特定用途: 日常使用, 多媒體, 照片編輯
+品牌: Dell
+個人電腦設計類型: Computer Tower
+作業系統: Windows 10
+記憶體儲存容量: 1 TB
+螢幕尺寸: 6.1 Inches
+已安裝隨機存取記憶體大小: 32 GB
+型號名稱: Optiplex
+查看更多",,https://www.amazon.com/-/zh_TW/Optiplex-9020-%E5%B0%8F%E5%9E%8B%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-Graphics-DisplayPort/product-reviews/B08BJDFZRF/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+3,造訪 Dell 品牌旗艦店,Dell 戴爾 XPS 8950 桌上型電腦 - 第 12 代 Intel Core i7-12700、32GB DDR5 RAM、512GB SSD + 1TB HDD、Intel UHD 770 圖形、Killer Wi-Fi 6、空氣冷卻、Windows 11 Pro - 黑色,https://www.amazon.com/-/zh_TW/Dell-8950-%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-i7-12700%E3%80%8132GB-6%E3%80%81%E7%A9%BA%E6%B0%A3%E5%86%B7%E5%8D%BB%E3%80%81Windows/dp/B09VR7ZJL1/ref=sr_1_4?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-4,,3.8,243,"產品特定用途: 多媒體, 遊戲, 个人
+品牌: Dell
+個人電腦設計類型: Computer Tower
+作業系統: Windows 11 Pro
+記憶體儲存容量: 1000 GB
+已安裝隨機存取記憶體大小: 32 GB
+查看更多",,https://www.amazon.com/-/zh_TW/Dell-8950-%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-i7-12700%E3%80%8132GB-6%E3%80%81%E7%A9%BA%E6%B0%A3%E5%86%B7%E5%8D%BB%E3%80%81Windows/product-reviews/B09VR7ZJL1/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+4,造訪 Amazon Renewed 品牌旗艦店,"Dell OptiPlex 電腦桌上型電腦 Intel Core i5 第三代 3.2 GHz,16GB RAM,2TB HDD,全新 22 吋 LED 顯示器,RGB 鍵盤和滑鼠,WiFi,Windows 10 Pro(翻新)",https://www.amazon.com/-/zh_TW/OptiPlex-%E9%9B%BB%E8%85%A6%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-Intel-%E9%8D%B5%E7%9B%A4%E5%92%8C%E6%BB%91%E9%BC%A0-Windows/dp/B09TN242Q5/ref=sr_1_5?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-5,198.0,3.8,2021,"產品特定用途: 遊戲
+品牌: Dell
+個人電腦設計類型: Computer Tower
+作業系統: Windows 10 Pro
+記憶體儲存容量: 2 TB
+螢幕尺寸: 22
+已安裝隨機存取記憶體大小: 16 GB
+型號名稱: Optiplex
+查看更多","- 全新 Dell 專業桌上型電腦 搭載 Intel Quad Core i5 3.2 GHz 處理器、16 GB RAM、2 TB 硬碟、Windows 10 Pro
+- WiFi 轉接器 - USB WiFi
+- 全新 22 吋 1080P FHD(1920x1080) LED 顯示器
+- USB RGB 鍵盤
+- USB RGB 滑鼠
+- RGB 喇叭
+每一個元件都經過完整的功能和相容性測試,以確保多年的持續性能和可靠性。 外部化妝品恢復到類似的新狀態,幾乎沒有看到以前使用的跡象。 Microsoft Windows 10 的全新真實安裝採用數位呈現的全新啟用授權,在首次使用時即可輕鬆安全地啟動。
+PC 配置規格
+-型號:Dell 專業桌上型電腦
+- CPU:Intel Quad Core i5 處理器
+- RAM:16 GB
+- 硬碟:2 TB HDD SATA
+- 作業系統:Windows 10 PRO
+- USB:(6) USB 2.0 (2)USB 3.0 連接埠連接使用
+- 網路:內建 Gigabit 網路轉接器
+* 這款電腦套組將在您家門口,隨時開箱即用,包括所有必要的電纜。
+這款 Dell 專業桌上型電腦最初專為企業環境中大量使用而設計,具有比任何典型零售型號更高品質、更先進的元件進行全面更新。 這款電腦非常適合商務、家庭和學校,由 Microsoft 授權翻新商進行專業翻新。",https://www.amazon.com/-/zh_TW/OptiPlex-%E9%9B%BB%E8%85%A6%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-Intel-%E9%8D%B5%E7%9B%A4%E5%92%8C%E6%BB%91%E9%BC%A0-Windows/product-reviews/B09TN242Q5/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+5,造訪 Dell 品牌旗艦店,Dell 戴爾 XPS 13 9310 觸控螢幕筆記型電腦 13.5 吋 FHD+ 輕薄。Intel Core i7-1195G7、16GB LPDDR4x RAM、512GB SSD、Intel Iris Xe Graphics、Windows 11 Pro、2 年上站、6 個月遷移 – 銀色,https://www.amazon.com/-/zh_TW/%E8%A7%B8%E6%8E%A7%E8%9E%A2%E5%B9%95%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i7-1195G7%E3%80%8116GB-RAM%E3%80%81512GB-SSD%E3%80%81Intel-Graphics%E3%80%81Windows/dp/B09DFKQL8K/ref=sr_1_6?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-6,,4.4,202,"品牌: Dell
+型號名稱: Dell XPS
+螢幕尺寸: 13.4 Inches
+顏色: 銀色
+硬碟大小: 512 GB
+CPU 型號: Intel Core i7 1185G7
+已安裝隨機存取記憶體大小: 12 MB
+查看更多",,https://www.amazon.com/-/zh_TW/%E8%A7%B8%E6%8E%A7%E8%9E%A2%E5%B9%95%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i7-1195G7%E3%80%8116GB-RAM%E3%80%81512GB-SSD%E3%80%81Intel-Graphics%E3%80%81Windows/product-reviews/B09DFKQL8K/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+6,造訪 Dell 品牌旗艦店,"Dell 戴爾 UltraSharp U2723QE 27 吋 4K UHD WLED LCD 螢幕 - 16:9 - 黑色,銀色",https://www.amazon.com/-/zh_TW/Dell-UltraSharp-U2723QE-UHD-WLED/dp/B09TQZP9CL/ref=sr_1_7?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-7,519.22,4.4,393,"螢幕尺寸: 27 Inches
+顯示器解析度上限: 3840 x 2160 Pixels
+品牌: Dell
+特殊功能: 傾斜調整、旋轉調整、樞軸調整、高度調整、藍光濾鏡
+更新率: 60 Hz","出色的視覺效果
+卓越的對比度:在全球首款採用 IPS 黑色技術的 27 吋 4K 顯示器上,體驗令人難以置信的色彩和卓越的黑色性能。
+增強眼睛舒適度
+ComfortView Plus i - 一個始終開啟的內建低藍光螢幕 - 減少潛在有害藍光排放,而不會影響顏色。
+真正閃耀
+在這款 4K 顯示器上查看精細細節,使用 98% DCI-P3 和 VESA DisplayHDR™ 400 享受逼真的色彩。
+您的連線中心
+快速啟動生產力:使用 Power Sync 功能喚醒筆記型電腦並開啟電源。
+
+增強連線能力:透過廣泛的連接連接埠,包括 USB-C (高達 90W 電源傳輸)、RJ45 (乙太網路)、DP1.4 和 HDMI,簡化您的工作空間。 快速存取 USB-C (高達 15W 的電源充電)和超高速 USB 10Gpbs 連接埠,可輕鬆連接和快速數據傳輸。
+
+更有序的工作空間:單線 USB-C 連接提供連接到多供應商 USB-C 系統的靈活性,減少電纜雜亂,並實現從桌面快速轉換。
+
+網路就緒:內建 MAC 位址直通、PXE Boot 和 Wake-on-LAN 網路喚醒功能增強管理性。
+已解鎖生產力
+多任務更好:連接到兩個 PC 電源,Auto KVM 將無縫切換到第二個連接的電腦。 使用 KVM (鍵盤、視訊和滑鼠) 功能來控制單一滑鼠和鍵盤的電腦。
+
+在一個螢幕上查看更多內容:透過子母畫(PiP)和子母畫(PbP)檢視兩個 PC 來源的內容。
+
+擴大您的生產力:透過菊花鏈接兩個 4K 顯示器體驗無與倫比的畫質。 U2723QE 是全球首款 27 吋 4K 顯示器,透過支援 USB-C 的顯示串流壓縮 (DSC) 以完整解析度連接額外的 4K 螢幕。
+精心製作
+設計目的:採用優質鉑金銀色表面和優雅的電纜管理系統,可減少雜亂,是專為任何工作空間而設計的螢幕。
+
+易於使用:透過方便的操縱桿控制導航菜單並調整螢幕設置。
+舒適設計
+傾斜、旋轉、旋轉和調整螢幕高度,讓您無論您最舒適的工作方式。
+Dell 顯示器管理器
+每個層級都有生產力:Easy Arrange 可讓您輕鬆地在一個或多個螢幕上平鋪多個應用程式,並能夠個性化多達 5 個視窗,為您提供更好的多任務處理能力。",https://www.amazon.com/-/zh_TW/Dell-UltraSharp-U2723QE-UHD-WLED/product-reviews/B09TQZP9CL/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+7,造訪 Amazon Renewed 品牌旗艦店,"Dell OptiPlex 7050 微型電腦,Intel 四核心 i5-6500T 高達 3.1GHz ,16G DDR4,256G SSD,Windows 10 Pro 64 位元多語言支援英文/西班牙文/法文(續約 ) )",https://www.amazon.com/-/zh_TW/OptiPlex-7050-i5-6500T-Windows-%E4%BD%8D%E5%85%83%E5%A4%9A%E8%AA%9E%E8%A8%80%E6%94%AF%E6%8F%B4%E8%8B%B1%E6%96%87/dp/B08GCX4JKJ/ref=sr_1_8?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-8,132.98,4.1,295,"產品特定用途: Everyday Use
+品牌: Dell
+個人電腦設計類型: Mini PC
+作業系統: Windows 10 Pro
+記憶體儲存容量: 256 GB
+已安裝隨機存取記憶體大小: 16 GB
+型號名稱: OptiPlex 7050 Micro
+查看更多",,https://www.amazon.com/-/zh_TW/OptiPlex-7050-i5-6500T-Windows-%E4%BD%8D%E5%85%83%E5%A4%9A%E8%AA%9E%E8%A8%80%E6%94%AF%E6%8F%B4%E8%8B%B1%E6%96%87/product-reviews/B08GCX4JKJ/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+8,造訪 Dell 品牌旗艦店,"Dell 戴爾 XPS 13 9310 筆記型電腦 - 13.5 吋 OLED 3.5K (3456x2160) 觸控螢幕顯示器,Intel Core i7-1195G7,16GB LPDDR4x RAM,512G SSD,Iris Xe Graphics,1 年頂級支援,Windows 11 Home - 白色",https://www.amazon.com/-/zh_TW/Dell-XPS-9310-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-3456x2160/dp/B09PR52BHK/ref=sr_1_9?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-9,,4.1,29,"品牌: Dell
+型號名稱: XPS9310-7321WHT-SUS
+螢幕尺寸: 13.4 Inches
+顏色: 白色
+硬碟大小: 512 GB
+CPU 型號: Core i7 Family
+已安裝隨機存取記憶體大小: 16 GB
+作業系統: Windows 11 Home
+查看更多",,https://www.amazon.com/-/zh_TW/Dell-XPS-9310-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-3456x2160/product-reviews/B09PR52BHK/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+9,造訪 Dell 品牌旗艦店,Dell 戴爾 Inspiron 15 3000 15.6 吋 Full HD 第 11 代 Intel Core i5-1135G7 12GB 256GB SSD 筆記型電腦,https://www.amazon.com/-/zh_TW/Inspiron-Intel-i5-1135G7-256GB-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6/dp/B095RZ62BX/ref=sr_1_10?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-10,468.0,4.1,512,"品牌: Dell
+型號名稱: Dell Inspiron
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 256 GB
+CPU 型號: Core i5
+已安裝隨機存取記憶體大小: 12 GB
+作業系統: Windows 10
+查看更多","戴爾輕薄強大的筆記型電腦,隨時隨地實現更多目標。 Dell Inspiron 15 3000筆記型電腦配備強大的 Intel Core i5-1135G7 四核心處理器、12GB RAM 和 256GB SSD 儲存空間。 這款便攜式設備快速高效,配備 15.6 吋 Full HD IPS 顯示器。
+卓越性能
+有了第 11 代 Intel Core i5-1135G7 四核處理器和 12GB RAM 記憶體,您可以利用卓越的生產力,並繼續進行驚人的電池備份。
+令人驚嘆的景觀
+配備 15.6 吋 Full HD 1920x1080 IPS 顯示器,所有娛樂和創意項目都能閃耀。 編輯照片並以完美的清晰度串流媒體。
+時尚設計
+輕鬆將這款輕薄的 PC 從一個房間到另一個房間或路上。 隨身攜帶,看起來銳利。
+規格
+第 11 代 Intel Corei5-1135G7 四核處理器 2.4Ghz
+12GB 2666DDR4 SDRAM
+256GB 固態硬碟
+15.6 吋 Full HD 1920x1080 IPS 顯示器
+Intel Iris Xe Graphics
+802.11ac 無線和藍牙
+整合式立體聲喇叭
+帶數字鍵盤的鍵盤
+10/100/1000 Gigabit 乙太網路連接埠
+整合式網路攝影機,附雙數位麥克風陣列
+數位媒體閱讀器
+耳機/麥克風組合插孔
+3 合 1 SD 媒體讀卡機
+2 個 USB 3.2 Type A 連接埠
+1 個 USB 3.2 Type C 連接埠
+1 個 USB 2.0
+1 個 HDMI
+3 芯鋰電池
+Microsoft Windows 10 作業系統(S 模式)
+表面處理:黑色",https://www.amazon.com/-/zh_TW/Inspiron-Intel-i5-1135G7-256GB-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6/product-reviews/B095RZ62BX/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+10,造訪 Dell 品牌旗艦店,Dell Pro KM5221W 鍵盤與滑鼠,https://www.amazon.com/-/zh_TW/KM5221W-Dell-Pro-%E9%8D%B5%E7%9B%A4%E8%88%87%E6%BB%91%E9%BC%A0/dp/B08W2CJBC9/ref=sr_1_11?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-11,42.99,4.3,1413,"品牌: Dell
+顏色: 黑色
+連線技術: wireless
+特殊功能: 無線
+相容裝置: PC",,https://www.amazon.com/-/zh_TW/KM5221W-Dell-Pro-%E9%8D%B5%E7%9B%A4%E8%88%87%E6%BB%91%E9%BC%A0/product-reviews/B08W2CJBC9/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+11,造訪 Dell 品牌旗艦店,"Dell Inspiron 14 5425 非觸控筆記型電腦 - 14 吋 FHD+ (1920 x 1200)、AMD Ryzen7 5825U、8GB DDR4 RAM、512GB SSD、AMD Radeon Graphics, Windows 11 Pro、2 年現場 + 6 個月遷移 - 鵝卵石綠色",https://www.amazon.com/-/zh_TW/Dell-Inspiron-5425-%E9%9D%9E%E8%A7%B8%E6%8E%A7%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-5825U%E3%80%818GB/dp/B01MXJ8DDQ/ref=sr_1_12?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-12,538.0,4.1,88,"品牌: Dell
+型號名稱: Inspiron 14 5425
+螢幕尺寸: 14 Inches
+顏色: 卵石綠
+硬碟大小: 512 GB
+CPU 型號: AMD Ryzen 7
+已安裝隨機存取記憶體大小: 8 GB
+作業系統: Windows 11 Pro
+查看更多",,https://www.amazon.com/-/zh_TW/Dell-Inspiron-5425-%E9%9D%9E%E8%A7%B8%E6%8E%A7%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-5825U%E3%80%818GB/product-reviews/B01MXJ8DDQ/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+12,造訪 Dell 品牌旗艦店,Dell PY408 Black Toner Cartridge 1720dn Laser Printer,https://www.amazon.com/-/zh_TW/sspa/click?ie=UTF8&spc=MTo0NjQ0NjIzMzM0MDc2NDk6MTY5NzA5MjM4MzpzcF9tdGY6MjAwMDQ3NjE0MjM3NDk4OjowOjo&url=%2FPY408%2Fdp%2FB004DE3G2S%2Fref%3Dsr_1_13_sspa%3Fkeywords%3Ddell%26qid%3D1697092383%26refinements%3Dp_89%253Adell%26s%3Delectronics%26sr%3D1-13-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1,117.08,4.6,17,"品牌: Dell
+顏色: Black
+商品重量: 1.04 公斤
+包含的元件: 1 x Dell Use and Return Toner Cartridge (OEM# 310-8699 310-8706) (3000 Yield)
+相容裝置: Dell Laser Printer - 1720, Dell Laser Printer - 1720DN","3,000 page Black Toner Cartridge (U&R) for Dell 1720dn Laser Printer",https://www.amazon.com/-/zh_TW/PY408/product-reviews/B004DE3G2S/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+13,品牌：DELL,"Dell Vostro 3910 商用桌上型電腦,第 12 代 Intel Core i5-12400 處理器,16GB DDR4 RAM,256GB PCIe SSD + 1TB HDD,WiFi 6,DVD-RW,顯示埠,HDMI,Windows 11 Pro,黑色",https://www.amazon.com/-/zh_TW/sspa/click?ie=UTF8&spc=MTo0NjQ0NjIzMzM0MDc2NDk6MTY5NzA5MjM4MzpzcF9tdGY6MzAwMDA0NDQxNTUxNDAyOjowOjo&url=%2FVostro-3910-%25E5%2595%2586%25E7%2594%25A8%25E6%25A1%258C%25E4%25B8%258A%25E5%259E%258B%25E9%259B%25BB%25E8%2585%25A6-i5-12400-Windows%2Fdp%2FB0C8WYB2F8%2Fref%3Dsr_1_14_sspa%3Fkeywords%3Ddell%26qid%3D1697092383%26refinements%3Dp_89%253Adell%26s%3Delectronics%26sr%3D1-14-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1,629.99,4.1,16,"產品特定用途: 桌上型電腦、業務
+品牌: DELL
+作業系統: Windows 11
+記憶體儲存容量: 256 GB
+已安裝隨機存取記憶體大小: 16 GB
+型號名稱: Vostro
+查看更多","處理器:第 12 代 Intel Core i5-12400 (18 MB 快取記憶體、6 核心、12 個執行緒、2.50 GHz 至 4.40 GHz Turbo) 顯示卡:整合式 Intel UHD 作業系統:Windows 11 Pro、64 位元、英文記憶體:16GB DDR4 RAM 硬碟:256GB PCIe M.2 固態硬碟 + 1TB 硬碟光碟機:纖薄 駕駛緊急彈出針孔。 讀取並寫入 CD 和 DVD 。 連接埠:正面:2 x USB 2.0 2 x USB 3.2 Gen 1 1 x 耳機/麥克風組合插孔(3.5 公釐) 背面:2 x USB 2.0 2 x USB 3.2 Gen 1 x 音訊輸出輸出 1 x HDMI 1.4b (HDMI 支援最大解析度為 1920x1200 @60 赫茲。 無 4K/2K 輸出) 1 個 DisplayPort 1.4 1 個 RJ-45 乙太網路 1 個 AC 電源連接埠 連接:藍牙無線卡 鍵盤:戴爾黑色有線鍵盤,英國(QWERTY)- 有線滑鼠包含媒體驅動器: 無電源:Dell 180W (最大電源),80 Plus 青銅認證,符合 RoHS 標準電源(Type G 電源線 英國)顏色:黑色 尺寸 長 x 寬 x 高 (英吋):11.50 x 6.06 x 12.77 重量:15 磅",https://www.amazon.com/-/zh_TW/Vostro-3910-%E5%95%86%E7%94%A8%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-12400-Windows/product-reviews/B0C8WYB2F8/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+14,品牌：Dell,"Dell Inspiron 3511 筆記型電腦,15.6 吋 Full HD 觸控螢幕,Intel Core i5-1135G7(比 Intel i7-1065G7),16GB DDR4 RAM,512GB PCIe SSD,SD 卡讀卡機,HDMI,Wi-Fi,Windows 11 家用,黑色",https://www.amazon.com/-/zh_TW/sspa/click?ie=UTF8&spc=MTo0NjQ0NjIzMzM0MDc2NDk6MTY5NzA5MjM4MzpzcF9tdGY6MzAwMDU4ODkwMjU2NTAyOjowOjo&url=%2FInspiron-3511-i5-1135G7-i7-1065G7-Windows%2Fdp%2FB0BRT5ZBN5%2Fref%3Dsr_1_15_sspa%3Fkeywords%3Ddell%26qid%3D1697092383%26refinements%3Dp_89%253Adell%26s%3Delectronics%26sr%3D1-15-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1,576.0,4.2,56,"品牌: Dell
+型號名稱: Inspiron
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 512 GB
+CPU 型號: Core i5 Family
+已安裝隨機存取記憶體大小: 16 GB
+作業系統: Windows 11 Home
+查看更多","主要特點和優點:
+CPU:Intel Core i5-1135G7 (4 核心、8 個執行緒、8MB 快取記憶體、2.40 GHz 基本頻率,最大渦輪頻率高達 4.20 GHz)
+記憶體:高達 32GB DDR4 SDRAM
+硬碟:高達 2TB PCIe NVMe M.2 固態硬碟。
+作業系統:Windows 11 Home
+顯示器:15.6""對角 FHD (1920 x 1080)防眩光LED背光窄邊框WVA觸摸屏
+觸控螢幕:是
+連接埠:
+1 個 USB 2.0 Type-A
+2 個 USB 3.2 Gen 1 Type-A
+1 個 HDMI 1.4
+1 個耳機/麥克風組合插孔
+1 個 SD 讀卡器
+1 個電源適配器
+圖形:Intel Iris Xe 顯示卡
+背光鍵盤:無
+媒體磁碟機:是
+光碟機: 無
+無線連接:Wi-Fi 和藍牙組合
+網路攝影機:720p HD 攝影機
+尺寸:14 x 9.5 x 0.7 英吋
+重量:3.5 磅(約 1.7
+顏色:黑色",https://www.amazon.com/-/zh_TW/Inspiron-3511-i5-1135G7-i7-1065G7-Windows/product-reviews/B0BRT5ZBN5/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+15,造訪 Amazon Renewed 品牌旗艦店,"Dell OptiPlex 7040 Tower Computers Desktop PC,32GB DDR4 New 512GB M.2 NVMe SSD+1TB HDD, AX210 Built-in WiFi 6e Bluetooth 5.3,Intel i5-6500 3.2GHz,Refurbished Computer Tower,Windows 10 Pro(Renewed)",https://www.amazon.com/-/zh_TW/OptiPlex-7040/dp/B0C9PX4L8X/ref=sr_1_16?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-16,269.59,No star,0,"產品特定用途: Business
+品牌: Dell
+個人電腦設計類型: Computer Tower
+作業系統: Windows 10 Pro
+記憶體儲存容量: 512 GB
+已安裝隨機存取記憶體大小: 32 GB
+查看更多","Dell OptiPlex 7040 Desktop Computer PC Description:
+
+Dell OptiPlex 7040 tower computers provide you reliable performance in your home and office. This computer tower features Intel quard Core i5-6600 processor, which helps to run multiple instructions at the same time. This desktop tower has a 1TB M.2 NVMe SSD and an additional 1TB HDD for reliability, make this refurbished desktop computer a great fit for an business office PC, this computer tower enables increased your efficiency. Experience lightning-fast internet speeds with the built-in AX210 Wi-Fi 6e and Bluetooth 5.3 connectivity on this pc tower. Also this dell desktop tower with 2 DisplayPort and 1 HDMI connectivity for greater visibility of your tasks, the desktop computer tower can support 3 monitors.Rest assured, this dell OptiPlex 7040 desktop computers have been professionally renewed, undergoing rigorous testing and inspection to ensure optimal performance and reliability.
+
+Tower Computers Dell OptiPlex 7040 Desktop PC Specifications
+
+Processor: Intel Quad Core i5-6600 6th Generation
+
+Base CPU frequency: 3.3GHz
+
+Max Turbo CPU frequency : 3.9GHz
+
+CPU Cache: 6MB
+
+Ram installed: 32GB
+
+Hard Drive Installed: New 1TB NVMe M.2 SSD+1TB HDD
+
+Graphics: Intel HD 530 Graphics
+
+Video Ports: 1 x HDMI Port, 2 x Display Port
+
+USB 3.0 Ports: 6
+
+USB 2.0 Ports: 4
+
+Ethernet: Gigabyte 10/100/1000, RJ-45
+
+Wireless Connectivity: High Speed AX210 Built-in WIFI 6e(Latest WIFI technology)
+
+Optical Drive: DVDRW
+
+Item Dimension : 14.17” * 6.88"" * 17.11""
+
+Item Weight: 25.7lbs
+
+Operating System: Windows 10 Pro 64-bit
+
+What you will get?
+
+1 x Computer Tower
+
+1 x Altec Wireless keyboard and mouse
+
+1 x RGB Speaker as gift
+
+1 x Technical Support",No review
+16,造訪 Dell 品牌旗艦店,Dell UltraSharp U3423WE 34 吋 WQHD 曲面螢幕 WLED LCD 螢幕 - 21:9,https://www.amazon.com/-/zh_TW/Dell-UltraSharp-U3423WE-WQHD-%E6%9B%B2%E9%9D%A2%E8%9E%A2%E5%B9%95/dp/B0BJZ3YNN5/ref=sr_1_17?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-17,644.11,5.0,2,"螢幕尺寸: 34.1 Inches
+顯示器解析度上限: 3440 x 1440 Pixels
+品牌: Dell
+特殊功能: 旋轉調整, USB埠, 高度調整, 內置揚聲器, 曲面, 傾斜度調整
+更新率: 80 Hz",,https://www.amazon.com/-/zh_TW/Dell-UltraSharp-U3423WE-WQHD-%E6%9B%B2%E9%9D%A2%E8%9E%A2%E5%B9%95/product-reviews/B0BJZ3YNN5/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+17,造訪 Amazon Renewed 品牌旗艦店,"Dell OptiPlex 7070 Desktop Computers Windows 11, 9th Gen Intel 6 Core i5-9500, 32GB DDR4 Ram 512GB SSD, Wireless Built-in WiFi 6e AX210, Bluetooth 5.2, Dule Monitor Support(Renewed)",https://www.amazon.com/-/zh_TW/7070/dp/B0CCFBHGPV/ref=sr_1_18?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-18,471.2,No star,0,"產品特定用途: Personal
+品牌: Dell
+個人電腦設計類型: Computer Tower
+作業系統: Windows 11 Pro
+記憶體儲存容量: 32 GB
+已安裝隨機存取記憶體大小: 32 GB
+查看更多","Dell OptiPlex 7070 Small Form Factor PC Description: Ideal for financial or design office, dell OptiPlex 7070 desktop computers windows 11 with conveniently compact design that performs in any environment. This refurbished pc equip powerful Intel Hexa Core i5-9500 3.0GHz Turbo 4.40GHz and integrated Intel UHD Graphics 630 graphic, make this windows 11 desktop computer possible to connect dual monitor for boost your multi-tasking. Moreover, this Windows 11 PC comes with 512GB M.2 NVMe SSD to store important files and applications, support more faster Boot speed and faster storage rates. Furthermore ,rich interfaces on this dell optiplex windows 11 Quickly connect to your devices and networks with support of up to three monitors and two native DisplayPorts. suitable for both work from home and business computing,power that performs Dell Computer OptiPlex 7070 SFF Specifications: CPU: Intel 6 Core i5-9500 3.0Ghz CPU Cache: 9 MB Core: 6 Core Threads: 6 Threads Operating system :Windows 11 Pro Memory: 32GB DDR4 Hard Drive: 512GB NVMe M.2 SSD Video Graphic Card: Intel UHD Graphics 630 USB 3.0 Ports: 5 USB 2.0 Ports: 4 USB USB 3.1 Type C Port: 1 Display Port: 2 RJ-45 port: 1 WIFI:Intel AX210 Built-in WIFI 6E(Latest WIFI Technology)Please remember only order from TITAN ITAD to get a refurbished pc with AX210 Built-in WIFI Mouse/Keyboard:Altec brand new wireless keyboard and mouse Dimension: 3.7"" x 11.4"" x 11.5"" Weight:11.6lbs What will you get?: 1 x Dell computer 5070 SFF 1 x Altec new wireless keyboard and mouse 1 x TJJ large mouse pad Techinical Support",No review
+18,造訪 Dell 品牌旗艦店,"Dell ThunderBolt 4 擴充座 (WD22TB4),黑色",https://www.amazon.com/-/zh_TW/Dell-ThunderBolt-%E6%93%B4%E5%85%85%E5%BA%A7-WD22TB4-%E9%BB%91%E8%89%B2/dp/B0B7P6ZNFB/ref=sr_1_19?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-19,160.88,4.2,80,"品牌: Dell
+顏色: 黑色
+硬體介面: Ethernet
+相容裝置: Dell, USB A, USB C, HDMI, Thunderbolt, Windows 11, Windows 10
+USB 連接埠總數: 2
+商品尺寸，長 x 寬 x 高: 28 x 246 x 165 毫米
+連接埠數量: 4
+查看更多","Dell Thunderbolt™ 底座 – WD22TB4:模組化雷栓底座,附可更換模組,便於升級,SuperBoost 技術可快速充電。",https://www.amazon.com/-/zh_TW/Dell-ThunderBolt-%E6%93%B4%E5%85%85%E5%BA%A7-WD22TB4-%E9%BB%91%E8%89%B2/product-reviews/B0B7P6ZNFB/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+19,造訪 Dell 品牌旗艦店,"Dell 最新 Inspiron 15 3511 筆記型電腦,15.6 吋 FHD 觸控螢幕,Intel Core i5-1035G1,32GB RAM,1TB PCIe NVMe M.2 SSD,SD 卡讀卡機,網路攝影機,HDMI,WiFi,Windows 11 Home,黑色",https://www.amazon.com/-/zh_TW/Inspiron-3511-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-1035G1-Windows/dp/B0B336K7M5/ref=sr_1_20?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-20,574.77,4.1,120,"品牌: Dell
+型號名稱: Inspiron
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 1 TB
+CPU 型號: Core i5 Family
+已安裝隨機存取記憶體大小: 32 GB
+作業系統: Windows 11
+查看更多","主要功能和優點:
+CPU:Intel Core i5-1035G1 四核心處理器(4 核心、6 MB 快取、8 個執行緒、1.0 GHz 的基本頻率、最高渦輪速度高達 3.6 GHz)
+記憶體:高達 32GB DDR4 RAM
+硬碟:高達 2TB PCIe 固態硬碟
+作業系統:Windows 11 Home
+顯示器:15.6 吋 FHD (1920 x 1080) 防眩光LED 背光窄邊框 WVA 觸控螢幕
+觸控螢幕:是
+連接埠:1 個 SD 卡讀卡機、1 個 USB 2.0、2 個 USB 3.2、1 個 HDMI 1.4、1 個耳機和麥克風音訊插孔
+影片:Intel UHD 顯示卡
+音訊:立體聲喇叭
+媒體磁碟機:SD 媒體讀卡機
+光碟機:無
+無線連線:802.11ac 1x1 WiFi 和藍牙
+電池:3 芯 42Wh,集成電池
+重量:3.5 磅(約 1.7 公斤)
+顏色:黑色",https://www.amazon.com/-/zh_TW/Inspiron-3511-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-1035G1-Windows/product-reviews/B0B336K7M5/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+20,造訪 Dell 品牌旗艦店,"Dell Inspiron 14 5420 筆記型電腦 - 14 吋非觸控顯示器,Intel Core i5-1235U,8GB DDR4 RAM,512GB SSD,Intel UHD Graphics,Intel Wi-Fi 6E,Windows 11 Home - 鉑金銀",https://www.amazon.com/-/zh_TW/Dell-Inspiron-14-5420-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6/dp/B09ZQ4NTTW/ref=sr_1_21?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-21,575.0,4.0,22,"品牌: Dell
+型號名稱: Inspiron 14 5420
+螢幕尺寸: 14 Inches
+顏色: 鉑金
+硬碟大小: 512 GB
+CPU 型號: Core i5 Family
+已安裝隨機存取記憶體大小: 8 GB
+作業系統: Windows 11 Home
+查看更多",,https://www.amazon.com/-/zh_TW/Dell-Inspiron-14-5420-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6/product-reviews/B09ZQ4NTTW/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+21,造訪 Dell 品牌旗艦店,"戴爾雙充電座 HD22Q - 織物包裝充電座,Type-C 連接器,Qi 啟用充電,底座喚醒,智慧型手機休息,電源按鈕 LED - 磁鐵,黑色",https://www.amazon.com/-/zh_TW/%E6%88%B4%E7%88%BE%E9%9B%99%E5%85%85%E9%9B%BB%E5%BA%A7-HD22Q-%E7%B9%94%E7%89%A9%E5%8C%85%E8%A3%9D%E5%85%85%E9%9B%BB%E5%BA%A7-Type-C-%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E4%BC%91%E6%81%AF/dp/B0B29KTCRV/ref=sr_1_22?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-22,89.99,4.1,47,"品牌: Dell
+顏色: 黑色
+硬體介面: DisplayPort, USB Type C, Ethernet, HDMI
+相容裝置: Inspiron 7420 二合一, Latitude 5310 二合一, Latitude 3330, XPS 13 9310 2 合 1, Inspiron 5420
+USB 連接埠總數: 5
+查看更多",,https://www.amazon.com/-/zh_TW/%E6%88%B4%E7%88%BE%E9%9B%99%E5%85%85%E9%9B%BB%E5%BA%A7-HD22Q-%E7%B9%94%E7%89%A9%E5%8C%85%E8%A3%9D%E5%85%85%E9%9B%BB%E5%BA%A7-Type-C-%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E4%BC%91%E6%81%AF/product-reviews/B0B29KTCRV/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+22,造訪 Dell 品牌旗艦店,"Dell 戴爾 24 螢幕 - P2422H - Full HD 1080p,IPS 技術,ComfortView Plus 技術",https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-24-%E8%9E%A2%E5%B9%95-ComfortView/dp/B096T36G8L/ref=sr_1_23?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-23,179.99,4.5,752,"螢幕尺寸: 24
+顯示器解析度上限: 1920 x 1080 Pixels
+品牌: Dell
+特殊功能: 旋转调节, 防眩光屏, 高度调节, 倾斜调节, 无闪烁
+更新率: 60 Hz",,https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-24-%E8%9E%A2%E5%B9%95-ComfortView/product-reviews/B096T36G8L/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+23,造訪 Dell 品牌旗艦店,"Dell 戴爾 Inspiron 15 3511 15.6 吋筆記型電腦,全高清 LED 非觸控 WVA 顯示器 - Intel Core i3-1115G4,8GB DDR4 RAM,256GB SSD,UHD 顯示卡,Windows 11 Home - 碳黑色",https://www.amazon.com/-/zh_TW/Dell-Inspiron-3511-15-6-%E5%90%8B%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6/dp/B09GYN91J9/ref=sr_1_24?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-24,384.99,4.0,304,"品牌: Dell
+型號名稱: Inspiron 15 3511
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 256 GB
+CPU 型號: Core i3 Family
+已安裝隨機存取記憶體大小: 8 GB
+作業系統: Windows 11 Home
+查看更多","全新的 Inspiron 15 3511 非接觸式筆記型電腦專為保持連線而設計,由最新的 Intel® 處理器。 這款筆記型電腦採用再生塑膠,概述了您和環境。 此外,它的 Energy Star 8.0 認證,採用符合人體工學的升降鉸鏈設計,讓您整天舒適地連接。 Comfortview 低藍光解決方案有助於減少藍光產生的有害排放,並長時間持續的螢幕時間優化眼睛舒適度。 在 15.6 吋筆記型電腦中獲得更多螢幕,採用三面窄邊框,帶來身臨其境的 FHD 觀看體驗。 內建高畫質網路攝影機設計,讓您隨時隨地與社群連線。 這款筆記型電腦具有 ExpressCharge™ 功能,可最大限度地減少您連接到插座的時間,並在短時間內快速為您的電池充電。",https://www.amazon.com/-/zh_TW/Dell-Inspiron-3511-15-6-%E5%90%8B%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6/product-reviews/B09GYN91J9/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+24,造訪 Dell 品牌旗艦店,"Dell S2722QC 27 吋 4K USB-C 顯示器 - UHD (3840 x 2160) 顯示器,60Hz 刷新率,8MS 灰灰至灰回應時間(正常模式),內建雙 3W 喇叭,1.07 億色鉑金銀",https://www.amazon.com/-/zh_TW/Dell-S2722QC-27-USB-C-%E9%A1%AF%E7%A4%BA%E5%99%A8/dp/B09DTDRJWP/ref=sr_1_25?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-25,,4.3,1317,"螢幕尺寸: 27 Inches
+顯示器解析度上限: 3840 x 2160 Pixels
+品牌: Dell
+特殊功能: 高度調整、傾斜調整、旋轉調整、樞軸調整、無閃爍、內建喇叭
+更新率: 60 Hz",,https://www.amazon.com/-/zh_TW/Dell-S2722QC-27-USB-C-%E9%A1%AF%E7%A4%BA%E5%99%A8/product-reviews/B09DTDRJWP/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+25,造訪 Dell 品牌旗艦店,"Dell 戴爾 WD19TB Thunderbolt 擴充基座,附 180W AC 電源整流器(130W 電源傳輸)",https://www.amazon.com/-/zh_TW/Dell-WD19TB-Thunderbolt-%E6%93%B4%E5%85%85%E5%9F%BA%E5%BA%A7-%E9%9B%BB%E6%BA%90%E6%95%B4%E6%B5%81%E5%99%A8/dp/B07RYZTFYD/ref=sr_1_26?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-26,159.99,4.2,425,"品牌: Dell
+顏色: 黑色
+硬體介面: USB
+相容裝置: Dell 筆記型電腦/平板電腦
+USB 連接埠總數: 2
+商品尺寸，長 x 寬 x 高: 20.6 x 8.9 x 2.8 公分
+連接埠數量: 2
+商品重量: 20.63 Ounces
+查看更多","Dell Thunderbolt 底座 -- WD19TB。 相容性:Latitude 3301;Latitude 3390 2 合 1;Latitude 3400;Latitude 3490;Latitude 3500;Latitude 3590。 相容與推薦:Latitude 5280;Latitude 5285;Latitude 5289;Latitude 5290;Latitude 5290 2合1;Latitude 5300;Latitude 5300 2合1;Latitude 5400;Latitude 5401;Latitude 5480;Latitude 5490;Latitude 5490;Latitude 5; Latitude 5; Latitude 5; Latitude 5490;Latitude 5; Latitude 5; Latitude 5490491; Latt Latitude 5500;Latitude 5501;Latitude 5580;Latitude 5590;Latitude 591;Latitude 7200 2 合 1;Latitude 7280;Latitude 7285;Latitude 7300;Latitude 7380;Latitude 7389;Latitude 7390;Latitude 7390;Latitude 二合一 2 合 1;Latitude 7400;Latitude 7400 2 合 1;Latitude 7480;Latitude 7490;Precision 3520;Precision 3530;Precision 3540;Precision 3541;Precision 5520;Precision 5530;Precision 5530 2 合 1;Precision 540;Precision 7520*; 精密 75300 *; Precision 7540*; Precision 7720*; Precision 7730*; Precision 740*; Rugged 5420; Rugged 5424; Rugged 7424; XPS 9360; XPS 9365; XPS 9370; XPS 9380; XPS 9560; XPS 9570; XPS 9570; XPS 9570; XPS 9570; XPS 9570; XPS 9570; XPS 9570; XPS 9570; XPS 9 5. 5. (*精密 7520/7530/7540/7720/7730/7740 的功率需要超過 130W 的功率,因此當與 Dell Dock WD19 (130W/180W) 或 Dell Thunderbolt Dock WD19TB 對接時,工作站電源適配器需要插入以獲得最佳操作。 為了獲得最佳 Precision 7530/7540 或 7730/7740 的體驗,請選擇 Dell Performance Dock WD19DC,附雙 USB-C 連接器,可提供高達 210W 的電源傳輸,因此您不再需要額外的電源轉接器)。 使用 ExpressCharge Boost 在世界上最強大和第一個模塊化的 Thunderbolt 底座上,以未來準備的設計。",https://www.amazon.com/-/zh_TW/Dell-WD19TB-Thunderbolt-%E6%93%B4%E5%85%85%E5%9F%BA%E5%BA%A7-%E9%9B%BB%E6%BA%90%E6%95%B4%E6%B5%81%E5%99%A8/product-reviews/B07RYZTFYD/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+26,造訪 Dell 品牌旗艦店,"Dell 戴爾 27 吋螢幕 FHD (1920 x 1080) 16:9 與 Comfortview (經 UV 認證),75Hz 刷新率,16.7 百萬種顏色,防眩光螢幕,3H 硬度,黑色 - SE2722HX",https://www.amazon.com/-/zh_TW/Dell-%E5%90%8B%E8%9E%A2%E5%B9%95-FHD-1920-1080/dp/B096MYB1H1/ref=sr_1_27?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-27,149.99,4.6,2609,"螢幕尺寸: 27 Inches
+顯示器解析度上限: 1920 x 1080
+品牌: Dell
+特殊功能: 無閃爍, 傾斜調整, 上下傾斜, 無模糊, 不閃屏, 防眩光。
+更新率: 75 Hz",,https://www.amazon.com/-/zh_TW/Dell-%E5%90%8B%E8%9E%A2%E5%B9%95-FHD-1920-1080/product-reviews/B096MYB1H1/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+27,造訪 Dell 品牌旗艦店,Dell Inspiron 15 3000 3520 15.6 吋 FHD 觸控螢幕(Intel 4核心 i5-1135G7、16GB RAM、512GB PCIe SSD、UHD Graphics) 商務筆記型電腦、WVA 防眩光、數字鍵盤、網路攝影機、Wi-Fi、Win 11 Home,https://www.amazon.com/-/zh_TW/Inspiron-3520-i5-1135G7%E3%80%8116GB-%E5%95%86%E5%8B%99%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6%E3%80%81WVA-%E9%98%B2%E7%9C%A9%E5%85%89%E3%80%81%E6%95%B8%E5%AD%97%E9%8D%B5%E7%9B%A4%E3%80%81%E7%B6%B2%E8%B7%AF%E6%94%9D%E5%BD%B1%E6%A9%9F%E3%80%81Wi-Fi%E3%80%81Win/dp/B0CDB4Z722/ref=sr_1_28?keywords=dell&qid=1697092383&refinements=p_89%3Adell&s=electronics&sr=1-28,569.99,3.9,14,"品牌: Dell
+型號名稱: Inspiron 3000
+螢幕尺寸: 15.6 Inches
+顏色: 灰色
+硬碟大小: 512 GB
+CPU 型號: Core i5
+已安裝隨機存取記憶體大小: 16 GB
+作業系統: Windows 11 Home
+查看更多","感覺良好
+內建 HD 網路攝影機可讓您隨時隨地與社群建立聯繫
+易於日常使用
+升降鉸鏈設計和放大鍵盤使使用更加符合人體工學、舒適
+環保意識
+使用消費後可回收塑膠和水性塗料製成
+延長電池壽命
+長效電池與快速充電功能,持續更長的時間。
+技術規格
+處理器:Intel 四核心 i5-1135G7 (基本時脈 2.4GHz、最大 Boost 時脈高達 4.2GHz、8MB 智慧型快取記憶體、8 個執行緒)
+顯示器:15.6"" Full HD (1920x1080), 60Hz, WVA, 防眩光, 250 nit, 窄邊框, LED背光, 觸控螢幕顯示器
+圖形:整合式 Intel UHD 顯示卡
+記憶體:16GB DDR4 RAM
+儲存空間:512GB PCIe NVMe M.2 SSD
+網路:Wi-Fi 5 RTL8821CE、1x1、802.11ac + 藍牙
+作業系統:Windows 11 Home 64 位元
+電池:3 芯,41 Wh,集成
+相機:720p
+鍵盤:英文美國非背光鍵盤
+尺寸:35.8 x 9.5 x 2.1 公分
+重量:3.5 磅(約 1.7
+I/O 連接埠
+2 個 USB 3.2 Gen 1 Type-A
+USB 2.0 連接埠
+HDMI 1.4 連接埠
+耳機/麥克風組合插孔
+SD 讀卡機",https://www.amazon.com/-/zh_TW/Inspiron-3520-i5-1135G7%E3%80%8116GB-%E5%95%86%E5%8B%99%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6%E3%80%81WVA-%E9%98%B2%E7%9C%A9%E5%85%89%E3%80%81%E6%95%B8%E5%AD%97%E9%8D%B5%E7%9B%A4%E3%80%81%E7%B6%B2%E8%B7%AF%E6%94%9D%E5%BD%B1%E6%A9%9F%E3%80%81Wi-Fi%E3%80%81Win/product-reviews/B0CDB4Z722/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+28,造訪 Dell 品牌旗艦店,"Dell 15.6"" Inspiron Business Laptop with Windows 11 Pro, Intel Quad-Core i5-1135G7 Processor, 20GB RAM, 1TB SSD, Full HD IPS Display, HDMI, Webcam, Black",https://www.amazon.com/-/zh_TW/sspa/click?ie=UTF8&spc=MTo0NjQ0NjIzMzM0MDc2NDk6MTY5NzA5MjM4MzpzcF9idGY6MzAwMDYyMzgwODM0NzAyOjowOjo&url=%2Fdell-inspiron%2Fdp%2FB0CGF8VLKZ%2Fref%3Dsr_1_29_sspa%3Fkeywords%3Ddell%26qid%3D1697092383%26refinements%3Dp_89%253Adell%26s%3Delectronics%26sr%3D1-29-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1,629.99,No star,0,"品牌: Dell
+型號名稱: dell inspiron
+螢幕尺寸: 15.6 Inches
+顏色: Black
+硬碟大小: 1 TB
+CPU 型號: Core i5
+已安裝隨機存取記憶體大小: 20 GB
+作業系統: Windows 11 Pro
+查看更多","The premium Dell Inspiron 15 laptop, with powerful computing and connectivity features, is built for speed, multitasking, and collaboration. Sleek, small, and durable, the high-performing PC delivers unparalleled results and a snappy experience for intensive applications or everyday tasks at work, school, or life. Super thin and light for easy portability",No review
+29,造訪 Dell 品牌旗艦店,"Dell Inspiron 15 5000 Laptop, 15.6"" FHD Display, 11th Gen Intel Core i5-1135G7 (Beats i7-1065G7), Intel Iris Xe Graphics, Backlit Keyboard, Fingerprint Reader, Win 11 (32GB RAM | 1TB PCIe SSD)",https://www.amazon.com/-/zh_TW/sspa/click?ie=UTF8&spc=MTo0NjQ0NjIzMzM0MDc2NDk6MTY5NzA5MjM4MzpzcF9idGY6MjAwMTY4NzM1NzEwNjk4OjowOjo&url=%2FInspiron-5000%2Fdp%2FB0BWBGZS5X%2Fref%3Dsr_1_30_sspa%3Fkeywords%3Ddell%26qid%3D1697092383%26refinements%3Dp_89%253Adell%26s%3Delectronics%26sr%3D1-30-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1,859.0,1.0,1 評級,"品牌: Dell
+型號名稱: Inspiron 5000
+螢幕尺寸: 15.6 Inches
+硬碟大小: 1 TB
+CPU 型號: Intel Core i5
+已安裝隨機存取記憶體大小: 32 GB
+作業系統: Windows 11
+特殊功能: Backlit Keyboard,Fingerprint Reader
+查看更多","Processor: 11th Gen Intel Core i5-1135G7 (8 MB cache, 4 cores, 8 threads, up to 4.20 GHz Turbo)
+Graphics: Intel Iris Xe Graphics
+Operating system:Windows 11 Home Operation System 64-bit
+Memory: 32GB DDR4 SDRAM
+Hard Drive: 1TB M.2 PCIe NVMe Solid State Drive
+Optical Drive: No
+Display: 15.6"" FHD 1920x1080, 60Hz, AG, WVA, LED-Backlit, Narrow Border
+Ports:
+2 x USB-3.2 Gen 1
+1 x USB-3.2 Gen 1 Type-C with DisplayPort and PowerDelivery
+1 x Power connector
+1 x HDMI 1.4b
+1 x Headphone / microphone combo jack (3.5mm)
+1 x Card reader (microSD-card slot)
+Connectivity: Wi-Fi 6 (11ax, 2x2) and Bluetooth 5.0
+Audio: Dual Stereo Speakers
+Keyboard: Backlit Keyboard, Full size, US English
+Built-in HD Webcam: 720p HD camera with integrated dual array digital microphones
+Battery: 3 Cell, 40 Wh, integrated
+Color: Silver
+Dimensions L x W x H (inches): 14.02 x 9.23 x 0.70
+Weight: 3.64 lbs",No review
+30,品牌：DELL,"戴尔 OptiPlex 3000 全尺寸立式商務桌上型電腦 Intel Core i5-12500 處理器,64GB DDR4 RAM,4TB PCIe SSD + 4TB HDD,DVDRW,乙太網路,WiFi 轉接器,KB&滑鼠,Windows 11 Pro,黑色",https://www.amazon.com/-/zh_TW/sspa/click?ie=UTF8&spc=MTo0NjQ0NjIzMzM0MDc2NDk6MTY5NzA5MjM4MzpzcF9idGY6MzAwMDM4MzEyMTk3NjAyOjowOjo&url=%2FOptiPlex-3000-%25E5%2585%25A8%25E5%25B0%25BA%25E5%25AF%25B8%25E7%25AB%258B%25E5%25BC%258F%25E5%2595%2586%25E5%258B%2599%25E6%25A1%258C%25E4%25B8%258A%25E5%259E%258B%25E9%259B%25BB%25E8%2585%25A6-i5-12500-Windows%2Fdp%2FB0C59KVFM4%2Fref%3Dsr_1_31_sspa%3Fkeywords%3Ddell%26qid%3D1697092383%26refinements%3Dp_89%253Adell%26s%3Delectronics%26sr%3D1-31-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1,,No star,0,"產品特定用途: 遊戲
+品牌: DELL
+作業系統: Windows 11 Pro
+記憶體儲存容量: 4 TB
+已安裝隨機存取記憶體大小: 64 GB
+型號名稱: i5 12500
+包含的元件: 滑鼠
+查看更多",,No review
+31,造訪 Dell 品牌旗艦店,Dell 2KMVD Toner Cartridge 5350dn Laser Printers,https://www.amazon.com/-/zh_TW/sspa/click?ie=UTF8&spc=MTo0NjQ0NjIzMzM0MDc2NDk6MTY5NzA5MjM4MzpzcF9idGY6MjAwMDQ3NjE0MjM4NDk4OjowOjo&url=%2F2KMVD%2Fdp%2FB007X3WQU4%2Fref%3Dsr_1_32_sspa%3Fkeywords%3Ddell%26qid%3D1697092383%26refinements%3Dp_89%253Adell%26s%3Delectronics%26sr%3D1-32-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1,137.88,No star,0,,"30,000 page Black Toner Cartridge (U&R) for Dell 5350dn Laser Printers",No review
+32,造訪 Dell 品牌旗艦店,"Dell 觸控螢幕 15.6 吋 Inspiron 筆記型電腦,附 Windows 11 Pro,全高清 IPS 顯示器,Intel 四核心 i5 處理器,20GB RAM,1TB SSD,HDMI,網路攝影機,黑色",https://www.amazon.com/-/zh_TW/sspa/click?ie=UTF8&spc=MTo1MTUyMzA1MTk4OTYyNjQ5OjE2OTcwOTIzOTY6c3BfYXRmOjMwMDA2MDM3MTg5MzUwMjo6MDo6&url=%2FInspiron-%25E7%25AD%2586%25E8%25A8%2598%25E5%259E%258B%25E9%259B%25BB%25E8%2585%25A6-Windows-Intel-%25E7%25B6%25B2%25E8%25B7%25AF%25E6%2594%259D%25E5%25BD%25B1%25E6%25A9%259F%2Fdp%2FB0BXGDJGGG%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Ddell%26qid%3D1697092396%26refinements%3Dp_89%253Adell%26s%3Delectronics%26sr%3D1-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1,649.99,4.2,11,"品牌: Dell
+型號名稱: Dell Inspiron
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 1 TB
+CPU 型號: Core i5
+已安裝隨機存取記憶體大小: 20 GB
+作業系統: Windows 11 Pro
+查看更多","顯示器:15.6 吋 FHD (1920 x 1080) 防眩光觸控螢幕 IPS 顯示器處理器:Intel 四核心 i5-1035G1 處理器(4 核心、6MB 快取、8 執行緒、1.0 GHz 的基本頻率、最高渦輪速度高達 3.6 GHz)記憶體:20GB DDR4 SDRAMHard Drive: 1TB SSLTB 加劇系統: 視窗 11 個專業觸控螢幕:YesScreen 解析度:1920 x 1080連接埠和插槽:2x USB 3.2 Gen 1 Type-A 1x USB 2.0 Type-A 1x SD 讀卡機 1x HDMI 輸出 1.4b 1x 耳機/麥克風組合插孔視訊:Intel UHD 圖形音訊:立體聲喇叭媒體硬碟:多格式 SD 媒體卡讀卡機光碟機光碟機光碟機:無。 連接性: 80 連接性: 2.11ac 1x1 WiFi 和藍牙內建 HD 網路攝像頭,附麥克風:Yes電池:3 芯、42 瓦時、集成電池藍牙:Yes重量:3.82 磅尺寸:14.11/英吋長 x 9.27/英吋寬 x 0.74/英吋高顏色:黑色",https://www.amazon.com/-/zh_TW/Inspiron-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-Windows-Intel-%E7%B6%B2%E8%B7%AF%E6%94%9D%E5%BD%B1%E6%A9%9F/product-reviews/B0BXGDJGGG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+33,造訪 Dell 品牌旗艦店,"Dell 2022 最新 Inspiron 15 筆記型電腦,15.6 吋 HD 顯示器,Intel Celeron N4020 處理器,16GB DDR4 RAM,1TB PCIe SSD,網路攝影機,HDMI,Wi-Fi,藍牙,Windows 11 Home 黑色",https://www.amazon.com/-/zh_TW/Inspiron-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-Intel-Celeron-Windows/dp/B0B2KPXKJ7/ref=sr_1_2?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-2,437.99,4.1,466,"品牌: Dell
+型號名稱: Inspiron
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 1 TB
+CPU 型號: Celeron N4020
+已安裝隨機存取記憶體大小: 16 GB
+作業系統: Windows 11 Home
+查看更多","主要特點和優點:
+CPU:Intel Celeron N4020 雙核心處理器(2 核心、2 個執行緒、4MB 快取記憶體、1.1 GHz 的基本頻率高達 2.8GHz)
+記憶體:高達 16GB DDR4 SDRAM
+硬碟:高達 1TB PCIe NVMe M.2 固態硬碟。
+作業系統:Windows 11 Home
+顯示器:15.6 吋 HD (1366 x 768) 防眩光LED背光非觸控顯示器
+螢幕解析度:1366 x 768
+連接埠:
+1 個 USB 2.0
+2 個 USB 3.1 Gen 1
+1 個 HDMI 1.4b
+1 個耳機和麥克風組合
+1 個電源插孔
+媒體磁碟機:多格式 SD 媒體讀卡機
+影片:Intel UHD 顯示卡
+音訊:立體聲喇叭
+光碟機:無
+無線連接:802.11ac 1x1 Wi-Fi 和藍牙
+內建 HD 網路攝影機,附麥克風:是
+電池:3 芯、42 瓦時、集成電池
+重量:4 磅
+顏色:黑色",https://www.amazon.com/-/zh_TW/Inspiron-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-Intel-Celeron-Windows/product-reviews/B0B2KPXKJ7/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+34,造訪 Amazon Renewed 品牌旗艦店,"Dell 戴爾 Optiplex 9020 小型桌上型電腦,搭載 Intel Core i7-4770 高達 3.9GHz,HD Graphics 4600 4K 支援,32GB RAM,1TB SSD,DisplayPort,HDMI,Wi-Fi,藍牙 - Windows 10 Pro(翻新)",https://www.amazon.com/-/zh_TW/Optiplex-9020-%E5%B0%8F%E5%9E%8B%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-Graphics-DisplayPort/dp/B08BJDFZRF/ref=sr_1_3?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-3,207.99,4.1,2702,"產品特定用途: 日常使用, 多媒體, 照片編輯
+品牌: Dell
+個人電腦設計類型: Computer Tower
+作業系統: Windows 10
+記憶體儲存容量: 1 TB
+螢幕尺寸: 6.1 Inches
+已安裝隨機存取記憶體大小: 32 GB
+型號名稱: Optiplex
+查看更多",,https://www.amazon.com/-/zh_TW/Optiplex-9020-%E5%B0%8F%E5%9E%8B%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-Graphics-DisplayPort/product-reviews/B08BJDFZRF/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+35,造訪 Dell 品牌旗艦店,Dell 戴爾 XPS 8950 桌上型電腦 - 第 12 代 Intel Core i7-12700、32GB DDR5 RAM、512GB SSD + 1TB HDD、Intel UHD 770 圖形、Killer Wi-Fi 6、空氣冷卻、Windows 11 Pro - 黑色,https://www.amazon.com/-/zh_TW/Dell-8950-%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-i7-12700%E3%80%8132GB-6%E3%80%81%E7%A9%BA%E6%B0%A3%E5%86%B7%E5%8D%BB%E3%80%81Windows/dp/B09VR7ZJL1/ref=sr_1_4?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-4,,3.8,243,"產品特定用途: 多媒體, 遊戲, 个人
+品牌: Dell
+個人電腦設計類型: Computer Tower
+作業系統: Windows 11 Pro
+記憶體儲存容量: 1000 GB
+已安裝隨機存取記憶體大小: 32 GB
+查看更多",,https://www.amazon.com/-/zh_TW/Dell-8950-%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-i7-12700%E3%80%8132GB-6%E3%80%81%E7%A9%BA%E6%B0%A3%E5%86%B7%E5%8D%BB%E3%80%81Windows/product-reviews/B09VR7ZJL1/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+36,造訪 Amazon Renewed 品牌旗艦店,"Dell OptiPlex 電腦桌上型電腦 Intel Core i5 第三代 3.2 GHz,16GB RAM,2TB HDD,全新 22 吋 LED 顯示器,RGB 鍵盤和滑鼠,WiFi,Windows 10 Pro(翻新)",https://www.amazon.com/-/zh_TW/OptiPlex-%E9%9B%BB%E8%85%A6%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-Intel-%E9%8D%B5%E7%9B%A4%E5%92%8C%E6%BB%91%E9%BC%A0-Windows/dp/B09TN242Q5/ref=sr_1_5?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-5,198.0,3.8,2021,"產品特定用途: 遊戲
+品牌: Dell
+個人電腦設計類型: Computer Tower
+作業系統: Windows 10 Pro
+記憶體儲存容量: 2 TB
+螢幕尺寸: 22
+已安裝隨機存取記憶體大小: 16 GB
+型號名稱: Optiplex
+查看更多","- 全新 Dell 專業桌上型電腦 搭載 Intel Quad Core i5 3.2 GHz 處理器、16 GB RAM、2 TB 硬碟、Windows 10 Pro
+- WiFi 轉接器 - USB WiFi
+- 全新 22 吋 1080P FHD(1920x1080) LED 顯示器
+- USB RGB 鍵盤
+- USB RGB 滑鼠
+- RGB 喇叭
+每一個元件都經過完整的功能和相容性測試,以確保多年的持續性能和可靠性。 外部化妝品恢復到類似的新狀態,幾乎沒有看到以前使用的跡象。 Microsoft Windows 10 的全新真實安裝採用數位呈現的全新啟用授權,在首次使用時即可輕鬆安全地啟動。
+PC 配置規格
+-型號:Dell 專業桌上型電腦
+- CPU:Intel Quad Core i5 處理器
+- RAM:16 GB
+- 硬碟:2 TB HDD SATA
+- 作業系統:Windows 10 PRO
+- USB:(6) USB 2.0 (2)USB 3.0 連接埠連接使用
+- 網路:內建 Gigabit 網路轉接器
+* 這款電腦套組將在您家門口,隨時開箱即用,包括所有必要的電纜。
+這款 Dell 專業桌上型電腦最初專為企業環境中大量使用而設計,具有比任何典型零售型號更高品質、更先進的元件進行全面更新。 這款電腦非常適合商務、家庭和學校,由 Microsoft 授權翻新商進行專業翻新。",https://www.amazon.com/-/zh_TW/OptiPlex-%E9%9B%BB%E8%85%A6%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-Intel-%E9%8D%B5%E7%9B%A4%E5%92%8C%E6%BB%91%E9%BC%A0-Windows/product-reviews/B09TN242Q5/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+37,造訪 Dell 品牌旗艦店,Dell 戴爾 XPS 13 9310 觸控螢幕筆記型電腦 13.5 吋 FHD+ 輕薄。Intel Core i7-1195G7、16GB LPDDR4x RAM、512GB SSD、Intel Iris Xe Graphics、Windows 11 Pro、2 年上站、6 個月遷移 – 銀色,https://www.amazon.com/-/zh_TW/%E8%A7%B8%E6%8E%A7%E8%9E%A2%E5%B9%95%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i7-1195G7%E3%80%8116GB-RAM%E3%80%81512GB-SSD%E3%80%81Intel-Graphics%E3%80%81Windows/dp/B09DFKQL8K/ref=sr_1_6?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-6,,4.4,202,"品牌: Dell
+型號名稱: Dell XPS
+螢幕尺寸: 13.4 Inches
+顏色: 銀色
+硬碟大小: 512 GB
+CPU 型號: Intel Core i7 1185G7
+已安裝隨機存取記憶體大小: 12 MB
+查看更多",,https://www.amazon.com/-/zh_TW/%E8%A7%B8%E6%8E%A7%E8%9E%A2%E5%B9%95%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i7-1195G7%E3%80%8116GB-RAM%E3%80%81512GB-SSD%E3%80%81Intel-Graphics%E3%80%81Windows/product-reviews/B09DFKQL8K/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+38,造訪 Dell 品牌旗艦店,"Dell 戴爾 UltraSharp U2723QE 27 吋 4K UHD WLED LCD 螢幕 - 16:9 - 黑色,銀色",https://www.amazon.com/-/zh_TW/Dell-UltraSharp-U2723QE-UHD-WLED/dp/B09TQZP9CL/ref=sr_1_7?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-7,519.22,4.4,393,"螢幕尺寸: 27 Inches
+顯示器解析度上限: 3840 x 2160 Pixels
+品牌: Dell
+特殊功能: 傾斜調整、旋轉調整、樞軸調整、高度調整、藍光濾鏡
+更新率: 60 Hz","出色的視覺效果
+卓越的對比度:在全球首款採用 IPS 黑色技術的 27 吋 4K 顯示器上,體驗令人難以置信的色彩和卓越的黑色性能。
+增強眼睛舒適度
+ComfortView Plus i - 一個始終開啟的內建低藍光螢幕 - 減少潛在有害藍光排放,而不會影響顏色。
+真正閃耀
+在這款 4K 顯示器上查看精細細節,使用 98% DCI-P3 和 VESA DisplayHDR™ 400 享受逼真的色彩。
+您的連線中心
+快速啟動生產力:使用 Power Sync 功能喚醒筆記型電腦並開啟電源。
+
+增強連線能力:透過廣泛的連接連接埠,包括 USB-C (高達 90W 電源傳輸)、RJ45 (乙太網路)、DP1.4 和 HDMI,簡化您的工作空間。 快速存取 USB-C (高達 15W 的電源充電)和超高速 USB 10Gpbs 連接埠,可輕鬆連接和快速數據傳輸。
+
+更有序的工作空間:單線 USB-C 連接提供連接到多供應商 USB-C 系統的靈活性,減少電纜雜亂,並實現從桌面快速轉換。
+
+網路就緒:內建 MAC 位址直通、PXE Boot 和 Wake-on-LAN 網路喚醒功能增強管理性。
+已解鎖生產力
+多任務更好:連接到兩個 PC 電源,Auto KVM 將無縫切換到第二個連接的電腦。 使用 KVM (鍵盤、視訊和滑鼠) 功能來控制單一滑鼠和鍵盤的電腦。
+
+在一個螢幕上查看更多內容:透過子母畫(PiP)和子母畫(PbP)檢視兩個 PC 來源的內容。
+
+擴大您的生產力:透過菊花鏈接兩個 4K 顯示器體驗無與倫比的畫質。 U2723QE 是全球首款 27 吋 4K 顯示器,透過支援 USB-C 的顯示串流壓縮 (DSC) 以完整解析度連接額外的 4K 螢幕。
+精心製作
+設計目的:採用優質鉑金銀色表面和優雅的電纜管理系統,可減少雜亂,是專為任何工作空間而設計的螢幕。
+
+易於使用:透過方便的操縱桿控制導航菜單並調整螢幕設置。
+舒適設計
+傾斜、旋轉、旋轉和調整螢幕高度,讓您無論您最舒適的工作方式。
+Dell 顯示器管理器
+每個層級都有生產力:Easy Arrange 可讓您輕鬆地在一個或多個螢幕上平鋪多個應用程式,並能夠個性化多達 5 個視窗,為您提供更好的多任務處理能力。",https://www.amazon.com/-/zh_TW/Dell-UltraSharp-U2723QE-UHD-WLED/product-reviews/B09TQZP9CL/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+39,造訪 Amazon Renewed 品牌旗艦店,"Dell OptiPlex 7050 微型電腦,Intel 四核心 i5-6500T 高達 3.1GHz ,16G DDR4,256G SSD,Windows 10 Pro 64 位元多語言支援英文/西班牙文/法文(續約 ) )",https://www.amazon.com/-/zh_TW/OptiPlex-7050-i5-6500T-Windows-%E4%BD%8D%E5%85%83%E5%A4%9A%E8%AA%9E%E8%A8%80%E6%94%AF%E6%8F%B4%E8%8B%B1%E6%96%87/dp/B08GCX4JKJ/ref=sr_1_8?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-8,132.98,4.1,295,"產品特定用途: Everyday Use
+品牌: Dell
+個人電腦設計類型: Mini PC
+作業系統: Windows 10 Pro
+記憶體儲存容量: 256 GB
+已安裝隨機存取記憶體大小: 16 GB
+型號名稱: OptiPlex 7050 Micro
+查看更多",,https://www.amazon.com/-/zh_TW/OptiPlex-7050-i5-6500T-Windows-%E4%BD%8D%E5%85%83%E5%A4%9A%E8%AA%9E%E8%A8%80%E6%94%AF%E6%8F%B4%E8%8B%B1%E6%96%87/product-reviews/B08GCX4JKJ/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+40,造訪 Dell 品牌旗艦店,"Dell 戴爾 XPS 13 9310 筆記型電腦 - 13.5 吋 OLED 3.5K (3456x2160) 觸控螢幕顯示器,Intel Core i7-1195G7,16GB LPDDR4x RAM,512G SSD,Iris Xe Graphics,1 年頂級支援,Windows 11 Home - 白色",https://www.amazon.com/-/zh_TW/Dell-XPS-9310-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-3456x2160/dp/B09PR52BHK/ref=sr_1_9?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-9,,4.1,29,"品牌: Dell
+型號名稱: XPS9310-7321WHT-SUS
+螢幕尺寸: 13.4 Inches
+顏色: 白色
+硬碟大小: 512 GB
+CPU 型號: Core i7 Family
+已安裝隨機存取記憶體大小: 16 GB
+作業系統: Windows 11 Home
+查看更多",,https://www.amazon.com/-/zh_TW/Dell-XPS-9310-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-3456x2160/product-reviews/B09PR52BHK/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+41,造訪 Dell 品牌旗艦店,Dell 戴爾 Inspiron 15 3000 15.6 吋 Full HD 第 11 代 Intel Core i5-1135G7 12GB 256GB SSD 筆記型電腦,https://www.amazon.com/-/zh_TW/Inspiron-Intel-i5-1135G7-256GB-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6/dp/B095RZ62BX/ref=sr_1_10?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-10,468.0,4.1,512,"品牌: Dell
+型號名稱: Dell Inspiron
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 256 GB
+CPU 型號: Core i5
+已安裝隨機存取記憶體大小: 12 GB
+作業系統: Windows 10
+查看更多","戴爾輕薄強大的筆記型電腦,隨時隨地實現更多目標。 Dell Inspiron 15 3000筆記型電腦配備強大的 Intel Core i5-1135G7 四核心處理器、12GB RAM 和 256GB SSD 儲存空間。 這款便攜式設備快速高效,配備 15.6 吋 Full HD IPS 顯示器。
+卓越性能
+有了第 11 代 Intel Core i5-1135G7 四核處理器和 12GB RAM 記憶體,您可以利用卓越的生產力,並繼續進行驚人的電池備份。
+令人驚嘆的景觀
+配備 15.6 吋 Full HD 1920x1080 IPS 顯示器,所有娛樂和創意項目都能閃耀。 編輯照片並以完美的清晰度串流媒體。
+時尚設計
+輕鬆將這款輕薄的 PC 從一個房間到另一個房間或路上。 隨身攜帶,看起來銳利。
+規格
+第 11 代 Intel Corei5-1135G7 四核處理器 2.4Ghz
+12GB 2666DDR4 SDRAM
+256GB 固態硬碟
+15.6 吋 Full HD 1920x1080 IPS 顯示器
+Intel Iris Xe Graphics
+802.11ac 無線和藍牙
+整合式立體聲喇叭
+帶數字鍵盤的鍵盤
+10/100/1000 Gigabit 乙太網路連接埠
+整合式網路攝影機,附雙數位麥克風陣列
+數位媒體閱讀器
+耳機/麥克風組合插孔
+3 合 1 SD 媒體讀卡機
+2 個 USB 3.2 Type A 連接埠
+1 個 USB 3.2 Type C 連接埠
+1 個 USB 2.0
+1 個 HDMI
+3 芯鋰電池
+Microsoft Windows 10 作業系統(S 模式)
+表面處理:黑色",https://www.amazon.com/-/zh_TW/Inspiron-Intel-i5-1135G7-256GB-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6/product-reviews/B095RZ62BX/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+42,造訪 Dell 品牌旗艦店,Dell Pro KM5221W 鍵盤與滑鼠,https://www.amazon.com/-/zh_TW/KM5221W-Dell-Pro-%E9%8D%B5%E7%9B%A4%E8%88%87%E6%BB%91%E9%BC%A0/dp/B08W2CJBC9/ref=sr_1_11?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-11,42.99,4.3,1413,"品牌: Dell
+顏色: 黑色
+連線技術: wireless
+特殊功能: 無線
+相容裝置: PC",,https://www.amazon.com/-/zh_TW/KM5221W-Dell-Pro-%E9%8D%B5%E7%9B%A4%E8%88%87%E6%BB%91%E9%BC%A0/product-reviews/B08W2CJBC9/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+43,造訪 Dell 品牌旗艦店,"Dell Inspiron 14 5425 非觸控筆記型電腦 - 14 吋 FHD+ (1920 x 1200)、AMD Ryzen7 5825U、8GB DDR4 RAM、512GB SSD、AMD Radeon Graphics, Windows 11 Pro、2 年現場 + 6 個月遷移 - 鵝卵石綠色",https://www.amazon.com/-/zh_TW/Dell-Inspiron-5425-%E9%9D%9E%E8%A7%B8%E6%8E%A7%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-5825U%E3%80%818GB/dp/B01MXJ8DDQ/ref=sr_1_12?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-12,538.0,4.1,88,"品牌: Dell
+型號名稱: Inspiron 14 5425
+螢幕尺寸: 14 Inches
+顏色: 卵石綠
+硬碟大小: 512 GB
+CPU 型號: AMD Ryzen 7
+已安裝隨機存取記憶體大小: 8 GB
+作業系統: Windows 11 Pro
+查看更多",,https://www.amazon.com/-/zh_TW/Dell-Inspiron-5425-%E9%9D%9E%E8%A7%B8%E6%8E%A7%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-5825U%E3%80%818GB/product-reviews/B01MXJ8DDQ/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+44,造訪 Dell 品牌旗艦店,Dell PY408 Black Toner Cartridge 1720dn Laser Printer,https://www.amazon.com/-/zh_TW/sspa/click?ie=UTF8&spc=MTo1MTUyMzA1MTk4OTYyNjQ5OjE2OTcwOTIzOTY6c3BfbXRmOjIwMDA0NzYxNDIzNzQ5ODo6MDo6&url=%2FPY408%2Fdp%2FB004DE3G2S%2Fref%3Dsr_1_13_sspa%3Fkeywords%3Ddell%26qid%3D1697092396%26refinements%3Dp_89%253Adell%26s%3Delectronics%26sr%3D1-13-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1,117.08,4.6,17,"品牌: Dell
+顏色: Black
+商品重量: 1.04 公斤
+包含的元件: 1 x Dell Use and Return Toner Cartridge (OEM# 310-8699 310-8706) (3000 Yield)
+相容裝置: Dell Laser Printer - 1720, Dell Laser Printer - 1720DN","3,000 page Black Toner Cartridge (U&R) for Dell 1720dn Laser Printer",https://www.amazon.com/-/zh_TW/PY408/product-reviews/B004DE3G2S/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+45,品牌：Dell,"Dell Inspiron 3511 筆記型電腦,15.6 吋 Full HD 觸控螢幕,Intel Core i5-1135G7(比 Intel i7-1065G7),16GB DDR4 RAM,512GB PCIe SSD,SD 卡讀卡機,HDMI,Wi-Fi,Windows 11 家用,黑色",https://www.amazon.com/-/zh_TW/sspa/click?ie=UTF8&spc=MTo1MTUyMzA1MTk4OTYyNjQ5OjE2OTcwOTIzOTY6c3BfbXRmOjMwMDA1ODg5MDI1NjUwMjo6MDo6&url=%2FInspiron-3511-i5-1135G7-i7-1065G7-Windows%2Fdp%2FB0BRT5ZBN5%2Fref%3Dsr_1_14_sspa%3Fkeywords%3Ddell%26qid%3D1697092396%26refinements%3Dp_89%253Adell%26s%3Delectronics%26sr%3D1-14-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1,576.0,4.2,56,"品牌: Dell
+型號名稱: Inspiron
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 512 GB
+CPU 型號: Core i5 Family
+已安裝隨機存取記憶體大小: 16 GB
+作業系統: Windows 11 Home
+查看更多","主要特點和優點:
+CPU:Intel Core i5-1135G7 (4 核心、8 個執行緒、8MB 快取記憶體、2.40 GHz 基本頻率,最大渦輪頻率高達 4.20 GHz)
+記憶體:高達 32GB DDR4 SDRAM
+硬碟:高達 2TB PCIe NVMe M.2 固態硬碟。
+作業系統:Windows 11 Home
+顯示器:15.6""對角 FHD (1920 x 1080)防眩光LED背光窄邊框WVA觸摸屏
+觸控螢幕:是
+連接埠:
+1 個 USB 2.0 Type-A
+2 個 USB 3.2 Gen 1 Type-A
+1 個 HDMI 1.4
+1 個耳機/麥克風組合插孔
+1 個 SD 讀卡器
+1 個電源適配器
+圖形:Intel Iris Xe 顯示卡
+背光鍵盤:無
+媒體磁碟機:是
+光碟機: 無
+無線連接:Wi-Fi 和藍牙組合
+網路攝影機:720p HD 攝影機
+尺寸:14 x 9.5 x 0.7 英吋
+重量:3.5 磅(約 1.7
+顏色:黑色",https://www.amazon.com/-/zh_TW/Inspiron-3511-i5-1135G7-i7-1065G7-Windows/product-reviews/B0BRT5ZBN5/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+46,造訪 Dell 品牌旗艦店,"Dell 15.6"" Inspiron Business Laptop with Windows 11 Pro, Intel Quad-Core i5-1135G7 Processor, 20GB RAM, 1TB SSD, Full HD IPS Display, HDMI, Webcam, Black",https://www.amazon.com/-/zh_TW/sspa/click?ie=UTF8&spc=MTo1MTUyMzA1MTk4OTYyNjQ5OjE2OTcwOTIzOTY6c3BfbXRmOjMwMDA2MjM4MDgzNDcwMjo6MDo6&url=%2Fdell-inspiron%2Fdp%2FB0CGF8VLKZ%2Fref%3Dsr_1_15_sspa%3Fkeywords%3Ddell%26qid%3D1697092396%26refinements%3Dp_89%253Adell%26s%3Delectronics%26sr%3D1-15-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1,629.99,No star,0,"品牌: Dell
+型號名稱: dell inspiron
+螢幕尺寸: 15.6 Inches
+顏色: Black
+硬碟大小: 1 TB
+CPU 型號: Core i5
+已安裝隨機存取記憶體大小: 20 GB
+作業系統: Windows 11 Pro
+查看更多","The premium Dell Inspiron 15 laptop, with powerful computing and connectivity features, is built for speed, multitasking, and collaboration. Sleek, small, and durable, the high-performing PC delivers unparalleled results and a snappy experience for intensive applications or everyday tasks at work, school, or life. Super thin and light for easy portability",No review
+47,造訪 Amazon Renewed 品牌旗艦店,"Dell OptiPlex 7040 Tower Computers Desktop PC,32GB DDR4 New 512GB M.2 NVMe SSD+1TB HDD, AX210 Built-in WiFi 6e Bluetooth 5.3,Intel i5-6500 3.2GHz,Refurbished Computer Tower,Windows 10 Pro(Renewed)",https://www.amazon.com/-/zh_TW/OptiPlex-7040/dp/B0C9PX4L8X/ref=sr_1_16?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-16,269.59,No star,0,"產品特定用途: Business
+品牌: Dell
+個人電腦設計類型: Computer Tower
+作業系統: Windows 10 Pro
+記憶體儲存容量: 512 GB
+已安裝隨機存取記憶體大小: 32 GB
+查看更多","Dell OptiPlex 7040 Desktop Computer PC Description:
+
+Dell OptiPlex 7040 tower computers provide you reliable performance in your home and office. This computer tower features Intel quard Core i5-6600 processor, which helps to run multiple instructions at the same time. This desktop tower has a 1TB M.2 NVMe SSD and an additional 1TB HDD for reliability, make this refurbished desktop computer a great fit for an business office PC, this computer tower enables increased your efficiency. Experience lightning-fast internet speeds with the built-in AX210 Wi-Fi 6e and Bluetooth 5.3 connectivity on this pc tower. Also this dell desktop tower with 2 DisplayPort and 1 HDMI connectivity for greater visibility of your tasks, the desktop computer tower can support 3 monitors.Rest assured, this dell OptiPlex 7040 desktop computers have been professionally renewed, undergoing rigorous testing and inspection to ensure optimal performance and reliability.
+
+Tower Computers Dell OptiPlex 7040 Desktop PC Specifications
+
+Processor: Intel Quad Core i5-6600 6th Generation
+
+Base CPU frequency: 3.3GHz
+
+Max Turbo CPU frequency : 3.9GHz
+
+CPU Cache: 6MB
+
+Ram installed: 32GB
+
+Hard Drive Installed: New 1TB NVMe M.2 SSD+1TB HDD
+
+Graphics: Intel HD 530 Graphics
+
+Video Ports: 1 x HDMI Port, 2 x Display Port
+
+USB 3.0 Ports: 6
+
+USB 2.0 Ports: 4
+
+Ethernet: Gigabyte 10/100/1000, RJ-45
+
+Wireless Connectivity: High Speed AX210 Built-in WIFI 6e(Latest WIFI technology)
+
+Optical Drive: DVDRW
+
+Item Dimension : 14.17” * 6.88"" * 17.11""
+
+Item Weight: 25.7lbs
+
+Operating System: Windows 10 Pro 64-bit
+
+What you will get?
+
+1 x Computer Tower
+
+1 x Altec Wireless keyboard and mouse
+
+1 x RGB Speaker as gift
+
+1 x Technical Support",No review
+48,造訪 Dell 品牌旗艦店,Dell UltraSharp U3423WE 34 吋 WQHD 曲面螢幕 WLED LCD 螢幕 - 21:9,https://www.amazon.com/-/zh_TW/Dell-UltraSharp-U3423WE-WQHD-%E6%9B%B2%E9%9D%A2%E8%9E%A2%E5%B9%95/dp/B0BJZ3YNN5/ref=sr_1_17?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-17,644.11,5.0,2,"螢幕尺寸: 34.1 Inches
+顯示器解析度上限: 3440 x 1440 Pixels
+品牌: Dell
+特殊功能: 旋轉調整, USB埠, 高度調整, 內置揚聲器, 曲面, 傾斜度調整
+更新率: 80 Hz",,https://www.amazon.com/-/zh_TW/Dell-UltraSharp-U3423WE-WQHD-%E6%9B%B2%E9%9D%A2%E8%9E%A2%E5%B9%95/product-reviews/B0BJZ3YNN5/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+49,造訪 Amazon Renewed 品牌旗艦店,"Dell OptiPlex 7070 Desktop Computers Windows 11, 9th Gen Intel 6 Core i5-9500, 32GB DDR4 Ram 512GB SSD, Wireless Built-in WiFi 6e AX210, Bluetooth 5.2, Dule Monitor Support(Renewed)",https://www.amazon.com/-/zh_TW/7070/dp/B0CCFBHGPV/ref=sr_1_18?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-18,471.2,No star,0,"產品特定用途: Personal
+品牌: Dell
+個人電腦設計類型: Computer Tower
+作業系統: Windows 11 Pro
+記憶體儲存容量: 32 GB
+已安裝隨機存取記憶體大小: 32 GB
+查看更多","Dell OptiPlex 7070 Small Form Factor PC Description: Ideal for financial or design office, dell OptiPlex 7070 desktop computers windows 11 with conveniently compact design that performs in any environment. This refurbished pc equip powerful Intel Hexa Core i5-9500 3.0GHz Turbo 4.40GHz and integrated Intel UHD Graphics 630 graphic, make this windows 11 desktop computer possible to connect dual monitor for boost your multi-tasking. Moreover, this Windows 11 PC comes with 512GB M.2 NVMe SSD to store important files and applications, support more faster Boot speed and faster storage rates. Furthermore ,rich interfaces on this dell optiplex windows 11 Quickly connect to your devices and networks with support of up to three monitors and two native DisplayPorts. suitable for both work from home and business computing,power that performs Dell Computer OptiPlex 7070 SFF Specifications: CPU: Intel 6 Core i5-9500 3.0Ghz CPU Cache: 9 MB Core: 6 Core Threads: 6 Threads Operating system :Windows 11 Pro Memory: 32GB DDR4 Hard Drive: 512GB NVMe M.2 SSD Video Graphic Card: Intel UHD Graphics 630 USB 3.0 Ports: 5 USB 2.0 Ports: 4 USB USB 3.1 Type C Port: 1 Display Port: 2 RJ-45 port: 1 WIFI:Intel AX210 Built-in WIFI 6E(Latest WIFI Technology)Please remember only order from TITAN ITAD to get a refurbished pc with AX210 Built-in WIFI Mouse/Keyboard:Altec brand new wireless keyboard and mouse Dimension: 3.7"" x 11.4"" x 11.5"" Weight:11.6lbs What will you get?: 1 x Dell computer 5070 SFF 1 x Altec new wireless keyboard and mouse 1 x TJJ large mouse pad Techinical Support",No review
+50,造訪 Dell 品牌旗艦店,"Dell ThunderBolt 4 擴充座 (WD22TB4),黑色",https://www.amazon.com/-/zh_TW/Dell-ThunderBolt-%E6%93%B4%E5%85%85%E5%BA%A7-WD22TB4-%E9%BB%91%E8%89%B2/dp/B0B7P6ZNFB/ref=sr_1_19?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-19,160.88,4.2,80,"品牌: Dell
+顏色: 黑色
+硬體介面: Ethernet
+相容裝置: Dell, USB A, USB C, HDMI, Thunderbolt, Windows 11, Windows 10
+USB 連接埠總數: 2
+商品尺寸，長 x 寬 x 高: 28 x 246 x 165 毫米
+連接埠數量: 4
+查看更多","Dell Thunderbolt™ 底座 – WD22TB4:模組化雷栓底座,附可更換模組,便於升級,SuperBoost 技術可快速充電。",https://www.amazon.com/-/zh_TW/Dell-ThunderBolt-%E6%93%B4%E5%85%85%E5%BA%A7-WD22TB4-%E9%BB%91%E8%89%B2/product-reviews/B0B7P6ZNFB/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+51,造訪 Dell 品牌旗艦店,"Dell 最新 Inspiron 15 3511 筆記型電腦,15.6 吋 FHD 觸控螢幕,Intel Core i5-1035G1,32GB RAM,1TB PCIe NVMe M.2 SSD,SD 卡讀卡機,網路攝影機,HDMI,WiFi,Windows 11 Home,黑色",https://www.amazon.com/-/zh_TW/Inspiron-3511-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-1035G1-Windows/dp/B0B336K7M5/ref=sr_1_20?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-20,574.77,4.1,120,"品牌: Dell
+型號名稱: Inspiron
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 1 TB
+CPU 型號: Core i5 Family
+已安裝隨機存取記憶體大小: 32 GB
+作業系統: Windows 11
+查看更多","主要功能和優點:
+CPU:Intel Core i5-1035G1 四核心處理器(4 核心、6 MB 快取、8 個執行緒、1.0 GHz 的基本頻率、最高渦輪速度高達 3.6 GHz)
+記憶體:高達 32GB DDR4 RAM
+硬碟:高達 2TB PCIe 固態硬碟
+作業系統:Windows 11 Home
+顯示器:15.6 吋 FHD (1920 x 1080) 防眩光LED 背光窄邊框 WVA 觸控螢幕
+觸控螢幕:是
+連接埠:1 個 SD 卡讀卡機、1 個 USB 2.0、2 個 USB 3.2、1 個 HDMI 1.4、1 個耳機和麥克風音訊插孔
+影片:Intel UHD 顯示卡
+音訊:立體聲喇叭
+媒體磁碟機:SD 媒體讀卡機
+光碟機:無
+無線連線:802.11ac 1x1 WiFi 和藍牙
+電池:3 芯 42Wh,集成電池
+重量:3.5 磅(約 1.7 公斤)
+顏色:黑色",https://www.amazon.com/-/zh_TW/Inspiron-3511-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-1035G1-Windows/product-reviews/B0B336K7M5/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+52,造訪 Dell 品牌旗艦店,"Dell Inspiron 14 5420 筆記型電腦 - 14 吋非觸控顯示器,Intel Core i5-1235U,8GB DDR4 RAM,512GB SSD,Intel UHD Graphics,Intel Wi-Fi 6E,Windows 11 Home - 鉑金銀",https://www.amazon.com/-/zh_TW/Dell-Inspiron-14-5420-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6/dp/B09ZQ4NTTW/ref=sr_1_21?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-21,575.0,4.0,22,"品牌: Dell
+型號名稱: Inspiron 14 5420
+螢幕尺寸: 14 Inches
+顏色: 鉑金
+硬碟大小: 512 GB
+CPU 型號: Core i5 Family
+已安裝隨機存取記憶體大小: 8 GB
+作業系統: Windows 11 Home
+查看更多",,https://www.amazon.com/-/zh_TW/Dell-Inspiron-14-5420-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6/product-reviews/B09ZQ4NTTW/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+53,造訪 Dell 品牌旗艦店,"戴爾雙充電座 HD22Q - 織物包裝充電座,Type-C 連接器,Qi 啟用充電,底座喚醒,智慧型手機休息,電源按鈕 LED - 磁鐵,黑色",https://www.amazon.com/-/zh_TW/%E6%88%B4%E7%88%BE%E9%9B%99%E5%85%85%E9%9B%BB%E5%BA%A7-HD22Q-%E7%B9%94%E7%89%A9%E5%8C%85%E8%A3%9D%E5%85%85%E9%9B%BB%E5%BA%A7-Type-C-%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E4%BC%91%E6%81%AF/dp/B0B29KTCRV/ref=sr_1_22?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-22,89.99,4.1,47,"品牌: Dell
+顏色: 黑色
+硬體介面: DisplayPort, USB Type C, Ethernet, HDMI
+相容裝置: Inspiron 7420 二合一, Latitude 5310 二合一, Latitude 3330, XPS 13 9310 2 合 1, Inspiron 5420
+USB 連接埠總數: 5
+查看更多",,https://www.amazon.com/-/zh_TW/%E6%88%B4%E7%88%BE%E9%9B%99%E5%85%85%E9%9B%BB%E5%BA%A7-HD22Q-%E7%B9%94%E7%89%A9%E5%8C%85%E8%A3%9D%E5%85%85%E9%9B%BB%E5%BA%A7-Type-C-%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E4%BC%91%E6%81%AF/product-reviews/B0B29KTCRV/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+54,造訪 Dell 品牌旗艦店,"Dell 戴爾 24 螢幕 - P2422H - Full HD 1080p,IPS 技術,ComfortView Plus 技術",https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-24-%E8%9E%A2%E5%B9%95-ComfortView/dp/B096T36G8L/ref=sr_1_23?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-23,179.99,4.5,752,"螢幕尺寸: 24
+顯示器解析度上限: 1920 x 1080 Pixels
+品牌: Dell
+特殊功能: 旋转调节, 防眩光屏, 高度调节, 倾斜调节, 无闪烁
+更新率: 60 Hz",,https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-24-%E8%9E%A2%E5%B9%95-ComfortView/product-reviews/B096T36G8L/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+55,造訪 Dell 品牌旗艦店,"Dell 戴爾 Inspiron 15 3511 15.6 吋筆記型電腦,全高清 LED 非觸控 WVA 顯示器 - Intel Core i3-1115G4,8GB DDR4 RAM,256GB SSD,UHD 顯示卡,Windows 11 Home - 碳黑色",https://www.amazon.com/-/zh_TW/Dell-Inspiron-3511-15-6-%E5%90%8B%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6/dp/B09GYN91J9/ref=sr_1_24?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-24,384.99,4.0,304,"品牌: Dell
+型號名稱: Inspiron 15 3511
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 256 GB
+CPU 型號: Core i3 Family
+已安裝隨機存取記憶體大小: 8 GB
+作業系統: Windows 11 Home
+查看更多","全新的 Inspiron 15 3511 非接觸式筆記型電腦專為保持連線而設計,由最新的 Intel® 處理器。 這款筆記型電腦採用再生塑膠,概述了您和環境。 此外,它的 Energy Star 8.0 認證,採用符合人體工學的升降鉸鏈設計,讓您整天舒適地連接。 Comfortview 低藍光解決方案有助於減少藍光產生的有害排放,並長時間持續的螢幕時間優化眼睛舒適度。 在 15.6 吋筆記型電腦中獲得更多螢幕,採用三面窄邊框,帶來身臨其境的 FHD 觀看體驗。 內建高畫質網路攝影機設計,讓您隨時隨地與社群連線。 這款筆記型電腦具有 ExpressCharge™ 功能,可最大限度地減少您連接到插座的時間,並在短時間內快速為您的電池充電。",https://www.amazon.com/-/zh_TW/Dell-Inspiron-3511-15-6-%E5%90%8B%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6/product-reviews/B09GYN91J9/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+56,造訪 Dell 品牌旗艦店,"Dell S2722QC 27 吋 4K USB-C 顯示器 - UHD (3840 x 2160) 顯示器,60Hz 刷新率,8MS 灰灰至灰回應時間(正常模式),內建雙 3W 喇叭,1.07 億色鉑金銀",https://www.amazon.com/-/zh_TW/Dell-S2722QC-27-USB-C-%E9%A1%AF%E7%A4%BA%E5%99%A8/dp/B09DTDRJWP/ref=sr_1_25?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-25,,4.3,1317,"螢幕尺寸: 27 Inches
+顯示器解析度上限: 3840 x 2160 Pixels
+品牌: Dell
+特殊功能: 高度調整、傾斜調整、旋轉調整、樞軸調整、無閃爍、內建喇叭
+更新率: 60 Hz",,https://www.amazon.com/-/zh_TW/Dell-S2722QC-27-USB-C-%E9%A1%AF%E7%A4%BA%E5%99%A8/product-reviews/B09DTDRJWP/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+57,造訪 Dell 品牌旗艦店,"Dell 戴爾 WD19TB Thunderbolt 擴充基座,附 180W AC 電源整流器(130W 電源傳輸)",https://www.amazon.com/-/zh_TW/Dell-WD19TB-Thunderbolt-%E6%93%B4%E5%85%85%E5%9F%BA%E5%BA%A7-%E9%9B%BB%E6%BA%90%E6%95%B4%E6%B5%81%E5%99%A8/dp/B07RYZTFYD/ref=sr_1_26?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-26,159.99,4.2,425,"品牌: Dell
+顏色: 黑色
+硬體介面: USB
+相容裝置: Dell 筆記型電腦/平板電腦
+USB 連接埠總數: 2
+商品尺寸，長 x 寬 x 高: 20.6 x 8.9 x 2.8 公分
+連接埠數量: 2
+商品重量: 20.63 Ounces
+查看更多","Dell Thunderbolt 底座 -- WD19TB。 相容性:Latitude 3301;Latitude 3390 2 合 1;Latitude 3400;Latitude 3490;Latitude 3500;Latitude 3590。 相容與推薦:Latitude 5280;Latitude 5285;Latitude 5289;Latitude 5290;Latitude 5290 2合1;Latitude 5300;Latitude 5300 2合1;Latitude 5400;Latitude 5401;Latitude 5480;Latitude 5490;Latitude 5490;Latitude 5; Latitude 5; Latitude 5; Latitude 5490;Latitude 5; Latitude 5; Latitude 5490491; Latt Latitude 5500;Latitude 5501;Latitude 5580;Latitude 5590;Latitude 591;Latitude 7200 2 合 1;Latitude 7280;Latitude 7285;Latitude 7300;Latitude 7380;Latitude 7389;Latitude 7390;Latitude 7390;Latitude 二合一 2 合 1;Latitude 7400;Latitude 7400 2 合 1;Latitude 7480;Latitude 7490;Precision 3520;Precision 3530;Precision 3540;Precision 3541;Precision 5520;Precision 5530;Precision 5530 2 合 1;Precision 540;Precision 7520*; 精密 75300 *; Precision 7540*; Precision 7720*; Precision 7730*; Precision 740*; Rugged 5420; Rugged 5424; Rugged 7424; XPS 9360; XPS 9365; XPS 9370; XPS 9380; XPS 9560; XPS 9570; XPS 9570; XPS 9570; XPS 9570; XPS 9570; XPS 9570; XPS 9570; XPS 9570; XPS 9 5. 5. (*精密 7520/7530/7540/7720/7730/7740 的功率需要超過 130W 的功率,因此當與 Dell Dock WD19 (130W/180W) 或 Dell Thunderbolt Dock WD19TB 對接時,工作站電源適配器需要插入以獲得最佳操作。 為了獲得最佳 Precision 7530/7540 或 7730/7740 的體驗,請選擇 Dell Performance Dock WD19DC,附雙 USB-C 連接器,可提供高達 210W 的電源傳輸,因此您不再需要額外的電源轉接器)。 使用 ExpressCharge Boost 在世界上最強大和第一個模塊化的 Thunderbolt 底座上,以未來準備的設計。",https://www.amazon.com/-/zh_TW/Dell-WD19TB-Thunderbolt-%E6%93%B4%E5%85%85%E5%9F%BA%E5%BA%A7-%E9%9B%BB%E6%BA%90%E6%95%B4%E6%B5%81%E5%99%A8/product-reviews/B07RYZTFYD/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+58,造訪 Dell 品牌旗艦店,"Dell 戴爾 27 吋螢幕 FHD (1920 x 1080) 16:9 與 Comfortview (經 UV 認證),75Hz 刷新率,16.7 百萬種顏色,防眩光螢幕,3H 硬度,黑色 - SE2722HX",https://www.amazon.com/-/zh_TW/Dell-%E5%90%8B%E8%9E%A2%E5%B9%95-FHD-1920-1080/dp/B096MYB1H1/ref=sr_1_27?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-27,149.99,4.6,2609,"螢幕尺寸: 27 Inches
+顯示器解析度上限: 1920 x 1080
+品牌: Dell
+特殊功能: 無閃爍, 傾斜調整, 上下傾斜, 無模糊, 不閃屏, 防眩光。
+更新率: 75 Hz",,https://www.amazon.com/-/zh_TW/Dell-%E5%90%8B%E8%9E%A2%E5%B9%95-FHD-1920-1080/product-reviews/B096MYB1H1/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+59,造訪 Dell 品牌旗艦店,Dell Inspiron 15 3000 3520 15.6 吋 FHD 觸控螢幕(Intel 4核心 i5-1135G7、16GB RAM、512GB PCIe SSD、UHD Graphics) 商務筆記型電腦、WVA 防眩光、數字鍵盤、網路攝影機、Wi-Fi、Win 11 Home,https://www.amazon.com/-/zh_TW/Inspiron-3520-i5-1135G7%E3%80%8116GB-%E5%95%86%E5%8B%99%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6%E3%80%81WVA-%E9%98%B2%E7%9C%A9%E5%85%89%E3%80%81%E6%95%B8%E5%AD%97%E9%8D%B5%E7%9B%A4%E3%80%81%E7%B6%B2%E8%B7%AF%E6%94%9D%E5%BD%B1%E6%A9%9F%E3%80%81Wi-Fi%E3%80%81Win/dp/B0CDB4Z722/ref=sr_1_28?keywords=dell&qid=1697092396&refinements=p_89%3Adell&s=electronics&sr=1-28,569.99,3.9,14,"品牌: Dell
+型號名稱: Inspiron 3000
+螢幕尺寸: 15.6 Inches
+顏色: 灰色
+硬碟大小: 512 GB
+CPU 型號: Core i5
+已安裝隨機存取記憶體大小: 16 GB
+作業系統: Windows 11 Home
+查看更多","感覺良好
+內建 HD 網路攝影機可讓您隨時隨地與社群建立聯繫
+易於日常使用
+升降鉸鏈設計和放大鍵盤使使用更加符合人體工學、舒適
+環保意識
+使用消費後可回收塑膠和水性塗料製成
+延長電池壽命
+長效電池與快速充電功能,持續更長的時間。
+技術規格
+處理器:Intel 四核心 i5-1135G7 (基本時脈 2.4GHz、最大 Boost 時脈高達 4.2GHz、8MB 智慧型快取記憶體、8 個執行緒)
+顯示器:15.6"" Full HD (1920x1080), 60Hz, WVA, 防眩光, 250 nit, 窄邊框, LED背光, 觸控螢幕顯示器
+圖形:整合式 Intel UHD 顯示卡
+記憶體:16GB DDR4 RAM
+儲存空間:512GB PCIe NVMe M.2 SSD
+網路:Wi-Fi 5 RTL8821CE、1x1、802.11ac + 藍牙
+作業系統:Windows 11 Home 64 位元
+電池:3 芯,41 Wh,集成
+相機:720p
+鍵盤:英文美國非背光鍵盤
+尺寸:35.8 x 9.5 x 2.1 公分
+重量:3.5 磅(約 1.7
+I/O 連接埠
+2 個 USB 3.2 Gen 1 Type-A
+USB 2.0 連接埠
+HDMI 1.4 連接埠
+耳機/麥克風組合插孔
+SD 讀卡機",https://www.amazon.com/-/zh_TW/Inspiron-3520-i5-1135G7%E3%80%8116GB-%E5%95%86%E5%8B%99%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6%E3%80%81WVA-%E9%98%B2%E7%9C%A9%E5%85%89%E3%80%81%E6%95%B8%E5%AD%97%E9%8D%B5%E7%9B%A4%E3%80%81%E7%B6%B2%E8%B7%AF%E6%94%9D%E5%BD%B1%E6%A9%9F%E3%80%81Wi-Fi%E3%80%81Win/product-reviews/B0CDB4Z722/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+60,造訪 Dell 品牌旗艦店,"Dell Inspiron 15 5000 Laptop, 15.6"" FHD Display, 11th Gen Intel Core i5-1135G7 (Beats i7-1065G7), Intel Iris Xe Graphics, Backlit Keyboard, Fingerprint Reader, Win 11 (32GB RAM | 1TB PCIe SSD)",https://www.amazon.com/-/zh_TW/sspa/click?ie=UTF8&spc=MTo1MTUyMzA1MTk4OTYyNjQ5OjE2OTcwOTIzOTY6c3BfYnRmOjIwMDE2ODczNTcxMDY5ODo6MDo6&url=%2FInspiron-5000%2Fdp%2FB0BWBGZS5X%2Fref%3Dsr_1_29_sspa%3Fkeywords%3Ddell%26qid%3D1697092396%26refinements%3Dp_89%253Adell%26s%3Delectronics%26sr%3D1-29-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1,859.0,1.0,1 評級,"品牌: Dell
+型號名稱: Inspiron 5000
+螢幕尺寸: 15.6 Inches
+硬碟大小: 1 TB
+CPU 型號: Intel Core i5
+已安裝隨機存取記憶體大小: 32 GB
+作業系統: Windows 11
+特殊功能: Backlit Keyboard,Fingerprint Reader
+查看更多","Processor: 11th Gen Intel Core i5-1135G7 (8 MB cache, 4 cores, 8 threads, up to 4.20 GHz Turbo)
+Graphics: Intel Iris Xe Graphics
+Operating system:Windows 11 Home Operation System 64-bit
+Memory: 32GB DDR4 SDRAM
+Hard Drive: 1TB M.2 PCIe NVMe Solid State Drive
+Optical Drive: No
+Display: 15.6"" FHD 1920x1080, 60Hz, AG, WVA, LED-Backlit, Narrow Border
+Ports:
+2 x USB-3.2 Gen 1
+1 x USB-3.2 Gen 1 Type-C with DisplayPort and PowerDelivery
+1 x Power connector
+1 x HDMI 1.4b
+1 x Headphone / microphone combo jack (3.5mm)
+1 x Card reader (microSD-card slot)
+Connectivity: Wi-Fi 6 (11ax, 2x2) and Bluetooth 5.0
+Audio: Dual Stereo Speakers
+Keyboard: Backlit Keyboard, Full size, US English
+Built-in HD Webcam: 720p HD camera with integrated dual array digital microphones
+Battery: 3 Cell, 40 Wh, integrated
+Color: Silver
+Dimensions L x W x H (inches): 14.02 x 9.23 x 0.70
+Weight: 3.64 lbs",No review
+61,品牌：DELL,"戴尔 OptiPlex 3000 全尺寸立式商務桌上型電腦 Intel Core i5-12500 處理器,64GB DDR4 RAM,4TB PCIe SSD + 4TB HDD,DVDRW,乙太網路,WiFi 轉接器,KB&滑鼠,Windows 11 Pro,黑色",https://www.amazon.com/-/zh_TW/sspa/click?ie=UTF8&spc=MTo1MTUyMzA1MTk4OTYyNjQ5OjE2OTcwOTIzOTY6c3BfYnRmOjMwMDAzODMwNjM1MTYwMjo6MDo6&url=%2FOptiPlex-3000-%25E5%2585%25A8%25E5%25B0%25BA%25E5%25AF%25B8%25E7%25AB%258B%25E5%25BC%258F%25E5%2595%2586%25E5%258B%2599%25E6%25A1%258C%25E4%25B8%258A%25E5%259E%258B%25E9%259B%25BB%25E8%2585%25A6-i5-12500-Windows%2Fdp%2FB0C59KVFM4%2Fref%3Dsr_1_30_sspa%3Fkeywords%3Ddell%26qid%3D1697092396%26refinements%3Dp_89%253Adell%26s%3Delectronics%26sr%3D1-30-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1,,No star,0,"產品特定用途: 遊戲
+品牌: DELL
+作業系統: Windows 11 Pro
+記憶體儲存容量: 4 TB
+已安裝隨機存取記憶體大小: 64 GB
+型號名稱: i5 12500
+包含的元件: 滑鼠
+查看更多",,No review
+62,造訪 Dell 品牌旗艦店,Dell 2KMVD Toner Cartridge 5350dn Laser Printers,https://www.amazon.com/-/zh_TW/sspa/click?ie=UTF8&spc=MTo1MTUyMzA1MTk4OTYyNjQ5OjE2OTcwOTIzOTY6c3BfYnRmOjIwMDA0NzYxNDIzODQ5ODo6MDo6&url=%2F2KMVD%2Fdp%2FB007X3WQU4%2Fref%3Dsr_1_31_sspa%3Fkeywords%3Ddell%26qid%3D1697092396%26refinements%3Dp_89%253Adell%26s%3Delectronics%26sr%3D1-31-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1,137.88,No star,0,,"30,000 page Black Toner Cartridge (U&R) for Dell 5350dn Laser Printers",No review
+63,造訪 Dell 品牌旗艦店,"Dell 戴爾 S2722DZ 27 吋在家工作 - 顯示器,視訊會議功能 - 內建相機,防噪雙麥克風,USB-C 連接,16:09 寬高比,4 毫秒反應時間,QHD - 銀色",https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-S2722DZ-27-%E5%90%8B%E5%9C%A8%E5%AE%B6%E5%B7%A5%E4%BD%9C/dp/B09FB6GVK1/ref=sr_1_25?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-25,329.99,4.2,233,"螢幕尺寸: 27 Inches
+顯示器解析度上限: 2560 x 1440
+品牌: Dell
+特殊功能: 内置扬声器, 内置网络摄像头, 旋转调节, 防眩光屏, 高度调节, 倾斜调节, 无闪烁, 枢轴调节
+更新率: 75 Hz",,https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-S2722DZ-27-%E5%90%8B%E5%9C%A8%E5%AE%B6%E5%B7%A5%E4%BD%9C/product-reviews/B09FB6GVK1/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+64,造訪 Dell 品牌旗艦店,"Dell 戴爾 34 吋超寬,WQHD(寬四高清),曲面 USB-C 顯示器(P3421W),3440 x 1440,60Hz,3800R 曲率,1.07 億種顏色,可調整,黑色",https://www.amazon.com/-/zh_TW/Dell-WQHD-USB-C-P3421W-3800R/dp/B08MWY9THF/ref=sr_1_26?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-26,396.0,4.4,199,"螢幕尺寸: 34 Inches
+顯示器解析度上限: QHD wide 3440 x 1440 Pixels
+品牌: Dell
+特殊功能: 弧形屏幕, 防眩涂层, 高度調整, 超寬螢幕, 上下傾斜, 左右旋轉, 不閃屏
+更新率: 60 Hz",,https://www.amazon.com/-/zh_TW/Dell-WQHD-USB-C-P3421W-3800R/product-reviews/B08MWY9THF/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+65,造訪 Dell 品牌旗艦店,Dell 戴爾 Dock- WD19S 90w 電源供應器 - 130w AC - 90 W,https://www.amazon.com/-/zh_TW/Dell-Dock-WD19S-90w-%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8/dp/B091BKNHJV/ref=sr_1_27?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-27,139.99,4.4,277,"品牌: Dell
+顏色: 黑色
+硬體介面: USB, Ethernet, HDMI, 3.5mm Audio
+相容裝置: Dell 筆記型電腦/平板電腦
+USB 連接埠總數: 4
+商品尺寸，長 x 寬 x 高: 28 x 206 x 89 毫米
+連接埠數量: 4
+商品重量: 1.45 公斤
+查看更多",Dell 戴爾 Dock- WD19S 90w 電源傳輸 - 130w AC - 90 W,https://www.amazon.com/-/zh_TW/Dell-Dock-WD19S-90w-%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8/product-reviews/B091BKNHJV/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+66,造訪 Dell 品牌旗艦店,Dell 戴爾 USB 3.0 Ultra HD/4K 三重顯示基座（D3100），黑色,https://www.amazon.com/-/zh_TW/Dell-USB-3-0-Ultra-%E4%B8%89%E9%87%8D%E9%A1%AF%E7%A4%BA%E5%9F%BA%E5%BA%A7%EF%BC%88D3100%EF%BC%89%EF%BC%8C%E9%BB%91%E8%89%B2/dp/B00O0M46KO/ref=sr_1_28?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-28,89.99,4.5,9692,"品牌: Dell
+顏色: 黑色
+硬體介面: USB
+相容裝置: Dell 筆記型電腦/平板電腦
+USB 連接埠總數: 5
+商品尺寸，長 x 寬 x 高: 52.6 x 38.1 x 28.4 公分
+查看更多",,https://www.amazon.com/-/zh_TW/Dell-USB-3-0-Ultra-%E4%B8%89%E9%87%8D%E9%A1%AF%E7%A4%BA%E5%9F%BA%E5%BA%A7%EF%BC%88D3100%EF%BC%89%EF%BC%8C%E9%BB%91%E8%89%B2/product-reviews/B00O0M46KO/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+67,造訪 Dell 品牌旗艦店,"Dell Inspiron 15 3000 系列 3511 筆記型電腦,15.6 吋 FHD 觸控螢幕,Intel Core i5-1035G1,32GB DDR4 RAM,1TB PCIe SSD,SD 卡讀卡器,網路攝影機,HDMI,Wi-Fi,Windows 11 Home,黑色",https://www.amazon.com/-/zh_TW/Inspiron-3511-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-1035G1-Windows/dp/B0B29C364N/ref=sr_1_29?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-29,582.0,4.3,493,"品牌: Dell
+型號名稱: Inspiron
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 1 TB
+CPU 型號: Core i5-1035G1
+已安裝隨機存取記憶體大小: 32 GB
+作業系統: Windows 11 Home
+查看更多","主要特點和優點:
+CPU:Intel Core i5-1035G1 四核心處理器(4 核心、8 個執行緒、6MB L3 快取記憶體、基本頻率 1.0 GHz、Intel Turbo Boost 技術高達 3.60 GHz)
+記憶體:高達 32GB DDR4 SDRAM
+硬碟:高達 2TB PCIe NVMe M.2 固態硬碟。
+作業系統:Windows 11 Home
+顯示器:15.6 吋 FHD (1920 x 1080) 防眩光LED 背光窄邊框 WVA 觸控螢幕
+觸控螢幕:是
+影片:Intel Iris Xe 顯示卡
+音訊:立體聲喇叭
+連接埠:
+1 個 USB-A 2.0
+2 個 USB-A 3.2
+1 個 HDMI 1.4
+1 個耳機/麥克風組合
+媒體磁碟機:SD 讀卡機
+光碟機: 無
+無線連接:802.11ac 1x1 Wi-Fi 和藍牙
+網路攝影機:720p HD 相機,附相機快門和整合式雙陣列數位麥克風
+電池:3 芯,42Wh,集成電池
+尺寸:14 x 9.5 x 0.7 英吋
+重量:3.5 磅(約 1.7
+顏色:黑色",https://www.amazon.com/-/zh_TW/Inspiron-3511-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-1035G1-Windows/product-reviews/B0B29C364N/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+68,造訪 Dell 品牌旗艦店,"Dell 2022 最新 Inspiron 3511 筆記型電腦,15.6 吋 FHD 觸控螢幕,Intel Core i5-1135G7,16GB DDR4 RAM,512GB PCIe SSD,SD 卡讀卡機,網路攝影機,HDMI,Wi-Fi,Windows 11 Home,黑色",https://www.amazon.com/-/zh_TW/Inspiron-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-Intel-i5-1135G7-Windows/dp/B0B6WRGDPL/ref=sr_1_30?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-30,548.98,4.1,133,"品牌: Dell
+型號名稱: Inspiron
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 512 GB
+CPU 型號: Core i5 Family
+已安裝隨機存取記憶體大小: 16 GB
+作業系統: Windows 11 Home
+查看更多",1,https://www.amazon.com/-/zh_TW/Inspiron-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-Intel-i5-1135G7-Windows/product-reviews/B0B6WRGDPL/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+69,造訪 Dell 品牌旗艦店,"Dell 戴爾 S3222HG 32 吋 165Hz 曲面電競顯示器 - Full HD (1920 x 1080) 顯示器,1800R 曲率,AMD FreeSync,4ms 灰灰灰灰灰灰反應時間(超快速模式),1670 萬種顏色 - 黑色",https://www.amazon.com/-/zh_TW/Dell-S3222HG-165Hz-%E6%9B%B2%E9%9D%A2%E9%9B%BB%E7%AB%B6%E9%A1%AF%E7%A4%BA%E5%99%A8-%E7%81%B0%E7%81%B0%E7%81%B0%E7%81%B0%E7%81%B0%E7%81%B0%E5%8F%8D%E6%87%89%E6%99%82%E9%96%93/dp/B09DYRXY4V/ref=sr_1_31?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-31,,4.7,6449,"螢幕尺寸: 32 Inches
+顯示器解析度上限: 1920 x 1080
+品牌: Dell
+特殊功能: 高度調節、傾斜調整、無閃爍藍光濾鏡、彎曲
+更新率: 165 Hz",,https://www.amazon.com/-/zh_TW/Dell-S3222HG-165Hz-%E6%9B%B2%E9%9D%A2%E9%9B%BB%E7%AB%B6%E9%A1%AF%E7%A4%BA%E5%99%A8-%E7%81%B0%E7%81%B0%E7%81%B0%E7%81%B0%E7%81%B0%E7%81%B0%E5%8F%8D%E6%87%89%E6%99%82%E9%96%93/product-reviews/B09DYRXY4V/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+70,造訪 Dell 品牌旗艦店,Dell 戴爾 S2721QS 4K UHD，超薄 Bezel 螢幕,https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-S2721QS-UHD%EF%BC%8C%E8%B6%85%E8%96%84-Bezel/dp/B08DQWG3JG/ref=sr_1_32?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-32,,4.4,2850,"螢幕尺寸: 27 Inches
+顯示器解析度上限: 4K UHD 3840 x 2160 Pixels
+品牌: Dell
+特殊功能: Curved,High Dynamic Range,Swivel Adjustment,Height Adjustment,Pivot Adjustment,Tilt Adjustment
+更新率: 60 Hz",,https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-S2721QS-UHD%EF%BC%8C%E8%B6%85%E8%96%84-Bezel/product-reviews/B08DQWG3JG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+71,造訪 Dell 品牌旗艦店,"Dell Inspiron 15 3000 3520 商用筆記型電腦[Windows 11 Pro],15.6 吋 FHD 觸控螢幕,第11代 Intel 四核心 i5-1135G7,16GB RAM,1TB PCIe SSD,數字鍵盤,Wi-Fi,網路攝影機,HDMI",https://www.amazon.com/-/zh_TW/Dell-Inspiron-%E5%95%86%E7%94%A8%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-Windows-i5-1135G7/dp/B0CC936WF1/ref=sr_1_33?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-33,659.0,5.0,2,"品牌: Dell
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 1 TB
+CPU 型號: Core i5
+已安裝隨機存取記憶體大小: 16 GB
+作業系統: Windows 11 Pro
+特殊功能: 數字鍵盤
+查看更多","Lanbertent 銷售具有升級配置的電腦。 製造商包裝盒可能會打開,以便進行測試和檢查,並安裝升級以達到廣告規範。 如果未列出任何修改,則該商品將未開啟且未經測試。 我們的深度檢查和測試可大幅減少瑕疵和瑕疵。
+
+品牌:Dell
+
+系列: Inspiron 3000 3520
+
+顯示器:15.6 吋 FHD 顯示器
+
+解析度:1920 x 1080
+
+觸控螢幕:是
+
+圖形:整合式 Intel UHD 顯示卡
+
+處理器:Intel Core i5-1135G7 (8 MB 快取記憶體、4 核心、8 個執行緒、4.20 GHz Turbo)
+
+處理器速度:4.20 吉赫茲
+
+RAM 記憶體:16GB RAM
+
+儲存空間:1TB PCIe SSD
+
+鍵盤:帶數字鍵盤的鍵盤(非背光)
+
+相機:HD 720p
+
+喇叭:整合式立體聲喇叭
+
+內建麥克風:是
+
+無線連接:WiFi 5、藍牙
+
+標準連接埠:2 個 USB 3.2 Type A 連接埠;1 個 USB 2.0 Type A 連接埠;1 個 HDMI;1 個耳機插孔;1 個媒體讀卡器
+
+作業系統:Windows 11 Pro
+
+尺寸(長x寬x高):14.11 x 9.27 x 0.83 英吋
+
+重量:3.5 磅(約 1.7
+
+顏色:黑色",https://www.amazon.com/-/zh_TW/Dell-Inspiron-%E5%95%86%E7%94%A8%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-Windows-i5-1135G7/product-reviews/B0CC936WF1/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+72,造訪 Dell 品牌旗艦店,"Dell UltraSharp U2422H 24 吋液晶顯示器,銀色",https://www.amazon.com/-/zh_TW/Dell-UltraSharp-U2422H-24-%E5%90%8B%E6%B6%B2%E6%99%B6%E9%A1%AF%E7%A4%BA%E5%99%A8/dp/B0929QYCQ7/ref=sr_1_34?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-34,241.36,4.4,172,"螢幕尺寸: 23.8 Inches
+顯示器解析度上限: 1920 x 1080 Pixels
+品牌: Dell
+特殊功能: 高度調整
+更新率: 60 Hz",,https://www.amazon.com/-/zh_TW/Dell-UltraSharp-U2422H-24-%E5%90%8B%E6%B6%B2%E6%99%B6%E9%A1%AF%E7%A4%BA%E5%99%A8/product-reviews/B0929QYCQ7/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+73,造訪 Dell 品牌旗艦店,Dell 筆記型電腦充電器 65W W USB Type C AC 電源轉接器 LA65NM190/HA65NM190/DA65NM190 隨附適用於 Dell XPS 12 9250 的電源線 XPS 13 9350 相容於 XPS 系列和 Latitude 5000 系列,https://www.amazon.com/-/zh_TW/%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6%E5%85%85%E9%9B%BB%E5%99%A8-LA65NM190-HA65NM190-DA65NM190-Latitude/dp/B09GHV6G55/ref=sr_1_35?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-35,25.15,4.6,543,"品牌: Dell
+連線技術: USB
+連接器類型: USB Type C
+相容裝置: 筆記型電腦
+包含的元件: 電線
+特殊功能: 2WDR5
+顏色: 黑色
+輸入電壓: 240 Volts
+查看更多","Dell OEM 65 瓦 AC 電源轉接器,附 USB Type-C 連接器 - 65 瓦 2WDR5-FBA",https://www.amazon.com/-/zh_TW/%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6%E5%85%85%E9%9B%BB%E5%99%A8-LA65NM190-HA65NM190-DA65NM190-Latitude/product-reviews/B09GHV6G55/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+74,造訪 Dell 品牌旗艦店,Dell DW316 USB Thin DVD Super Multi Drive,https://www.amazon.com/-/zh_TW/DW316/dp/B01H8C6P4M/ref=sr_1_36?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-36,34.99,4.3,23,"作業系統: Windows 8.1, Windows 8, Windows 7, Windows 10
+特殊功能: Lightweight
+硬體介面: USB 2.0 Type A
+品牌: Dell
+光學儲存寫入速度: 24x, 8x, 6x","Plug and Play solution for USB port writing, disc playback
+
+At home or on the go.
+Simply plug this low-profile (14mm) lightweight (200g) drive into the USB port of your Ultrabook or Laptop and you can instantly burn DVDs, CDs, or play your favorite DVDs and CDs in your home or tight workspace.
+You can also put this drive in your bag and do those tasks on the go.
+
+Preloaded CyberLink Media Suite
+Play and write DVDs and CDs with ease using the pre-loaded CyberLink Media Suite
+Instead, you can install and use disk-based computer programs.
+
+Excellent Performance
+Play your favorite DVDs and CDs and write to DVDs and CDs with Dell External USB Thin DVD Super Multi Optical Drive.
+This high performance external optical drive is powered by an Ultrabook or laptop USB port, so no batteries or power cord is required.
+
+Simple and elegant design
+The sleek design of the Dell External USB Thin DVD Super Multi Optical Drive matches the look of your laptop and blends in with your workspace and high-tech cafes.
+
+1 Year Warranty
+Buy and use with confidence knowing that the Dell External USB Thin DVD Super Multi Optical Drive comes with a 1 year hardware limited warranty.
+
+■About the manufacturer support
+Manufacturer support windows for this product include: When you make an inquiry, you will need the ""Order No"" attached to the outer box.
+Chat (LINE) Support: https://page.line.me/391vsisb (LINE Account Name: Dell Technologies / LINE ID: @dell / Supported Time: 9:00-21:00 - including weekends and holidays)
+Phone support: https://www.dell.com/support/incidents-online/ja-jp/contactus/Dynamic
+Manufacturer support is for products sold on Amazon.co.jp. Please contact each seller for assistance with the same product sold by other sellers.
+For more information regarding manufacturer support, please check the disclaimer.",https://www.amazon.com/-/zh_TW/DW316/product-reviews/B01H8C6P4M/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+75,造訪 Dell 品牌旗艦店,"Dell UltraSharp U3223QE 31 吋 4K UHD WLED LCD 螢幕 - 16:9 - 黑色,銀色",https://www.amazon.com/-/zh_TW/Dell-UltraSharp-U3223QE-UHD-WLED/dp/B09TVZHV4W/ref=sr_1_37?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-37,771.39,4.3,124,"螢幕尺寸: 31.5 Inches
+顯示器解析度上限: 3840 x 2160 Pixels
+品牌: Dell
+特殊功能: 高度調整
+更新率: 75 Hz",,https://www.amazon.com/-/zh_TW/Dell-UltraSharp-U3223QE-UHD-WLED/product-reviews/B09TVZHV4W/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+76,造訪 Dell 品牌旗艦店,Dell 戴爾 Inspiron 3583 15â'¬ 筆記型電腦 Intel Celeron 128GB SSD 4 1.6GHz - UHD Graphics 610 - Windows 10 Home - Inspiron 15 3000 系列 - 全新,https://www.amazon.com/-/zh_TW/Dell-Inspiron-3583-Celeron-1-6GHz/dp/B08HSNRFTX/ref=sr_1_38?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-38,319.0,4.2,1569,"品牌: Dell
+型號名稱: Inspiron
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 500 GB
+CPU 型號: Celeron
+已安裝隨機存取記憶體大小: 4 GB
+作業系統: Windows 10 Home
+查看更多","Inspiron 15 3000 系列 W10 Home 64b 內部美式英文鍵盤(非背光)Dell 1810/20 無線驅動程式 802.11ac 1x1 WiFi 和藍牙黑色紋理掌托,無指紋讀取器 Intel Celeron 128GB M.2 PCIe NVMe 固態硬碟 PLUS 500GB HDD 4GB、DDR4、2666MHz 3 3.8 英吋 (約 9.HD (1366 x 768) 防眩光 LED 背光非觸控顯示器 Intel UHD Graphics Windows 10 Home in S 模式",https://www.amazon.com/-/zh_TW/Dell-Inspiron-3583-Celeron-1-6GHz/product-reviews/B08HSNRFTX/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+77,造訪 Dell 品牌旗艦店,"Dell Latitude 3540 15.6"" Notebook - HD - 1366 x 768 - Intel Core i5 13th Gen i5-1335U Deca-core (10 Core) - 8 GB Total RAM - 256 GB SSD, 0.80"" x 14.1"" x 9.4""",https://www.amazon.com/-/zh_TW/3540/dp/B0C8J2FG46/ref=sr_1_39?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-39,748.28,5.0,1 評級,"品牌: Dell
+型號名稱: Latitude
+螢幕尺寸: 15.6 Inches
+硬碟大小: 256 GB
+CPU 型號: Core i5
+已安裝隨機存取記憶體大小: 8 GB
+作業系統: Windows 11 Pro
+查看更多","Latitude Laptops & 2-in-1 PCs Our most secure and manageable commercial laptops, delivering reliable productivity for your end-users.",No review
+78,造訪 Dell 品牌旗艦店,Dell 戴爾 65W 20V 3.25A USB C 適用於 Dell LA65NM170、2YKOF、02YKOF、Dell XPS 12 9250、Dell Latitude 12 7275、Dell Latitude 13 7370,https://www.amazon.com/-/zh_TW/3-25A-LA65NM170%E3%80%812YKOF%E3%80%8102YKOF%E3%80%81Dell-9250%E3%80%81Dell-Latitude-7275%E3%80%81Dell/dp/B071P91RRB/ref=sr_1_40?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-40,30.64,4.5,805,"品牌: Dell
+連線技術: USB
+連接器類型: USB Type C
+相容裝置: 筆記型電腦
+相容的手機型號: 零件相容於以下 Chromebook 型號:13 3380 / 13 G3 3380
+包含的元件: 電線
+纜線長度: 1 Meters
+查看更多",Dell LA65W 20V 3.25A USB C 適用於 Dell LA65NM170、2YKOF、02YKOF、Dell XPS 12 9250、Dell Latitude 12 7275、Dell Latitude 13 7370、,https://www.amazon.com/-/zh_TW/3-25A-LA65NM170%E3%80%812YKOF%E3%80%8102YKOF%E3%80%81Dell-9250%E3%80%81Dell-Latitude-7275%E3%80%81Dell/product-reviews/B071P91RRB/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+79,造訪 Dell 品牌旗艦店,Dell 行動無線滑鼠 - MS3320W - 泰坦灰色,https://www.amazon.com/-/zh_TW/MS3320W-Dell-%E8%A1%8C%E5%8B%95%E7%84%A1%E7%B7%9A%E6%BB%91%E9%BC%A0-%E6%B3%B0%E5%9D%A6%E7%81%B0%E8%89%B2/dp/B083V5HRX2/ref=sr_1_41?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-41,,4.6,478,"品牌: Dell
+顏色: 泰坦灰色
+連線技術: 無線 - 2.4 GHz,藍牙 5.0
+特殊功能: 無線
+動作偵測技術: 光學",,https://www.amazon.com/-/zh_TW/MS3320W-Dell-%E8%A1%8C%E5%8B%95%E7%84%A1%E7%B7%9A%E6%BB%91%E9%BC%A0-%E6%B3%B0%E5%9D%A6%E7%81%B0%E8%89%B2/product-reviews/B083V5HRX2/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+80,造訪 Dell 品牌旗艦店,Dell Vostro 3910 Desktop Computer | 12th Gen Intel 4-Core Processor | 16GB DDR4 RAM | 256GB SSD + 1TB HDD | Intel UHD Graphics 730 | WiFi 6 | DVD-RW | Display Port | HDMI | Windows 11 Pro,https://www.amazon.com/-/zh_TW/dp/B0CJMNP1H4/ref=sr_1_42?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-42,519.99,5.0,1 評級,"產品特定用途: Business
+品牌: Dell
+作業系統: Windows 11 Pro
+記憶體儲存容量: 256 GB
+已安裝隨機存取記憶體大小: 16 GB
+型號名稱: Vostro
+包含的元件: DVD
+查看更多","Processor: 12th Gen Intel Core i3-12100 (up to 4.3 GHz with Intel Turbo Boost Technology, 12 MB L3 cache, 4 cores, 8 threads)
+Graphics: Integrated Intel UHD
+Operating system:Windows 11 Pro, 64-bit, English
+Memory: 16GB DDR4 RAM
+Hard Drive: 256GB PCIe M.2 Solid State Drive + 1TB HDD
+Optical Drive: Slim drive with emergency eject pinhole. Reads from and writes to CDs and DVDs.
+Ports:
+Front:
+2 x USB 2.0
+2 x USB 3.2 Gen 1
+1 x Headphone / Microphone combo jack (3.5mm)
+Back:
+2 x USB 2.0
+2 x USB 3.2 Gen 1
+1 x Audio line-out
+1 x HDMI 1.4b (Maximum resolution supported over HDMI is 1920x1200 @60Hz. No 4K/2K output)
+1 x DisplayPort 1.4
+1 x RJ-45 Ethernet
+1 x AC power-supply port
+Connectivity: Bluetooth wireless card
+Keyboard: DellBlack Wired Keyboard with Numeric Keypad, UK (QWERTY) - Wired Mouse Included
+Power Supply: Dell 180W (Max Power), 80 Plus Bronze Certified
+Color: Black
+Dimensions L x W x H (inches): 11.50 x 6.06 x 12.77
+Weight: 11.13 lbs",No review
+81,造訪 Dell 品牌旗艦店,Dell 戴爾通用底座 UD22,https://www.amazon.com/-/zh_TW/210-BEXR-Dell-%E6%88%B4%E7%88%BE%E9%80%9A%E7%94%A8%E5%BA%95%E5%BA%A7-UD22/dp/B0B5YC6TS4/ref=sr_1_43?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-43,188.0,4.0,27,"品牌: Dell
+顏色: 黑色
+硬體介面: USB 3.0 Type A, HDMI
+相容裝置: 监控器
+USB 連接埠總數: 10",Dell 通用底座 UD22,https://www.amazon.com/-/zh_TW/210-BEXR-Dell-%E6%88%B4%E7%88%BE%E9%80%9A%E7%94%A8%E5%BA%95%E5%BA%A7-UD22/product-reviews/B0B5YC6TS4/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+82,造訪 Dell 品牌旗艦店,"Dell 戴爾 452-BCYT D6000 通用底座,黑色,單個",https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-452-BCYT-D6000-%E9%80%9A%E7%94%A8%E5%BA%95%E5%BA%A7/dp/B071YTQBXM/ref=sr_1_44?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-44,149.99,4.4,3197,"品牌: Dell
+顏色: 黑色
+硬體介面: USB 3.0
+相容裝置: Dell, USB C, HDMI, Windows 7
+USB 連接埠總數: 5
+商品尺寸，長 x 寬 x 高: 16.6 x 7.6 x 2.9 公分
+查看更多",,https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-452-BCYT-D6000-%E9%80%9A%E7%94%A8%E5%BA%95%E5%BA%A7/product-reviews/B071YTQBXM/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+83,造訪 Dell 品牌旗艦店,Dell E2423H 24 吋 Full HD LED 液晶顯示器 - 16:9,https://www.amazon.com/-/zh_TW/Dell-E2423H-Full-LED-%E6%B6%B2%E6%99%B6%E9%A1%AF%E7%A4%BA%E5%99%A8/dp/B0BK9Y9FMK/ref=sr_1_45?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-45,111.71,No star,0,"螢幕尺寸: 23.8 Inches
+顯示器解析度上限: 1920 x 1080 Pixels
+品牌: Dell
+特殊功能: 傾斜度調整
+更新率: 60 Hz","您需要提高生產力的基本要素 寬視角:以精湛的 FHD 清晰度查看您的工作,並在寬廣的 178°/178° 視角上獲得一致的視野。清晰的圖像:獲得令人印象深刻的 3000:1 對比度,以獲得更深的黑色、明亮的白色和生動的色彩。易於看:此顯示器具有無閃爍的螢幕與 ComfortView 的軟體功能。 減少有害藍光ememem降低issions。 它旨在在長時間內優化眼睛舒適度。 功能強大、節省空間的設計方便連接:透過 VGA 和 DP 連接埠連接到當前和舊系統。最大限度地提高您的桌面:使用節省空間的功能,例如緊湊的支架和改進的電纜管理,可隱藏電纜,同時補充任何工作空間。乾淨,簡單的設計:纖薄的邊框增加了現代外觀。適應您的需求:使用 VESA 兼容的支架和支架讓您的工作空間您自己的工作空間。 Dell 顯示器管理器在各個層面都具有生產力:輕鬆安排可讓您輕鬆地在一個或多個螢幕上平鋪多個應用程式,並能夠個人化多達 5 個視窗,讓您改善多工作業能力。無縫轉換:自動還原功能會記住您中斷的地方,因此即使拔下插頭,應用程式也會回到您離開的地方。快速鍵: 鑰匙甚至可以節省您甚至可以協助您關注於您小型企業的解決方案 Intel®小型企業優勢(Intel® SBA)協助無受管網路的小型企業能夠管理安全與生產力課題。 綠色思維是現今和明天的環保標準:這款顯示器在設計中使用 85% PCR (消費後可回收) 塑膠,並符合 EnergyStar 和 TCO 認證邊緣等最新環保標準,並已註冊 EPEAT Gold。 環保包裝:戴爾商用顯示器採用 100% 可回收紙板包裝。 節能:使用 PowerNap,節省能源,這是一項在不使用時變暗或使顯示器進入睡眠狀態。 提升永續性:Dell Technologies 致力於減少整個產品生命週期對環境的影響。 閱讀更多關於我們對永續發展的承諾",No review
+84,造訪 Dell 品牌旗艦店,Dell 戴爾有線鍵盤 - 黑色 KB216 (580-ADMT),https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE%E6%9C%89%E7%B7%9A%E9%8D%B5%E7%9B%A4-%E9%BB%91%E8%89%B2-KB216-580-ADMT/dp/B00ZYLMQH0/ref=sr_1_46?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-46,17.77,4.6,32561,"品牌: Dell
+相容裝置: PC
+連線技術: 有線
+鍵盤描述: 電競
+產品推薦用途: 办公室
+特殊功能: 人体工程学
+顏色: 黑色
+作業系統: Windows 10
+查看更多",,https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE%E6%9C%89%E7%B7%9A%E9%8D%B5%E7%9B%A4-%E9%BB%91%E8%89%B2-KB216-580-ADMT/product-reviews/B00ZYLMQH0/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+85,造訪 Amazon Renewed 品牌旗艦店,"Dell Optiplex 7070 MFF 微型外型規格桌上型第 9 代 Intel Core i7-9700T 8 核心處理器,16GB DDR4 RAM,512GB SSD,Intel UHD Graphics 630,Windows 10 Pro(翻新)",https://www.amazon.com/-/zh_TW/Optiplex-%E5%BE%AE%E5%9E%8B%E5%A4%96%E5%9E%8B%E8%A6%8F%E6%A0%BC%E6%A1%8C%E4%B8%8A%E5%9E%8B%E7%AC%AC-i7-9700T-Graphics-Windows/dp/B08C4QM3DF/ref=sr_1_47?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-47,355.0,4.1,455,"產品特定用途: 日常使用
+品牌: Dell
+個人電腦設計類型: Mini PC
+作業系統: Windows 10 Professional
+記憶體儲存容量: 512 GB
+已安裝隨機存取記憶體大小: 16 GB
+查看更多","這款二手或翻新產品已經過專業檢查和測試,可正常工作,看起來像新產品。 產品如何成為 Amazon Renewed 的一部分,您購買二手翻新產品的目的地:客戶購買新產品並將其退回或換購為較新或不同的型號。 該產品已通過 Amazon 合格的供應商進行檢查和測試以正常運作,看起來像新產品。 然後,該產品在 Amazon 上以 Amazon 整新產品形式銷售。 如果對購買不滿意,續訂的產品有資格在 Amazon Renewed 保證下更換或退款。",https://www.amazon.com/-/zh_TW/Optiplex-%E5%BE%AE%E5%9E%8B%E5%A4%96%E5%9E%8B%E8%A6%8F%E6%A0%BC%E6%A1%8C%E4%B8%8A%E5%9E%8B%E7%AC%AC-i7-9700T-Graphics-Windows/product-reviews/B08C4QM3DF/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+86,造訪 Amazon Renewed 品牌旗艦店,Dell OptiPlex 3070 Desktop Computer - Intel Core i5-9500T - 8GB RAM - 256GB SSD - Micro PC (Renewed),https://www.amazon.com/-/zh_TW/Optiplex-3070/dp/B081B72Y81/ref=sr_1_48?keywords=dell&qid=1697092405&refinements=p_89%3Adell&s=electronics&sr=1-48,188.0,3.2,13,"產品特定用途: Personal, Business
+品牌: Dell
+個人電腦設計類型: All in One
+作業系統: Windows 10 Pro
+記憶體儲存容量: 256 GB
+螢幕尺寸: 0.01 Inches
+已安裝隨機存取記憶體大小: 8 GB
+型號名稱: 3070
+查看更多","Smooth sailing, with support for up to 32GB of the latest 2666MHz DDR4 Memory, you can expect a better performance than ever before.",https://www.amazon.com/-/zh_TW/Optiplex-3070/product-reviews/B081B72Y81/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+87,造訪 Dell 品牌旗艦店,"Dell 45W AC 變壓器,Type-C,USB-C",https://www.amazon.com/-/zh_TW/Dell-45W-%E8%AE%8A%E5%A3%93%E5%99%A8-Type-C-USB-C/dp/B01MQYAOK4/ref=sr_1_49?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-49,18.24,4.3,187,"相容裝置: 筆記型電腦
+連接器類型: USB
+連接器性別: 公头转公头
+顏色: 黑色
+商品尺寸，長 x 寬 x 高: 10.7 x 6.6 x 20.3 公分","使用 Dell USB-C 電源轉接器加上 - 45W 同時為您的 USB-C 供電的筆記型電腦或平板電腦和 USB 行動裝置充電。 即使房間裡只有一個牆壁插座,您也可以使用轉接器為多個行動裝置充電。 充電也非常方便,因為您無需為筆記型電腦/平板電腦充電即可充電。",https://www.amazon.com/Dell-45W-%E8%AE%8A%E5%A3%93%E5%99%A8-Type-C-USB-C/product-reviews/B01MQYAOK4/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+88,造訪 Dell 品牌旗艦店,"Dell 戴爾 KM636-BK-US 無線鍵盤滑鼠組合 (580-ADTY),黑色",https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-KM636-BK-US-%E7%84%A1%E7%B7%9A%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E7%B5%84%E5%90%88-580-ADTY/dp/B012DT6HWA/ref=sr_1_50?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-50,54.99,4.3,1186,"品牌: Dell
+顏色: 黑色
+連線技術: 射頻
+特殊功能: USB 隨附滑鼠電池隔層
+相容裝置: PC",,https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-KM636-BK-US-%E7%84%A1%E7%B7%9A%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E7%B5%84%E5%90%88-580-ADTY/product-reviews/B012DT6HWA/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+89,造訪 Amazon Renewed 品牌旗艦店,"Dell OptiPlex 7040 Tower Computers PC Tower, i7-6700 3.4GHz,16GB DDR4 New 512GB M.2 NVMe SSD+1TB HDD,Intel AX210 Built-in WiFi 6e Bluetooth 5.3,Refurbished Desktop Computer,Windows 10 Pro(Renewed)",https://www.amazon.com/-/zh_TW/OptiPlex-7040/dp/B0C9PWZSL1/ref=sr_1_51?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-51,271.99,No star,0,"產品特定用途: Business
+品牌: Dell
+個人電腦設計類型: Computer Tower
+作業系統: Windows 10 Pro
+記憶體儲存容量: 512 GB
+已安裝隨機存取記憶體大小: 16 GB
+查看更多","Dell OptiPlex 7040 Desktop Computer PC Description:
+
+Dell OptiPlex 7040 tower computers provide you reliable performance in your home and office. This computer tower features Intel quard Core i5-6600 processor, which helps to run multiple instructions at the same time. This desktop tower has a 512GB M.2 NVMe SSD and an additional 1TB HDD for reliability, make this refurbished desktop computer a great fit for an business office PC, this computer tower enables increased your efficiency. Experience lightning-fast internet speeds with the built-in AX210 Wi-Fi 6e and Bluetooth 5.3 connectivity on this pc tower. Also this dell desktop tower with 2 DisplayPort and 1 HDMI connectivity for greater visibility of your tasks, the desktop computer tower can support 3 monitors.Rest assured, this dell OptiPlex 7040 desktop computers have been professionally renewed, undergoing rigorous testing and inspection to ensure optimal performance and reliability.
+
+Tower Computers Dell OptiPlex 7040 Mini Tower PC Specifications
+
+Processor: Intel Quad Core i7-6700 6th Generation
+
+Base CPU frequency: 3.4GHz
+
+Max Turbo CPU frequency : 4.0GHz
+
+CPU Cache: 8MB
+
+Ram installed: 16GB
+
+Hard Drive Installed: New 512GB NVMe M.2 SSD+1TB HDD
+
+Graphics: Intel HD 530 Graphics
+
+Video Ports: 1 x HDMI Port, 2 x Display Port
+
+USB 3.0 Ports: 6
+
+USB 2.0 Ports: 4
+
+Ethernet: Gigabyte 10/100/1000, RJ-45
+
+Wireless Connectivity: High Speed AX210 Built-in WIFI 6e(Latest WIFI technology)
+
+Optical Drive: DVDRW
+
+Item Dimension : 14.17” * 6.88"" * 17.11""
+
+Item Weight: 25.7lbs
+
+Operating System: Windows 10 Pro 64-bit
+
+What you will get?
+
+1 x Computer Tower
+
+1 x Altec Wireless keyboard and mouse
+
+1 x RGB Speaker
+
+1 x Technical Support",No review
+90,造訪 Amazon Renewed 品牌旗艦店,2021 年最新 Dell OptiPlex 3080 Micro 外型規格商務桌上型電腦 Intel Core i5-10500T 16GB DDR4 RAM、512GB SSD、WiFi、HDMI、藍牙、有線鍵盤和滑鼠、Windows 10 Pro (翻新),https://www.amazon.com/-/zh_TW/OptiPlex-%E5%A4%96%E5%9E%8B%E8%A6%8F%E6%A0%BC%E5%95%86%E5%8B%99%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-10500T-RAM%E3%80%81512GB-SSD%E3%80%81WiFi%E3%80%81HDMI%E3%80%81%E8%97%8D%E7%89%99%E3%80%81%E6%9C%89%E7%B7%9A%E9%8D%B5%E7%9B%A4%E5%92%8C%E6%BB%91%E9%BC%A0%E3%80%81Windows/dp/B094GC5RDT/ref=sr_1_52?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-52,318.0,3.8,11,"產品特定用途: 商務
+品牌: Dell
+個人電腦設計類型: Mini PC
+作業系統: 否
+記憶體儲存容量: 512 GB
+已安裝隨機存取記憶體大小: 16 GB
+型號名稱: Optiplex
+包含的元件: 鍵盤
+查看更多",2021 年最新 Dell OptiPlex 3080 Micro 外型規格商用桌上型電腦、Intel Core i5-10500T、16GB DDR4 RAM、512GB SSD、WiFi、HDMI、藍牙、有線鍵盤和滑鼠、Windows 10 Pro(更新),https://www.amazon.com/-/zh_TW/OptiPlex-%E5%A4%96%E5%9E%8B%E8%A6%8F%E6%A0%BC%E5%95%86%E5%8B%99%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-10500T-RAM%E3%80%81512GB-SSD%E3%80%81WiFi%E3%80%81HDMI%E3%80%81%E8%97%8D%E7%89%99%E3%80%81%E6%9C%89%E7%B7%9A%E9%8D%B5%E7%9B%A4%E5%92%8C%E6%BB%91%E9%BC%A0%E3%80%81Windows/product-reviews/B094GC5RDT/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+91,造訪 Dell 品牌旗艦店,"新款筆記型電腦充電器 90W 瓦 USB Type C(USB-C) AC 電源轉接器,包含適用於 Dell XPS 13、Precision 3540、Latitude 3400、3500、5289、5300 2in1,7400 2in1,7300、7390 2in1、7200 2in1、5400000、540、54000、72 0 台幣3 3",https://www.amazon.com/-/zh_TW/%E6%96%B0%E6%AC%BE%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6%E5%85%85%E9%9B%BB%E5%99%A8-13%E3%80%81Precision-3540%E3%80%81Latitude-3400%E3%80%813500%E3%80%815289%E3%80%815300-2in1%E3%80%815400000%E3%80%81540%E3%80%8154000%E3%80%8172/dp/B07RHVW5NR/ref=sr_1_53?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-53,37.85,4.5,144,"品牌: Dell
+連線技術: USB
+連接器類型: USB Type C
+相容裝置: 筆記型電腦
+相容的手機型號: 筆記型電腦
+輸入電壓: 20 Volts
+安裝類型: 壁掛式
+安培: 65 Amps
+查看更多",相容型號:0TDK33、022TH3、0R2M8K、LA90PM170、CF2YR、492-BCBK、R2M8K、DA90PM170、HA90PM170、,https://www.amazon.com/-/zh_TW/%E6%96%B0%E6%AC%BE%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6%E5%85%85%E9%9B%BB%E5%99%A8-13%E3%80%81Precision-3540%E3%80%81Latitude-3400%E3%80%813500%E3%80%815289%E3%80%815300-2in1%E3%80%815400000%E3%80%81540%E3%80%8154000%E3%80%8172/product-reviews/B07RHVW5NR/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+92,造訪 Dell 品牌旗艦店,"Dell Inspiron 5410 多合一桌上型電腦,23.8 吋 FHD IPS 觸控螢幕,第 12 代 Intel Core i5-1235U,12GB RAM,256GB SSD + 1TB HDD,HDMI,RJ-45,1080p,無線 KB&滑鼠,Wi-Fi 6,Windows 11 家用,白色",https://www.amazon.com/-/zh_TW/Inspiron-5410-%E5%A4%9A%E5%90%88%E4%B8%80%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-1235U-Windows/dp/B0BG95KVX4/ref=sr_1_54?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-54,860.0,5.0,3,"產品特定用途: Everyday Use
+品牌: Dell
+個人電腦設計類型: All in One
+作業系統: Windows 11 Home
+記憶體儲存容量: 256 GB
+螢幕尺寸: 23.8 Inches
+已安裝隨機存取記憶體大小: 12 GB
+型號名稱: Inspiron
+查看更多","主要功能和優點:CPU:Intel Core i5-1235U 處理器(10 個核心、12 個執行緒、12MB Intel 智慧快取記憶體、最高 4.40 GHz 的渦輪頻率) 記憶體:高達 32GB DDR4 RAM 硬碟:高達 2TB 固態硬碟作業系統:Windows 11 家用顯示器:24 吋觸控螢幕 AIT Infinity 防眩光FHD (一九二零年) 1 x 1080) 顯示圖形:Intel Iris Xe 圖形音訊:具有 MaxxAudio Pro 連接埠的立體聲喇叭:4 x USB 3.1 Type-A 1 x USB 3.2 Type-C 2 x HDMI 1.4b 1 x 耳機/麥克風組合 1 x RJ-45 1 x 電源插孔媒體驅動器: SD 讀卡器 光碟機: 無無線連接:Intel Wi-Fi 6E 千兆赫)軸 2x2 藍牙 5.2 無線卡鍵盤和滑鼠:Dell Pro 無線鍵盤和滑鼠 - KM5221W 白色 - 英文網路攝影機:1080p 彈出式相機,附整合式雙陣列數位麥克風電源:65 W 智慧 AC 電源轉接器 尺寸:21 英吋 x 16 英吋 x 1.5 英吋 重量:15 磅顏色:白色",https://www.amazon.com/-/zh_TW/Inspiron-5410-%E5%A4%9A%E5%90%88%E4%B8%80%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-1235U-Windows/product-reviews/B0BG95KVX4/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+93,造訪 Dell 品牌旗艦店,Dell WD19 130W 擴充基座 (帶 90W 電源傳輸) USB-C、HDMI、雙 DP,https://www.amazon.com/-/zh_TW/Dell-WD19-130W-%E6%93%B4%E5%85%85%E5%9F%BA%E5%BA%A7-USB-C%E3%80%81HDMI%E3%80%81%E9%9B%99/dp/B07RF9FZCS/ref=sr_1_55?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-55,137.99,4.1,276,"型號名稱: WD19 130W
+品牌: Dell
+相容裝置: Dell, USB A, USB C, HDMI
+連接器類型: usb, hdmi
+輸出瓦數: 130 Watts
+瓦數: 130 瓦特
+商品尺寸，長 x 寬 x 高: 9 x 20.5 x 2.9 公分
+商品重量: 500 Grams
+查看更多","Dell WD19 擴充基座 130W AC 電源轉接器 (90W 電源傳輸至 Dell 系統)。 在全球最強大且首個模組化 USB-C 底座上,以迎接未來的設計。 推薦和相容系統: Latitude 3301; Latitude 3390 2合1; Latitude 3400; Latitude 3490; Latitude 3500; Latitude 3590; Latitude 5280; Latitude 5285; Latitude 5289; Latitude 5290; Latitude 5290; Latitude 2合1; Latitude 5; Latitude 5; Latitude 5; Latitude 52 5300; Latitude 5300 二合一;Latitude 5400;Latitude 5401;Latitude 5480;Latitude 5490;Latitude 5500;Latitude 5501;Latitude 5580;Latitude 5590;Latitude 7200 2合1;Latitude 7285; Latitude 7285; Latitude 緯度 730 度0;Latitude 7380;Latitude 7389;Latitude 7390;Latitude 7390;Latitude 7400;Latitude 7400;Latitude 7480;Latitude 7490;Rugged 5420;Rugged 5424;Rugged XPS 7424;XPS 9360;XPS 9365; 九三七零; XPS 9380。 專為未來打造。 混搭:隨著我們最多功能的底座,隨著您的需求變化而不斷發展。 當您需要進行現場更換或升級系統時,Intel渦輪加速技術2.0可藉由提高操作頻率來加快處理器及圖形晶片效能的速度。 終極連接:USB-C 連接使無論使用什麼系統,都能以一條方便的電纜提供電源、數據、音頻和視頻變得比以往任何時候都更加容易。 乾淨無雜亂:透過選購、安全的 VESA 安裝支架將底座安裝在顯示器後面或桌面下方,保持生產力,內建的 1 公尺纜線提供完整的靈活性。 一閃即逝的資訊:數據傳輸速度高達 10Gbps,您可以在連接到所有設備時保持生產力。 最佳化您的工作空間。 順暢無縫:使用我們最容易管理的底座上的單一韌體,工作不受干擾。 此外,Dell Client Command Suite 和 Microsoft System Center 組態管理員,您無需重新啟動擴充基座,即可快速輕鬆地更新韌體。 此外,PXE Boot、LAN 喚醒等功能,在管理基座時比以往任何時候都更容易保持生產力。",https://www.amazon.com/-/zh_TW/Dell-WD19-130W-%E6%93%B4%E5%85%85%E5%9F%BA%E5%BA%A7-USB-C%E3%80%81HDMI%E3%80%81%E9%9B%99/product-reviews/B07RF9FZCS/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+94,造訪 Dell 品牌旗艦店,"Dell 戴爾 UltraSharp HDR 4K 網路攝影機,附隱私保護套,HD USB 電腦相機,附 4K Sony STARVIS CMOS / IR / 接近感測器,黑色 - 陽極氧化鋁 - WB7022 – 適用於 Windows",https://www.amazon.com/-/zh_TW/UltraSharp-%E7%B6%B2%E8%B7%AF%E6%94%9D%E5%BD%B1%E6%A9%9F-%E9%99%84%E9%9A%B1%E7%A7%81%E4%BF%9D%E8%AD%B7%E5%A5%97-STARVIS-%E6%8E%A5%E8%BF%91%E6%84%9F%E6%B8%AC%E5%99%A8/dp/B098GXD82C/ref=sr_1_56?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-56,181.78,4.2,153,"品牌: Dell
+連線技術: USB
+記憶體類型: SD
+顏色: 黑色
+特殊功能: 低照度
+螢幕尺寸: 2.7 Inches
+攝錄機類型: Video Camera
+型號名稱: Dell UltraSharp Webcam - WB7022
+查看更多",,https://www.amazon.com/-/zh_TW/UltraSharp-%E7%B6%B2%E8%B7%AF%E6%94%9D%E5%BD%B1%E6%A9%9F-%E9%99%84%E9%9A%B1%E7%A7%81%E4%BF%9D%E8%AD%B7%E5%A5%97-STARVIS-%E6%8E%A5%E8%BF%91%E6%84%9F%E6%B8%AC%E5%99%A8/product-reviews/B098GXD82C/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+95,造訪 Dell 品牌旗艦店,Dell 戴爾 電競顯示器 - 1ms 回應時間、1080p 144Hz、LED 邊緣燈光系統、AMD FreeSync Premium 技術、VESA、灰色,https://www.amazon.com/-/zh_TW/Dell-%E9%9B%BB%E7%AB%B6%E9%A1%AF%E7%A4%BA%E5%99%A8-%E5%9B%9E%E6%87%89%E6%99%82%E9%96%93%E3%80%811080p-%E9%82%8A%E7%B7%A3%E7%87%88%E5%85%89%E7%B3%BB%E7%B5%B1%E3%80%81AMD-%E6%8A%80%E8%A1%93%E3%80%81VESA%E3%80%81%E7%81%B0%E8%89%B2/dp/B089T73ZB9/ref=sr_1_57?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-57,188.69,4.7,3531,"螢幕尺寸: 24 Inches
+顯示器解析度上限: 1920 x 1080 Pixels
+品牌: Dell
+特殊功能: Adaptive Sync
+更新率: 120",,https://www.amazon.com/-/zh_TW/Dell-%E9%9B%BB%E7%AB%B6%E9%A1%AF%E7%A4%BA%E5%99%A8-%E5%9B%9E%E6%87%89%E6%99%82%E9%96%93%E3%80%811080p-%E9%82%8A%E7%B7%A3%E7%87%88%E5%85%89%E7%B3%BB%E7%B5%B1%E3%80%81AMD-%E6%8A%80%E8%A1%93%E3%80%81VESA%E3%80%81%E7%81%B0%E8%89%B2/product-reviews/B089T73ZB9/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+96,造訪 Dell 品牌旗艦店,"Dell 最新 Inspiron 15 3511 筆記型電腦,15.6 吋 FHD 觸控螢幕,Intel Core i5-1035G1,16GB RAM,512GB PCIe NVMe M.2 SSD,SD 卡讀卡器,網路攝影機,HDMI,WiFi,Windows 11 Home,黑色",https://www.amazon.com/-/zh_TW/Inspiron-3511-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-1035G1-Windows/dp/B0B339B1ZH/ref=sr_1_58?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-58,550.0,4.2,72,"品牌: Dell
+型號名稱: Inspiron
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 512 GB
+CPU 型號: Core i5 Family
+已安裝隨機存取記憶體大小: 16 GB
+查看更多","主要功能和優點:
+CPU:Intel Core i5-1035G1 四核心處理器(4 核心、6 MB 快取、8 個執行緒、1.0 GHz 的基本頻率、最高渦輪速度高達 3.6 GHz)
+記憶體:高達 32GB DDR4 RAM
+硬碟:高達 2TB PCIe 固態硬碟
+作業系統:Windows 11 Home
+顯示器:15.6 吋 FHD (1920 x 1080) 防眩光LED 背光窄邊框 WVA 觸控螢幕
+觸控螢幕:是
+連接埠:1 個 SD 卡讀卡機、1 個 USB 2.0、2 個 USB 3.2、1 個 HDMI 1.4、1 個耳機和麥克風音訊插孔
+影片:Intel UHD 顯示卡
+音訊:立體聲喇叭
+媒體磁碟機:SD 媒體讀卡機
+光碟機:無
+無線連線:802.11ac 1x1 WiFi 和藍牙
+電池:3 芯 42Wh,集成電池
+重量:3.5 磅(約 1.7 公斤)
+顏色:黑色",https://www.amazon.com/-/zh_TW/Inspiron-3511-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-1035G1-Windows/product-reviews/B0B339B1ZH/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+97,造訪 Dell 品牌旗艦店,Dell E2222HS 21.6 吋 LED 液晶顯示器,https://www.amazon.com/-/zh_TW/Dell-E2222HS-21-6-LED-%E6%B6%B2%E6%99%B6%E9%A1%AF%E7%A4%BA%E5%99%A8/dp/B09GXGZD51/ref=sr_1_59?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-59,101.03,4.3,11,"螢幕尺寸: 21.5 Inches
+品牌: Dell
+連線技術: HDMI
+長寬比: 16:9
+顯示器類型: LCD","製造商:戴爾技術。 製造商零件編號:DELL-E2222HS。 品牌名稱:戴爾。 產品型號:E2222HS。 產品名稱:E2222HS 液晶螢幕。 產品類型:LCD 螢幕。 [技術資訊] 螢幕數量:1. 螢幕尺寸等級:22 英吋(約 55.9 公分)。 可視螢幕尺寸:21.5 英吋(約 54.6 面板技術: 薄膜電晶體 (TFT)。 背光技術: LED。 支架調整:傾斜。 [影片] 支援顏色:1670 萬種顏色。 [電源說明] 作業功耗: 12.13 W. [雜項] 包裝內容: E222HS LCD 顯示器 1 x HDMI 電纜. 電源供應: AC 交流電, 交流電(AC)輸入頻率: 50 Hz [保固] 有限保固:3 年。",https://www.amazon.com/-/zh_TW/Dell-E2222HS-21-6-LED-%E6%B6%B2%E6%99%B6%E9%A1%AF%E7%A4%BA%E5%99%A8/product-reviews/B09GXGZD51/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+98,造訪 Dell 品牌旗艦店,Dell Chromebook 11 3000 3100 11.6 吋 Chromebook - 1366 x 768 - Celeron N4020-4 GB RAM - 16 GB 快閃記憶體 - Chrome OS - Intel HD 顯示卡 - 英文(美國) 鍵盤 - 藍牙 - 14 小時電池 Ru,https://www.amazon.com/-/zh_TW/Dell-Chromebook-3000-3100-11-6/dp/B089P36FXC/ref=sr_1_60?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-60,189.0,4.4,126,"品牌: Dell
+型號名稱: 2019 年 Dell Inspiron 11 Chromebook ,11.6 吋 HD 非觸控螢幕顯示器,In
+螢幕尺寸: 11.6 Inches
+顏色: 黑色
+CPU 型號: Celeron
+已安裝隨機存取記憶體大小: 4 GB
+作業系統: Chrome OS
+查看更多",,https://www.amazon.com/-/zh_TW/Dell-Chromebook-3000-3100-11-6/product-reviews/B089P36FXC/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+99,造訪 Dell 品牌旗艦店,"Dell Latitude 5530 商用筆記型電腦,15.6 吋 FHD 顯示器,第 12 代 Intel Core i5-1235U,16GB RAM,512GB SSD,網路攝影機,HDMI,Thunderbolt 4,背光鍵盤,Wi-Fi 6,Windows 11 Pro,銀色",https://www.amazon.com/-/zh_TW/Latitude-5530-%E5%95%86%E7%94%A8%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-1235U-Thunderbolt/dp/B0BBK4399R/ref=sr_1_61?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-61,,No star,0,"品牌: Dell
+型號名稱: 緯度
+螢幕尺寸: 15.6 Inches
+顏色: 銀色
+硬碟大小: 512 GB
+CPU 型號: Core i5 Family
+已安裝隨機存取記憶體大小: 16 GB
+作業系統: Windows 11 Pro
+查看更多","主要特點和優點:
+CPU:Intel Core i5-1235U(10 個核心、12 個執行緒、12MB Intel 智慧快取記憶體、0.90 GHz 的基本頻率,使用 Intel Turbo Boost 技術高達 4.40 GHz)
+記憶體:高達 64GB DDR4 SDRAM
+硬碟:高達 2TB PCIe NVMe M.2 固態硬碟。
+作業系統:Windows 11 Pro
+顯示器:15.6 吋 FHD (1920x1080) 防眩光非觸控,250 尼特
+連接埠:
+2 個 USB 3.2 Gen 1 Type-A
+2 個 Thunderbolt 4 個連接埠
+1 個 HDMI 2.0 連接埠
+1 個 RJ-45
+1 個電源轉換器連接埠
+圖形:Intel UHD 顯示卡
+音訊:具備 Realtek Waves MaxxAudio Pro 的立體聲揚聲器,2 W x 2 W = 總計 4 W
+媒體:Micro SD 讀卡器
+無線連接:Intel Wi-Fi 6 2x2 AX+ 藍牙 5.2
+相機:720p 30 fps,寬螢幕 HD RGB 相機,雙陣列麥克風
+背光鍵盤:是(F5)
+電池:4 芯,58 Wh,快速充電
+尺寸:35.8 x 9.2 x 2.1 公分
+重量:3 磅(約 1.6 公斤)
+顏色:銀色",No review
+100,造訪 Dell 品牌旗艦店,"Dell Latitude 7420 商用筆記型電腦 14 吋 FHD 觸控螢幕,i5-1145G7,16GB RAM,1TB NVMe SSD,網路攝影機,AX Wi-Fi,SD 卡,指紋讀取器,背光鍵盤,HDMI,Thunderbolt - Windows 10 Pro",https://www.amazon.com/-/zh_TW/Latitude-7420-%E5%95%86%E7%94%A8%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-1145G7-Thunderbolt/dp/B0C1HHMC84/ref=sr_1_62?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-62,829.99,No star,0,"品牌: Dell
+型號名稱: 緯度
+螢幕尺寸: 14 Inches
+顏色: 黑色
+硬碟大小: 1 TB
+CPU 型號: Core i5
+已安裝隨機存取記憶體大小: 16 GB
+作業系統: Windows 10 Pro
+查看更多","使用 Dell Latitude 7420 筆記型電腦搭配背光鍵盤,讓您隨時隨地保持生產力。 專為在辦公室內外工作流程而設計。
+第 11 代 Intel Core i5 4 核心 vPro CPU 和 16GB 內建記憶體可實現快速處理,而 NVMe PCIe SSD 則為重要檔案提供儲存空間。 整合式 Intel Iris Xe 圖形和全高清顯示器提供身臨其境的視覺效果。
+
+
+型號:Dell Latitude 7420
+外型:筆記型電腦
+作業系統:Windows 10 Professional 64 位元
+處理器:2.6 GHz 四核心 Intel i5-1145G7
+渦輪頻率:4.4GHz
+快取記憶體:8 MB
+顯示器:14 吋 FHD (1920x1080)、Touch、ComfortView Plus、WVA、300nits
+記憶體:16GB、4267 MHz LPDDR4x 整合式
+儲存空間:1TB NVMe PCIe SSD
+圖形:Intel Iris Xe
+相機:720p 30 fps、HD RGB 網路攝影機、隱私快門
+Wi-Fi:Intel Wi-Fi 6 AX201 2x2 802.11ax
+藍牙:5.2
+乙太網路:1 個 RJ45 (Gigabit)
+音訊:帶有 Waves MaxxAudio Pro 的立體聲喇叭
+連接埠:右 - 1 個 Thunderbolt 4 附電源傳輸和 DisplayPort (USB Type-C),1 個 USB 3.2 Gen 1 附 Powershare
+連接埠:左 - 1 個 Thunderbolt 4 附電源傳輸和 DisplayPort (USB Type-C)
+音訊連接埠:1 個耳機/麥克風組合插孔
+視訊連接埠:1 個 HDMI
+讀卡器:多格式 (微SD、microSDHC、microSDXC)
+指紋辨識器:是
+電池:4 芯,63 Wh,可快速充電
+轉接器:65 瓦",No review
+101,造訪 Dell 品牌旗艦店,"Dell HD22Q Dual Monitor Docking Station with Wireless Charging Stand, USB-C, HDMI and DisplayPort - HD22Q",https://www.amazon.com/-/zh_TW/HD22Q/dp/B0B6DHVY5S/ref=sr_1_63?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-63,95.0,4.3,15,"品牌: Dell
+硬體介面: DisplayPort, Ethernet, HDMI, USB 3.2 Gen 1, USB 3.2 Gen 2
+USB 連接埠總數: 5
+商品尺寸，長 x 寬 x 高: 11.7 x 9 x 11.3 公分
+連接埠數量: 6
+商品重量: 0.67 Kilograms
+HDMI 連接埠總數: 1
+查看更多","Powerfully productive, this compact dock is the world’s first laptop docking station with a wireless charging stand for Qi-enabled smartphone or earbuds.",https://www.amazon.com/-/zh_TW/HD22Q/product-reviews/B0B6DHVY5S/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+102,造訪 Dell 品牌旗艦店,Dell in-Ear Headset IE600 (520-AAIM),https://www.amazon.com/-/zh_TW/624-BBBF/dp/B016WGHRTW/ref=sr_1_64?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-64,11.59,4.3,96,"品牌: Dell
+型號名稱: IE600
+顏色: Black
+規格尺寸: In Ear
+連線技術: Wired","Experience exceptional quality audio with hi fidelity precision drivers professionally tuned by Grammy Award-winning Waves Maxx Audio for an enhanced, crystal-clear audio experience with noise isolation for added performance.",https://www.amazon.com/-/zh_TW/624-BBBF/product-reviews/B016WGHRTW/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+103,造訪 Dell 品牌旗艦店,"Dell 戴爾 WD19 130W 擴充基座(帶 90W 電源傳輸)USB-C、HDMI、雙顯示埠,黑色",https://www.amazon.com/-/zh_TW/Dell-WD19-130W-%E6%93%B4%E5%85%85%E5%9F%BA%E5%BA%A7-USB-C%E3%80%81HDMI%E3%80%81%E9%9B%99%E9%A1%AF%E7%A4%BA%E5%9F%A0/dp/B07SFYV111/ref=sr_1_65?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-65,132.99,4.2,1261,"品牌: Dell
+顏色: 黑色
+硬體介面: USB, HDMI
+相容裝置: Dell 筆記型電腦/平板電腦
+USB 連接埠總數: 4
+商品尺寸，長 x 寬 x 高: 8.9 x 2.8 x 20.6 公分
+連接埠數量: 2
+商品重量: 1.02 公斤
+查看更多","Dell 擴充座 – WD19 130W。 使用世界上最強大和第一個模組化 USB-C 底座,採用未來設計來增強您電腦的電源。 建議和相容系統:Latitude Series:3301、3390、3400、3490、3500、3590、5280、5285、5290、5300、5400、5401、5480、55500、555580、 5590, 7200、7280、7285、7300、7380、7389、7390、7400、7480、7490。 堅固系列:5420、5424、7424。 Xps 系列:9360、9365、9370、9380。 注意:此擴充基座包含一個 130W 電源整流器,但由於底座本身的電源需求,僅為筆記型電腦提供 90W 的電源。 專為未來設計。 混搭:透過我們最多功能的底座,隨著您的需求變化而進化。 未來準備的設計可讓您輕鬆更換模組 如果您需要現場更換或升級系統。 終極連接:USB-C 連接使您可以比以往更容易地在一條方便的電纜中提供電源、數據、音頻和視頻,無論您使用什麼系統。 乾淨無雜亂:使用可選、安全的 VESA 安裝支架將底座安裝在顯示器後面或桌面下,以實現高效率,內建一公尺電纜。 瞬間資訊:數據傳輸速度高達 10gbps,您可以在連接到所有裝置時保持生產力。 最佳化您的工作空間。 平滑無縫:使用我們最易管理的底座上的單一韌體,工作不會中斷。 此外,Dell Client 指令 Suite 和 Microsoft 系統中心配置管理器,您可以快速輕鬆地更新韌體,而無需重新啟動底座。 安全管理:使用 Mac 地址傳遞和遠端連接埠停用,確保您的資訊安全。 此外,它還具有如 PXE Boot、局域網喚醒等功能,比以往更容易保持。",https://www.amazon.com/-/zh_TW/Dell-WD19-130W-%E6%93%B4%E5%85%85%E5%9F%BA%E5%BA%A7-USB-C%E3%80%81HDMI%E3%80%81%E9%9B%99%E9%A1%AF%E7%A4%BA%E5%9F%A0/product-reviews/B07SFYV111/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+104,造訪 Dell 品牌旗艦店,"Dell 戴爾 S2421HS Full HD 1920 x 1080,24 英吋 1080p LED,75Hz,附可調式支架的桌上型顯示器,4 毫秒灰至灰反應時間,AMD FreeSync,IPS 技術,HDMI,DisplayPort,銀色",https://www.amazon.com/-/zh_TW/S2421HS-%E9%99%84%E5%8F%AF%E8%AA%BF%E5%BC%8F%E6%94%AF%E6%9E%B6%E7%9A%84%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%A1%AF%E7%A4%BA%E5%99%A8-%E6%AF%AB%E7%A7%92%E7%81%B0%E8%87%B3%E7%81%B0%E5%8F%8D%E6%87%89%E6%99%82%E9%96%93-FreeSync-DisplayPort/dp/B09SQYR4MM/ref=sr_1_66?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-66,,4.6,933,"螢幕尺寸: 24 Inches
+顯示器解析度上限: 1920 x 1080
+品牌: Dell
+特殊功能: 高度調整, 防眩光螢幕, 左右旋轉, 不閃屏, 樞紐旋轉
+更新率: 75 Hz",,https://www.amazon.com/-/zh_TW/S2421HS-%E9%99%84%E5%8F%AF%E8%AA%BF%E5%BC%8F%E6%94%AF%E6%9E%B6%E7%9A%84%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%A1%AF%E7%A4%BA%E5%99%A8-%E6%AF%AB%E7%A7%92%E7%81%B0%E8%87%B3%E7%81%B0%E5%8F%8D%E6%87%89%E6%99%82%E9%96%93-FreeSync-DisplayPort/product-reviews/B09SQYR4MM/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+105,造訪 Dell 品牌旗艦店,Dell 有線鍵盤和滑鼠 - KM300C 黑色,https://www.amazon.com/-/zh_TW/KM300C-Dell-%E6%9C%89%E7%B7%9A%E9%8D%B5%E7%9B%A4%E5%92%8C%E6%BB%91%E9%BC%A0-%E9%BB%91%E8%89%B2/dp/B0B77NQCPG/ref=sr_1_67?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-67,35.98,4.4,69,"品牌: Dell
+顏色: 黑色
+特殊功能: PC, Mac
+鍵盤描述: 有線
+作業系統: Mac OS","有線鍵盤
+一個方便的鍵盤解決方案,適用於日常家庭或辦公室運算。 鍵盤的完整佈局與 chiclet 風格按鍵可實現高效、舒適的打字體驗 - 非常適合日常使用幾乎任何手頭任務。
+光學滑鼠
+採用光學 LED 追蹤和有線連接,提供日復一日的卓越性能。 在辦公室或家中提高您的生產力 - Dell 光學滑鼠將透過準確的 1000 DPI 光學追蹤來協助您完成任務。",https://www.amazon.com/-/zh_TW/KM300C-Dell-%E6%9C%89%E7%B7%9A%E9%8D%B5%E7%9B%A4%E5%92%8C%E6%BB%91%E9%BC%A0-%E9%BB%91%E8%89%B2/product-reviews/B0B77NQCPG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+106,造訪 Amazon Renewed 品牌旗艦店,"Dell Optiplex 7050 Micro Desktop,Intel i7,16GB RAM,256GB SSD,WiFi,鍵盤和滑鼠,Windows 10 Pro(翻新)",https://www.amazon.com/-/zh_TW/Optiplex-Micro-Desktop-Intel-Windows/dp/B07Y5PMPDJ/ref=sr_1_68?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-68,174.0,4.1,172,"產品特定用途: 商務
+品牌: Dell
+個人電腦設計類型: Computer Tower
+作業系統: Windows 10
+記憶體儲存容量: 256 GB
+已安裝隨機存取記憶體大小: 16 GB
+查看更多","Dell OptiPlex 7050 Micro Desktop 適用於商務專業人士。
+Dell OptiPlex 7050 Micro 桌上型電腦規格:
+Intel Core i7-6700T 四核心 2.80GHz CPU
+16GB DDR4 PC4-17000 2133MHz 記憶體
+256GB SATA III 6Gb/s 固態硬碟,可實現超快速儲存。
+無光碟機
+整合式 Intel HD Graphics 530
+內建單一 Intel GbE NIC
+USB Wi-Fi 轉接器
+Dell 充電器
+Microsoft Windows 10 Professional - 64 位元
+隨附配件:
+USB 鍵盤和光學滑鼠",https://www.amazon.com/-/zh_TW/Optiplex-Micro-Desktop-Intel-Windows/product-reviews/B07Y5PMPDJ/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+107,造訪 Dell 品牌旗艦店,"適用於 Dell 戴爾新替換 Dell 65W Type-C AC 轉接器,適用於 Dell 11 3100 2 合 1 Chromebook,相容於 P/N HA65NM190、0WMDHR、WMDHR、MVPDV、0MVPDV。",https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE%E6%96%B0%E6%9B%BF%E6%8F%9B-Type-C-Chromebook-HA65NM190%E3%80%810WMDHR%E3%80%81WMDHR%E3%80%81MVPDV%E3%80%810MVPDV%E3%80%82/dp/B094GCJK7V/ref=sr_1_69?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-69,25.5,4.7,162,"品牌: Dell
+連線技術: Usb
+連接器類型: USB Type C
+相容裝置: 笔记本电脑
+包含的元件: 電源線
+特殊功能: 快速充电
+輸入電壓: 240 Volts
+安裝類型: 牆壁
+查看更多",本產品與以下系統相容:Latitude 3380 Chromebook 13 3380 Latitude 5285 2 合 1 Latitude 5289 2 合 1 Latitude 7389 2 合 1 Latitude 12 Rugged Extreme 7212 Latitude 7390 2 合 1 Latitude 5290 2-1 1 合 1 緯度 3300 Latitude 3500 Latitude 7400 2 合 1 Latitude 3400 Latitude 5300 Latitude 5300 2 合 1 Latitude 5400 Latitude 5500 Precision 3540 Latitude 7300 Latitude 7400 Latitude 7200 2-in-200000000000 2-2-2-2-2-2-2000 1 Vostro 1 4 5000 (5490) Vostro 15 5000 (5590) Latitude 5300 2 合 1 Chrome Latitude 5400 Chrome Latitude 12 Rugged Extreme Tablet 7220 Latitude 5310 Latitude 5310 2 合 10 緯度 54 54 10 Latitude 5510 Latitude 7210 2 合 1 Precision 3550 Latitude 9410 2 合 1 Latitude 9510 Latitude 3410 Latitude 3510 Latitude,https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE%E6%96%B0%E6%9B%BF%E6%8F%9B-Type-C-Chromebook-HA65NM190%E3%80%810WMDHR%E3%80%81WMDHR%E3%80%81MVPDV%E3%80%810MVPDV%E3%80%82/product-reviews/B094GCJK7V/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+108,造訪 Dell 品牌旗艦店,Dell 戴爾 USB-C 行動轉接器 – DA310,https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-USB-C-%E8%A1%8C%E5%8B%95%E8%BD%89%E6%8E%A5%E5%99%A8-DA310/dp/B08YCYL16F/ref=sr_1_70?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-70,78.65,4.3,81,"相容裝置: Cellular Phones
+顏色: black
+商品尺寸，長 x 寬 x 高: 7 x 7 x 2.4 公分
+品牌: Dell
+表面處理類型: Hdmi",,https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-USB-C-%E8%A1%8C%E5%8B%95%E8%BD%89%E6%8E%A5%E5%99%A8-DA310/product-reviews/B08YCYL16F/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+109,造訪 Dell 品牌旗艦店,"Dell 27 Monitor - P2722H 27 Monitor - P2722H, 0P2722H, 99112115 27 Monitor - P2722H, 68.6 cm (27), 1920 x 1080 Pixels, Full HD, LCD, Black",https://www.amazon.com/-/zh_TW/P2722H/dp/B09YHPCZGZ/ref=sr_1_71?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-71,239.99,No star,0,"螢幕尺寸: 27 Inches
+品牌: Dell
+長寬比: 16:9
+反應時間: 5 Milliseconds
+顏色: Black","DELL 27 Monitor - P2722H, 68.6 cm (27), 1920 x 1080 pixels, Full HD, LCD, Black",No review
+110,造訪 Dell 品牌旗艦店,"筆記型電腦充電器 65W 瓦 USB Type C 交流電源轉接器 包括 Dell Latitude 3400 3500 5290(2 合 1) 5300 5400 5500 7200(2 合 1) 7300 7400(2 合 1),LA65NM170 HA65NM170,020202020202 0F 0萬元 0 1WCF",https://www.amazon.com/-/zh_TW/%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6%E5%85%85%E9%9B%BB%E5%99%A8-Latitude-LA65NM170-HA65NM170-020202020202/dp/B07RG35NZR/ref=sr_1_72?keywords=dell&qid=1697092415&refinements=p_89%3Adell&s=electronics&sr=1-72,30.68,4.5,204,"品牌: Dell
+連線技術: USB
+連接器類型: USB Type C
+相容裝置: 筆記型電腦
+相容的手機型號: 筆記型電腦
+包含的元件: 電源線
+輸入電壓: 100 Volts
+安裝類型: 壁掛式
+查看更多",筆記型電腦充電器 65W 瓦 USB Type C 交流電源轉接器包括電源線,https://www.amazon.com/-/zh_TW/%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6%E5%85%85%E9%9B%BB%E5%99%A8-Latitude-LA65NM170-HA65NM170-020202020202/product-reviews/B07RG35NZR/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+111,造訪 Dell 品牌旗艦店,原廠 OEM 戴爾 LA45NM140 KXTTW 19.5V 2.31A 筆記型電腦 AC 轉接器,https://www.amazon.com/-/zh_TW/LA45NM140-KXTTW-19-5V-2-31A-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6/dp/B01533LH7S/ref=sr_1_73?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-73,15.42,4.6,1394,"品牌: Dell
+連接器類型: 筒型連接器
+相容裝置: 筆記型電腦
+包含的元件: 電源線
+輸入電壓: 240 Volts
+安裝類型: 壁掛式
+安培: 2.31 Amps
+瓦數: 45 瓦特
+查看更多","1. 直流連接:45W,帶4.5mm端口2。 全球輸入電壓 100-240VAC 50/60Hz 輸出電壓:19.5V~2.31A 3。 相容性: 0KXTTW/0CDF57/0JXC18/09CGP4/00285K/04H6NV/0X9RG3 相容工廠型號:LA45NM140/DA45NM140 4。 全新原廠 AC 變壓器包括電源線,附非零售包裝 5. 專為:XPS 13 L321X XPS 13 L322X XPS 13 9343 XPS 13 9350 XPS 13 9360 XPS 13 9365 XPS 13 9370 XPS 11 9P3 Inspiron 1-3162 Inspiron 3 050 督察 Inspiron 3152 Inspiron 3157 Inspiron 3169 Inspiron 3459 Inspiron 3458 Inspiron 3451 Inspiron 3452 Inspiron 3551 Inspiron 3552 Inspiron 3567 Inspiron 3558 Inspiron 5368 Inspiron 53 Inspiron 5368 Inspiron 78 啟發式 5451 Inspiron 5452 Inspiron 5455 Inspiron 5458 Inspiron 5551 Inspiron 55555 Inspiron 5558 Inspiron 5559 Inspiron 55567 Inspiron 5568 Inspiron 5755 Inspiron 58 Inspiron 5768 Inspiron 58 Inspiron 58 Inspiron 58 Inspiron 58 Inspiron 7 啟發式 5 759 Inspiron 7352 Inspiron 7353 Inspiron 7359 Inspiron 7368 Inspiron 7378 Inspiron 7460 Inspiron 7560 Inspiron 7568 Inspiron 7579 Vostro 3468 Vostro 3561 Vostro 3468 Vostro 3568 Vostro 3 風之星 35 58",https://www.amazon.com/-/zh_TW/LA45NM140-KXTTW-19-5V-2-31A-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6/product-reviews/B01533LH7S/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+112,造訪 Dell 品牌旗艦店,Dell SB522A 薄型會議條形喇叭 - 靜音麥克風、來電接聽/結束控制、指示燈、降噪、磁性、USB 連接器、Zoom 認證、Microsoft Teams 認證 - 黑色,https://www.amazon.com/-/zh_TW/Dell-SB522A-%E8%96%84%E5%9E%8B%E6%9C%83%E8%AD%B0%E6%A2%9D%E5%BD%A2%E5%96%87%E5%8F%AD-%E7%B5%90%E6%9D%9F%E6%8E%A7%E5%88%B6%E3%80%81%E6%8C%87%E7%A4%BA%E7%87%88%E3%80%81%E9%99%8D%E5%99%AA%E3%80%81%E7%A3%81%E6%80%A7%E3%80%81USB-%E8%AA%8D%E8%AD%89%E3%80%81Microsoft/dp/B09RG4QMRD/ref=sr_1_74?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-74,,3.0,1 評級,"品牌: Dell
+型號名稱: Dell Slim 會議條件式喇叭 – SB522A
+喇叭類型: 同軸
+連線技術: USB
+產品推薦用途: 音量",,No review
+113,造訪 Dell 品牌旗艦店,Dell 戴爾 USB 3.0 三重螢幕超高畫質萬用擴充座 (D3100),https://www.amazon.com/-/zh_TW/Dell-USB-3-0-%E4%B8%89%E9%87%8D%E8%9E%A2%E5%B9%95%E8%B6%85%E9%AB%98%E7%95%AB%E8%B3%AA%E8%90%AC%E7%94%A8%E6%93%B4%E5%85%85%E5%BA%A7-D3100/dp/B01C8PHWQY/ref=sr_1_75?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-75,67.99,4.2,996,"品牌: Dell
+顏色: 黑色
+硬體介面: USB 2.0
+相容裝置: 平板電腦, 筆記型電腦, 耳機, 螢幕
+USB 連接埠總數: 2
+商品尺寸，長 x 寬 x 高: 10.9 x 15.5 x 2 公分
+連接埠數量: 5
+商品重量: 421 Grams
+查看更多",,https://www.amazon.com/-/zh_TW/Dell-USB-3-0-%E4%B8%89%E9%87%8D%E8%9E%A2%E5%B9%95%E8%B6%85%E9%AB%98%E7%95%AB%E8%B3%AA%E8%90%AC%E7%94%A8%E6%93%B4%E5%85%85%E5%BA%A7-D3100/product-reviews/B01C8PHWQY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+114,造訪 Amazon Renewed 品牌旗艦店,Dell OptiPlex 7040 SFF 桌上型電腦 Intel Quad Core i7-6700 3.20GHz AX200 內建 WIFI 6 藍牙 32GB DDR4 全新 1TB NVMe M.2 SSD 2TB HDD HDMI 無線鍵盤和滑鼠 Windows10 Pro (更新),https://www.amazon.com/-/zh_TW/Dell-OptiPlex-7040-i7-6700-Windows10/dp/B0B2DV7N8S/ref=sr_1_76?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-76,249.39,4.4,46,"產品特定用途: 日常使用
+品牌: Dell
+個人電腦設計類型: Computer Tower
+作業系統: Windows 10 Pro
+記憶體儲存容量: 1 TB
+螢幕尺寸: 0.12 Inches
+型號名稱: Dell OptiPlex 7040 SFF
+查看更多","Product Description
+
+With a small form factor, the Dell OptiPlex 7040 is designed to save desktop space while still providing the performance you need to stay productive. Small is mighty,multitask smoothly,this dell desktop with Intel Core i7-6700 processors,16G DDR4 ram, Intel HD graphics 530,OptiPlex 7040 enables increased power and productivity.Enjoy your bulk storage device!
+
+Specification
+
+CPU: Intel Quad Core i7-6700 3.40GHz up to 4.0GHz, 4 cores, 8 threads
+
+CPU Cache: 8 MB
+
+Operating system: Windows 10 Pro
+
+Memory: 32GB DDR4
+
+Hard Drive: New 1TB NVMe SSD + 2TB HDD
+
+Video Card: Intergrated Intel HD graphics 530
+
+USB 3.0 Ports: 6
+
+USB 2.0 Ports: 4
+
+Display Port: 2
+
+HDMI: 1
+
+Ethernet: x 1 Lan Port
+
+WIFI & Bluetooth:Built-in WIFI AX200 & Bluetooth
+
+Mouse/Keyboard:Wireless Keyboard & Mouse
+
+What's Included:
+
+1 x DELL 7040 SFF Desktop
+
+1 x Brand New Wireless Keyboard Mouse
+
+1 x TJJ Large Mouse Pad (the color of the TJJ mouse pad is shipped randomly )
+
+1 x Power Cord",https://www.amazon.com/-/zh_TW/Dell-OptiPlex-7040-i7-6700-Windows10/product-reviews/B0B2DV7N8S/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+115,品牌：DELL,"Dell Vostro 3910 商用桌上型電腦,第 12 代 Intel Core i5-12400 處理器,32GB DDR4 RAM,1TB PCIe SSD,WiFi 6,DVD-RW,顯示埠,HDMI,Windows 11 Pro,黑色",https://www.amazon.com/-/zh_TW/Vostro-3910-%E5%95%86%E7%94%A8%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-12400-Windows/dp/B0C8WVWS27/ref=sr_1_77?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-77,699.99,4.1,16,"產品特定用途: 商務
+品牌: DELL
+作業系統: Windows 11
+記憶體儲存容量: 1 TB
+已安裝隨機存取記憶體大小: 32 GB
+型號名稱: Vostro
+包含的元件: 滑鼠, 鍵盤
+查看更多","處理器:第 12 代 Intel Core i5-12400 (18 MB 快取記憶體、6 核心、12 執行緒、2.50 GHz 至 4.40 GHz Turbo) 顯示卡:整合式 Intel UHD 作業系統:Windows 11 Pro、64 位元、英文記憶體:32GB DDR4 RAM 硬碟:1TB M.2 PCIe 固態硬碟光碟機:薄型硬碟 帶緊急彈出針腳的緊急孔。 讀取並寫入 CD 和 DVD 。 連接埠:正面:2 x USB 2.0 2 x USB 3.2 Gen 1 1 x 耳機/麥克風組合插孔(3.5 公釐) 背面:2 x USB 2.0 2 x USB 3.2 Gen 1 x 音訊輸出輸出 1 x HDMI 1.4b (HDMI 支援最大解析度為 1920x1200 @60 赫茲。 無 4K/2K 輸出) 1 個 DisplayPort 1.4 1 個 RJ-45 乙太網路 1 個 AC 電源連接埠 連接:藍牙無線卡 鍵盤:戴爾黑色有線鍵盤,英國(QWERTY)- 有線滑鼠包含媒體驅動器: 無電源:Dell 180W (最大電源),80 Plus 青銅認證,符合 RoHS 標準電源(Type G 電源線 英國)顏色:黑色 尺寸 長 x 寬 x 高 (英吋):11.50 x 6.06 x 12.77 重量:15 磅",https://www.amazon.com/-/zh_TW/Vostro-3910-%E5%95%86%E7%94%A8%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%9B%BB%E8%85%A6-i5-12400-Windows/product-reviews/B0C8WVWS27/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+116,造訪 Dell 品牌旗艦店,"Dell Vostro 3510 15.6 吋 FHD 商用筆記型電腦,第 11 代 Intel Core i7-1165G7,Windows 10 Pro,16GB RAM 512GB SSD,WiFi,藍牙,網路攝影機,HDMI",https://www.amazon.com/-/zh_TW/Vostro-3510-%E5%95%86%E7%94%A8%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i7-1165G7-Windows/dp/B09QC36GYK/ref=sr_1_78?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-78,,4.1,4,"品牌: Dell
+型號名稱: Vostro 3510
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 512 GB
+CPU 型號: Intel Core i7-1165G7
+已安裝隨機存取記憶體大小: 16 GB
+作業系統: Windows 10 Pro
+查看更多","頂級 Dell Vostro 3510 筆記型電腦,具有強大的運算和連線功能,專為速度、多工作業和協作而設計。 時尚、小巧、耐用、高性能的 PC 為工作、學校或生活中的密集應用或日常任務提供無與倫比的效果和快速的體驗。 超薄輕巧,便於攜帶
+
+處理器
+超響應第 11 代 Intel Core i7-1165G7 處理器(12MB 高速緩存,高達 4.7 GHz)
+
+記憶體
+16GB DDR4 RAM 提升強大的多任務處理和無縫體驗
+
+硬碟
+512GB PCIe NVMe M.2 SSD (比硬碟快 15 倍,儲存空間充足)提供即時開機,快速存取資料。
+
+顯示與圖形
+15.6 吋 FHD (1920 x 1080) 防眩光LED 背光非觸控窄邊框 WVA 顯示器;Intel UHD 圖形與共用圖形記憶體。
+
+作業系統
+Windows 10 Pro (64 位元) - 企業作業系統,非常適合商業/教育。
+
+連接埠
+1 個 USB 2.0 連接埠
+2 個 USB 3.2 Gen 1 連接埠
+1 個 HDMI 1.4 埠
+1 個音訊插孔 - 真實音質
+1 個翻轉式 RJ-45 連接埠 10/100/1000 Mbps
+1 個 SD 3.0 卡槽",https://www.amazon.com/-/zh_TW/Vostro-3510-%E5%95%86%E7%94%A8%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i7-1165G7-Windows/product-reviews/B09QC36GYK/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+117,造訪 Dell 品牌旗艦店,NEW DELL ORIGINAL GENUINE 240-Watt 19.5V 12.31A AC POWER SUPPLY ADAPTER CHARGER,https://www.amazon.com/-/zh_TW/LA240PM180/dp/B07PPQYX3C/ref=sr_1_79?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-79,68.99,4.4,65,"品牌: Dell
+連接器類型: Barrel Connector
+相容裝置: Laptops
+包含的元件: power cord
+特殊功能: Fast Charging
+輸入電壓: 240 Volts
+安裝類型: Wall Mount
+安培: 3500 Milliamps
+查看更多",Compatible with Dell Precision 7710， Dell Precision 7720， Dell Precision 7730 ，Dell Precision 7510，Dell Precision 7520 ，Dell Precision 7530,https://www.amazon.com/-/zh_TW/LA240PM180/product-reviews/B07PPQYX3C/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+118,造訪 Dell 品牌旗艦店,"2021 戴爾全新 Inspiron 15 3000 薄型筆記型電腦,15.6 吋 FHD LED 顯示器,第 11 代 Intel Core i3-1115G4 處理器,8 GB DDR4 RAM,256 GB SSD,HDMI,網絡攝像頭,Windows 10 Home,B 黑色 (最新型號)",https://www.amazon.com/-/zh_TW/Inspiron-15-3000-%E8%96%84%E5%9E%8B%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-i3-1115G4/dp/B09F3TL5SD/ref=sr_1_80?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-80,372.0,No star,0,"品牌: Dell
+型號名稱: 全新 Inspiron 15 3000
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 256 GB
+CPU 型號: Core i3
+已安裝隨機存取記憶體大小: 8 GB
+查看更多","處理器:第 11 代 Intel Core i3-1115G4 處理器 (6MB 快取記憶體,最高 4.1 GHz)
+顯示卡: 含共用圖形記憶體的 Intel UHD 繪圖卡
+作業系統: Windows 10 Home 64-bit
+記憶體: 高達 36GB DDR4 SDRAM
+硬碟:高達 1TB PCIe NVMe M.2 固態硬碟
+光碟機:無
+顯示器:15.6 吋 FHD (1920 x 1080) 窄邊框顯示器
+螢幕解析度:1920 x 1080
+無線網路連線:802.11ac 1x1 WiFi 和藍牙
+音訊:立體聲揚聲器,2 W x 2 = 總 4 W
+鍵盤:非背光鍵盤,英語與數字鍵盤
+內置高清攝像頭:30 fps 高清攝像頭720p,單一集成麥克風
+連接埠:2 個 USB 3.2 Gen 1 Type-A 連接埠,1 個 USB 2.0 Gen 1 Type-A 連接埠,1 個耳機(耳機和麥克風組合) 連接埠,1 個 HDMI 連接埠,1 個電源轉換器連接埠,1 個 SD 讀卡機
+顏色:黑色
+尺寸 L x 寬 x 高 (英吋):14.26 x 9.98 x 0.78
+重量:4.09 磅 (1.78 公斤)",No review
+119,造訪 Amazon Renewed 品牌旗艦店,"DELL WD15 螢幕底座 4K 附 180W 轉接器,USB-C,(450-AEUO,7FJ4J,4W2HW)(翻新)']",https://www.amazon.com/-/zh_TW/DELL-USB-C-450-AEUO-7FJ4J-4W2HW/dp/B07JC1W1RM/ref=sr_1_81?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-81,27.84,4.2,835,"品牌: Dell
+顏色: 黑色
+硬體介面: USB 2.0
+相容裝置: Dell, USB C
+USB 連接埠總數: 5
+商品尺寸，長 x 寬 x 高: 10.9 x 15.5 x 2 公分
+連接埠數量: 6
+商品重量: 1.32 Kilograms
+查看更多","Dell 戴爾 WD15 螢幕底座 4K 附 180W 轉接器,USB-C,(450-AEUO,7FJ4J,4W2HW)(翻新)",https://www.amazon.com/-/zh_TW/DELL-USB-C-450-AEUO-7FJ4J-4W2HW/product-reviews/B07JC1W1RM/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+120,造訪 Dell 品牌旗艦店,"Dell Latitude 7000 7530 15.6"" Notebook - Full HD - 1920 x 1080 - Intel Core i5 12th Gen i5-1235U Deca-core (10 Core) 1.30 GHz - 8 GB Total RAM - 8 GB On-Board Memory - 256 GB SSD - Carbon Fiber - TAA",https://www.amazon.com/-/zh_TW/7530/dp/B0B795TZ2M/ref=sr_1_82?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-82,,No star,0,"品牌: Dell
+型號名稱: Latitude 7000
+螢幕尺寸: 15.6 Inches
+顏色: Carbon Fiber
+硬碟大小: 256 GB
+CPU 型號: Core i5
+已安裝隨機存取記憶體大小: 8 GB
+查看更多","Premium look. Premium options.
+Work confidently from anywhere on the world's smallest and lightest 15"" premium commercial laptop. More premium choices provide an amazing screen experience, intelligent performance, built-in security, and privacy.
+Features & Design | Operating system
+Available with Windows 11 Pro.
+The confidence to work anywhere | ExpressConnect
+Be on 2 networks at once with the world's first simultaneous multi-network connection for faster data and video downloads. Get up to 20% more in data transfer from optimized networking, 30% faster application data processing and 8 times better video quality from optimized internet bandwidth.",No review
+121,造訪 Dell 品牌旗艦店,"Dell Inspiron 15 3000 系列 3530 筆記型電腦,15.6 吋 FHD 觸控螢幕,第 13 代 Intel Core i7-1355U,32GB RAM,1TB PCIe SSD,網路攝影機,HDMI,Wi-Fi 6,Windows 11 家用,黑色",https://www.amazon.com/-/zh_TW/Inspiron-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-Intel-i7-1355U-Windows/dp/B0BN2DM7T5/ref=sr_1_83?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-83,,4.3,43,"品牌: Dell
+型號名稱: Inspiron 15 3530
+螢幕尺寸: 15.6 Inches
+顏色: 黑色
+硬碟大小: 1 TB
+CPU 型號: Core i7 Family
+已安裝隨機存取記憶體大小: 32 GB
+作業系統: Windows 11 Home
+查看更多","主要功能和優點: CPU:Intel Core i7-1255U 處理器(10 個核心、12 個執行緒、12 MB 快取記憶體、1.20 GHz 基本頻率、高達 4.70 GHz 最大渦輪頻率) 記憶體:高達 64GB DDR4 RAM 硬碟:高達 2TB PCIe 固態硬碟作業系統:Windows 11 家用顯示器:15.6 觸控螢幕防眩光LED背光 WVA FHD (19201080) 顯示觸控螢幕:有圖形:Intel Iris Xe 圖形數字鍵盤:有 連接埠:1USB 2.0 Type-A 2SuperSpeed USB Type-A 5Gbps 訊號速率1HDMI 1耳機/麥克風組合 媒體卡驅動程式:SD 讀卡機 無線連接:Intel Wi-Fi 6 2x2 (Gig+) 和藍牙 5.2 相機:72 在30上百分比fps HD 攝影機 單一整合式麥克風 麥克風:雙陣列麥克風 電池:3 芯 41 Wh,整合重量:3 磅顏色:碳黑色",https://www.amazon.com/-/zh_TW/Inspiron-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-Intel-i7-1355U-Windows/product-reviews/B0BN2DM7T5/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+122,造訪 Dell 品牌旗艦店,"戴爾 130W USB-C/USB Type C 替換交流適配器,適用於 Precision 5530 2in1,XPS 15 2in1 9575,DP/N 0M0H25/M0H25,0K00F5/K00F5,型號 DA130PM170,HA130PM170",https://www.amazon.com/-/zh_TW/%E6%9B%BF%E6%8F%9B%E4%BA%A4%E6%B5%81%E9%81%A9%E9%85%8D%E5%99%A8-Precision-0M0H25-DA130PM170-HA130PM170/dp/B07C6XTKQS/ref=sr_1_84?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-84,46.95,4.2,548,"品牌: Dell
+連線技術: USB
+連接器類型: USB Type C
+相容裝置: 筆記型電腦
+纜線長度: 3.2 Feet
+顏色: 黑色
+輸入電壓: 20 Volts
+安裝類型: 壁掛式
+查看更多","20V 6.5A 130W USB Type C 0K00F5 AC 變壓器,適用於 Dell XPS 15 9575 2 合 1 4K 觸控螢幕筆記型電腦型號:XPS9575-7354BLK-PUS 相容於 P/N:0K00F5,K00F5、Dell 130W USB C 轉接器",https://www.amazon.com/-/zh_TW/%E6%9B%BF%E6%8F%9B%E4%BA%A4%E6%B5%81%E9%81%A9%E9%85%8D%E5%99%A8-Precision-0M0H25-DA130PM170-HA130PM170/product-reviews/B07C6XTKQS/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+123,造訪 Dell 品牌旗艦店,"Dell Premier 協作鍵盤 – KB900,無線 2.4GHz,藍牙 5.1,可充電,麥克風開/關,視頻開/關,聊天,屏幕共享,背光開/關,剪刀鍵,傾斜調整 - 石墨色",https://www.amazon.com/-/zh_TW/KB900/dp/B0BXC46B1Y/ref=sr_1_85?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-85,99.99,4.0,6,"品牌: Dell
+連線技術: 2.4 GHz,藍牙 5.1
+鍵盤描述: 多媒體
+特殊功能: 背光, 可充电
+顏色: 石墨
+樣式: 現代
+商品尺寸，長 x 寬 x 高: 12.2 x 43.9 x 2 公分
+查看更多",,https://www.amazon.com/-/zh_TW/KB900/product-reviews/B0BXC46B1Y/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+124,造訪 Dell 品牌旗艦店,"Dell 2023 Inspiron 14 商用筆記型電腦,14 吋 FHD 顯示器,AMD Ryzen 7 5825U(Beats i7-1185G7),背光鍵盤,HDMI,USB-C,BT,WiFi,Windows 11 Pro,卵石綠(16G RAM | 1TB SSD)",https://www.amazon.com/-/zh_TW/Inspiron-%E5%95%86%E7%94%A8%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-Ryzen-i7-1185G7-Windows/dp/B0CDZW9ZLV/ref=sr_1_86?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-86,699.0,4.0,1 評級,"品牌: Dell
+型號名稱: Inspiron 14 5425
+螢幕尺寸: 14 Inches
+硬碟大小: 1 TB
+CPU 型號: AMD Ryzen 7
+已安裝隨機存取記憶體大小: 16 GB
+作業系統: win
+顯示卡描述: 整合
+查看更多","產品概述:
+使用 14 吋 Dell Inspiron 筆記型電腦,配備 FHD+ 顯示器,提升您的效率。 這款筆記型電腦由 Ryzen 5000 系列的 AMD Ryzen 7 5825U 處理器供電,並由 DDR4 RAM 支援,確保一致可靠的效能。 SSD 將豐富的儲存裝置與快速開機無縫結合,進一步增強其功能。 使用 HDMI 和 SD 讀卡機等基本連接埠,保持連線和生產力。 使用整合式立體聲喇叭讓自己沉浸在高品質的音訊中。
+產品詳細資訊:
+處理器:
+AMD Ryzen 5000 系列八核心 Ryzen 7 5825U 處理器(基本時脈 2.0GHz,最大加速時脈高達 4.5GHz,16MB L3 快取記憶體,16 個執行緒)
+記憶體:
+16GB RAM
+儲存空間:
+1TB PCIe NVMe M.2 固態硬碟
+作業系統:
+Microsoft Windows 11 Pro
+圖形與影片:
+整合式 AMD Radeon 顯示卡
+14 吋 FHD+(1920 x 1200) WVA 防眩光ComfortView 顯示器
+主要特色:
+藍牙:是
+背光鍵盤:是
+指紋:否
+光碟機: 否
+相機:是
+多格式 SD 媒體讀卡器:是
+連接埠:
+2 個 USB-A 3.2、1 個 USB-C 3.2(電源傳輸、DisplayPort)、1 個 HDMI 1.4、1 個 SD 卡插槽、1 個耳機和麥克風插孔
+電池:
+3 芯 54Wh
+其他資訊:
+尺寸:9 英吋 x 12.4 英吋 x 0.7 英吋
+重量:1.5 公斤",No review
+125,造訪 Dell 品牌旗艦店,Dell 戴爾 65 瓦 AC 變壓器,https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-65-AC-%E8%AE%8A%E5%A3%93%E5%99%A8/dp/B0163TTCL4/ref=sr_1_87?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-87,19.8,4.5,2043,,相容電腦型號:Inspiron 13 5000 系列 - 5370 Inspiron 14 5000 系列 - 5488 Inspiron 14 5000 系列 2 合 1 - 5482 Inspiron 14 5000 系列 - 5480 Inspiron 15 - 7572 Inspiron 14 30000000000 0 系列 - 3 系列 - 480 Inspiron 15 3000 系列 - 3583 Inspiron 15 5000 系列 - 5580 Inspiron 15 7000 系列 - 7580 Inspiron 15 7000 系列 - 7570 Inspiron 14 7000 系列 - 7472 Latitude 349 0 Vostro 3 0 480 Vostro 3583 Vostro 5370 Vostro 5471 Vostro 5481 Vostro 5568 Vostro 5581 Inspiron 22 3000 系列 AIO-3277 Ins,https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-65-AC-%E8%AE%8A%E5%A3%93%E5%99%A8/product-reviews/B0163TTCL4/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+126,造訪 Amazon Renewed 品牌旗艦店,"Dell Desktop Computers OptiPlex 3040 PC,Intel Core i7-6700 3.4GHz,16GB Ram New 512GB SSD, Intel AC7260 Built-in WiFi Bluetooth,HDMI, Refurbished Desktop Computer,Computadora Windows 10 Pro(Renewed)",https://www.amazon.com/-/zh_TW/OptiPlex-3040/dp/B0C7GHJ7BT/ref=sr_1_88?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-88,219.99,5.0,1 評級,"產品特定用途: Business
+品牌: Dell
+個人電腦設計類型: Computer Tower
+作業系統: Windows 10 Pro
+記憶體儲存容量: 512 GB
+已安裝隨機存取記憶體大小: 16 GB
+型號名稱: OptiPlex 3040 small form factor pc
+包含的元件: Mouse
+查看更多","Dell OptiPlex 3040 Desktop Computers Description:
+
+At the heart of this powerhouse lies the Intel Core i7-6700 processor, running at 3.4GHz on this refurbished desktop computer. This dell optiplex desktop computer features a generous 16GB of RAM and brand new 512GB solid-state drive (SSD), with its lightning-fast read and write speeds, the SSD ensures quick boot times and snappy responsiveness. You'll have plenty of storage space for all your files, documents, media, and applications on this desktop computer
+
+This dell desktop with the built-in Intel AC7260 Wi-Fi and Bluetooth module. Say goodbye to tangled cables and enjoy the freedom of wireless connectivity.Plus, this dell desktop computer comes pre-installed with Windows 10 Pro, providing a familiar and reliable operating system.
+
+Dell OptiPlex 3040 Desktop Computers i7 Specifications
+
+Processor: Intel Quad Core i7-6700 6th Generation
+
+Base CPU frequency: 3.4GHz
+
+Max Turbo CPU frequency : 4.0GHz
+
+CPU Cache: 8 MB, 4 cores, 8 threads
+
+Ram installed: 16GB
+
+Max Supported Memory: 16GB
+
+Video Ports: 1 x HDMI, 1 x Display Port
+
+USB 3.0 Ports: 4
+
+USB 2.0 Ports: 4
+
+Ethernet: RJ-45
+
+Wireless Connectivity: High Speed AC1200 Built-in WIFI card installed
+
+Optical Drive: DVDROM
+
+Item Dimension : 11.4 x 3.6 x 12.3 inch
+
+Item Weight: 15 lbs
+
+Operating System: Windows 10 Pro 64-bit
+
+What you will get?
+
+1 x dell refurbished desktop
+
+1 x Hight Quality Altec Wireless keyboard and mouse
+
+90 Days Warranty Technical Support",No review
+127,造訪 Dell 品牌旗艦店,Dell 戴爾 Dock - WD19S 130W 電源供應器 - 180W AC,https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-Dock-WD19S-%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8/dp/B09126B8HZ/ref=sr_1_89?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-89,160.0,4.2,466,,,https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-Dock-WD19S-%E9%9B%BB%E6%BA%90%E4%BE%9B%E6%87%89%E5%99%A8/product-reviews/B09126B8HZ/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+128,造訪 Dell 品牌旗艦店,Dell DA310 有線 USB 3.2 Gen 2 (3.1 Gen 2) Type-C 銀色,https://www.amazon.com/-/zh_TW/Dell-DA310-USB-3-2-Type-C/dp/B08VHB4VGK/ref=sr_1_90?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-90,71.87,4.4,333,"相容裝置: 手機
+連接器類型: USB Type C
+連接器性別: 公對公
+顏色: 黑色
+商品尺寸，長 x 寬 x 高: 7 x 7 x 2.5 公分",ComputUTER_COMPONENT USB DA310,https://www.amazon.com/-/zh_TW/Dell-DA310-USB-3-2-Type-C/product-reviews/B08VHB4VGK/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+129,造訪 Dell 品牌旗艦店,"Dell 戴爾 22 螢幕 - P222H - Full HD 1080p ,IPS 技術",https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-22-%E8%9E%A2%E5%B9%95-P222H/dp/B096W3MV83/ref=sr_1_91?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-91,159.99,4.4,234,"螢幕尺寸: 22
+顯示器解析度上限: 1920x1080
+品牌: Dell
+特殊功能: 120hz 螢幕
+更新率: 120.",,https://www.amazon.com/-/zh_TW/Dell-%E6%88%B4%E7%88%BE-22-%E8%9E%A2%E5%B9%95-P222H/product-reviews/B096W3MV83/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+130,造訪 Dell 品牌旗艦店,"Dell Premier Rechargeable Active Pen - PN7522W, 3-Buttons, LED Indicator, Cone-Shaped Nib, Wireless - Bluetooth 5.1 - Black",https://www.amazon.com/-/zh_TW/PN7522W/dp/B0BL8LNVM7/ref=sr_1_92?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-92,79.99,4.0,11,"顏色: Black
+品牌: Dell
+材料: Aluminum
+電池數量: 1 Product Specific 需要電池。 (已含)
+商品重量: 14 公克
+相容裝置: Smartphone
+商品尺寸，長 x 寬 x 高: 15.5 x 1 x 15.5 公分
+是否包含電池: 是
+查看更多","Dell Premier Rechargeable Active Pen - PN7522W, 3-Buttons, LED indicator, Cone-shaped Nib, Wireless - Bluetooth 5.1 - Black",https://www.amazon.com/-/zh_TW/PN7522W/product-reviews/B0BL8LNVM7/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+131,造訪 Dell 品牌旗艦店,"Inspiron 16 Plus 7620 筆記型電腦 - 16 吋 16:10 3K (3072x1920) 顯示器,Core i7-12700H,16GB DDR5 RAM,512GB SSD,NVIDIA RTX 3050 圖形,Dolby Atomos 和 Waves MaxxAudio Pro、Win 11 Pro、Atlantic",https://www.amazon.com/-/zh_TW/Inspiron-Plus-7620-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-Pro%E3%80%81Atlantic/dp/B0B5GHGS28/ref=sr_1_93?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-93,979.0,3.8,11,"品牌: Dell
+型號名稱: Inspiron 16 Plus 7000
+螢幕尺寸: 16 Inches
+顏色: 大西洋
+硬碟大小: 512 GB
+CPU 型號: Core i7
+已安裝隨機存取記憶體大小: 16 GB
+查看更多",,https://www.amazon.com/-/zh_TW/Inspiron-Plus-7620-%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6-Pro%E3%80%81Atlantic/product-reviews/B0B5GHGS28/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+132,造訪 Dell 品牌旗艦店,Genuine Original DELL 65W 19.5V 3.34A AC Power Supply Adapter Charger with Cable,https://www.amazon.com/-/zh_TW/LA65NS2-01/dp/B00K16HRAE/ref=sr_1_94?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-94,15.5,4.4,60,"品牌: Dell
+連接器類型: barrel connector
+相容裝置: Laptops
+相容的手機型號:
+15z (1570) Latitude XT3 Latitude ST Vostro 2420 Vostro 2520 13z (5323) 14z (5423) 14R (5420) 15R (5520) 1… 查看更多
+特殊功能: Travel
+查看更多",,https://www.amazon.com/-/zh_TW/LA65NS2-01/product-reviews/B00K16HRAE/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+133,造訪 Dell 品牌旗艦店,Dell Latitude 7320 Detachable Travel Keyboard,https://www.amazon.com/-/zh_TW/K19M-BK-US/dp/B09GXJS5BR/ref=sr_1_95?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-95,161.99,4.8,10,"品牌: Dell
+相容裝置: Laptop
+連線技術: Pogo Pin
+鍵盤描述: Cable
+特殊功能: Spill Resistant, Brightness Control, Slim
+顏色: Light Apollo
+鍵數: 104
+查看更多","Premium quality. Luxurious design.
+Wrapped in faux suede and made of premium aluminum, the Dell Latitude 7320 Detachable Travel Keyboard offers sturdy typing on the go. Move around the workplace effortlessly, and then attach the keyboard quickly when you need to type. The magnetic hinge lets you detach or snap easily onto the 7320 detachable for seamless productivity on the go to work in tablet or laptop mode or even flat. This Dell Latitude 7320 Detachable Travel Keyboard has a sturdy and professional design that matches the Latitude 7320 detachable perfectly.
+Type naturally and comfortably
+The chiclet keyboard provides plenty of space around each key to deliver an accurate typing experience, and each key press registers precisely to maximize your productivity.Convenience at handSecurely snap the optional Dell Active Pen - PN7320A (solid separately) into the magnetic garage of the keyboard to recharge it and ensure that you never lose it.
+Work smarter and faster
+Work late into the evening thanks to powerful backlighting that highlights the keys for easy visibility. Spill resistance keeps it safe from food and drink, and a smooth gesture glass clickpad lets you navigate around without ever having to touch the screen.
+Super-slim design
+The ultra-low 0.2-inch profile takes up absolutely minimal space so that you can fit more of what's important into your bag.
+Control multimedia effortlessly
+Use the on-keyboard volume control function keys to get plenty of sound or skip tracks, and change the brightness as needed. A variety of multimedia keys provide complete control over your 7320 Detachable Travel Keyboard.",No review
+134,造訪 Dell 品牌旗艦店,"Dell OptiPlex 7000 微型外型規格迷你商務桌上型,Intel Core i5-10500T 處理器,32GB RAM,1TB PCIe SSD,HDMI,2X DisplayPort,USB Type-C,RJ45,Wi-Fi 6,Windows 11 Pro,黑色",https://www.amazon.com/-/zh_TW/OptiPlex-7000-%E5%BE%AE%E5%9E%8B%E5%A4%96%E5%9E%8B%E8%A6%8F%E6%A0%BC%E8%BF%B7%E4%BD%A0%E5%95%86%E5%8B%99%E6%A1%8C%E4%B8%8A%E5%9E%8B-i5-10500T-DisplayPort/dp/B0C1DZ9HSP/ref=sr_1_96?keywords=dell&qid=1697092426&refinements=p_89%3Adell&s=electronics&sr=1-96,729.99,4.2,26,"產品特定用途: 商務
+品牌: Dell
+作業系統: Windows 11 Pro
+記憶體儲存容量: 1 TB
+已安裝隨機存取記憶體大小: 32 GB
+型號名稱: OptiPlex
+包含的元件: 鍵盤
+查看更多",處理器:Intel Core i5-10500T 處理器 (6 核心、12 個執行緒、12MB L3 快取記憶體、2.30GHz 的基本頻率、最高 3.80GHz、最高渦輪頻率高達 3.80GHz) 作業系統:Windows 11 Pro 64 位元英文視訊卡:Intel UHD 圖形記憶體:32GB DDR4 SDRAM 硬碟尺寸:1TB PCIe 固態硬碟 滑鼠: 不包括(&I): 光碟機:無 WLAN + 藍牙:Wi-Fi 6 + 藍牙 SSD 插槽:1 個 M.2 2280 PCIe (使用中)、1 個 M.2 2280 PCIe (可用) 前置連接埠:1 個電源按鈕 1 個通用音訊插孔 1 個輸出線 1 個 USB 3.2 Gen2 Type-C 連接埠 1 個 USB 3.2 Gen2 Type-A 連接埠 ( 與權力共享 ) )後端口:1 個 RJ45 2 個 USB 3.2 Gen 1 Type-A 端口(1 個帶智能電源)2 個 USB 3.2 Gen 2 Type-A 連接埠 1 個 肯辛頓鎖插槽 1 個 DisplayPort 1.4 個 HDMI 連接埠 1 x 電源連接 (DC-in)尺寸:7 x 3.6 重量:起始於 厘米 重量: 3 磅(約 1.3 公斤)顏色:黑色,https://www.amazon.com/-/zh_TW/OptiPlex-7000-%E5%BE%AE%E5%9E%8B%E5%A4%96%E5%9E%8B%E8%A6%8F%E6%A0%BC%E8%BF%B7%E4%BD%A0%E5%95%86%E5%8B%99%E6%A1%8C%E4%B8%8A%E5%9E%8B-i5-10500T-DisplayPort/product-reviews/B0C1DZ9HSP/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
